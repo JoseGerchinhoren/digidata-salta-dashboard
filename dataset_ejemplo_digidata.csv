@@ -1,0 +1,2002 @@
+idVenta,fecha,hora,sucursal,producto,precioU,cantidad,importe,metodoPago,usuario
+0,01/01/2022,18:17,sucursal 2,producto 5,2000,1,2000,otro,usuario 2
+1,02/01/2022,10:07,sucursal 3,producto 6,3500,2,7000,tarjeta de debito,usuario 1
+2,03/01/2022,17:51,sucursal 1,producto 7,1800,5,9000,codigo QR,usuario 5
+3,04/01/2022,13:56,sucursal 2,producto 7,1800,1,1800,tarjeta de credito,usuario 1
+4,05/01/2022,16:07,sucursal 3,producto 3,1500,1,1500,otro,usuario 5
+5,06/01/2022,17:16,sucursal 1,producto 3,1500,1,1500,tarjeta de debito,usuario 3
+6,07/01/2022,18:49,sucursal 1,producto 2,2500,5,12500,efectivo,usuario 1
+7,08/01/2022,18:59,sucursal 2,producto 10,4000,3,12000,codigo QR,usuario 2
+8,09/01/2022,21:14,sucursal 3,producto 9,2200,3,6600,tarjeta de credito,usuario 1
+9,10/01/2022,12:56,sucursal 2,producto 3,1500,4,6000,tarjeta de credito,usuario 2
+10,11/01/2022,21:25,sucursal 3,producto 5,2000,5,10000,tarjeta de credito,usuario 3
+11,12/01/2022,20:37,sucursal 3,producto 10,4000,5,20000,efectivo,usuario 3
+12,13/01/2022,17:00,sucursal 1,producto 3,1500,2,3000,codigo QR,usuario 1
+13,14/01/2022,11:19,sucursal 1,producto 3,1500,1,1500,tarjeta de credito,usuario 3
+14,15/01/2022,12:06,sucursal 3,producto 4,3000,1,3000,efectivo,usuario 4
+15,16/01/2022,18:37,sucursal 1,producto 10,4000,2,8000,transferencia,usuario 4
+16,17/01/2022,14:36,sucursal 3,producto 9,2200,5,11000,tarjeta de debito,usuario 2
+17,18/01/2022,09:03,sucursal 1,producto 9,2200,2,4400,tarjeta de debito,usuario 4
+18,19/01/2022,15:08,sucursal 2,producto 3,1500,1,1500,otro,usuario 4
+19,20/01/2022,16:58,sucursal 1,producto 3,1500,1,1500,transferencia,usuario 3
+20,21/01/2022,18:04,sucursal 1,producto 6,3500,5,17500,tarjeta de debito,usuario 5
+21,22/01/2022,11:22,sucursal 3,producto 4,3000,5,15000,tarjeta de debito,usuario 2
+22,23/01/2022,15:09,sucursal 1,producto 9,2200,3,6600,otro,usuario 2
+23,24/01/2022,21:01,sucursal 2,producto 5,2000,1,2000,otro,usuario 4
+24,25/01/2022,14:27,sucursal 2,producto 7,1800,5,9000,codigo QR,usuario 2
+25,26/01/2022,16:04,sucursal 2,producto 1,1000,2,2000,codigo QR,usuario 3
+26,27/01/2022,12:10,sucursal 3,producto 10,4000,2,8000,tarjeta de debito,usuario 1
+27,28/01/2022,14:35,sucursal 1,producto 4,3000,2,6000,otro,usuario 4
+28,29/01/2022,20:08,sucursal 1,producto 5,2000,3,6000,codigo QR,usuario 2
+29,30/01/2022,15:57,sucursal 1,producto 9,2200,3,6600,otro,usuario 5
+30,31/01/2022,10:44,sucursal 1,producto 4,3000,1,3000,codigo QR,usuario 5
+31,01/02/2022,22:03,sucursal 3,producto 1,1000,1,1000,efectivo,usuario 5
+32,02/02/2022,14:05,sucursal 3,producto 3,1500,2,3000,efectivo,usuario 5
+33,03/02/2022,09:10,sucursal 2,producto 5,2000,4,8000,codigo QR,usuario 1
+34,04/02/2022,11:09,sucursal 3,producto 10,4000,5,20000,tarjeta de credito,usuario 1
+35,05/02/2022,22:21,sucursal 3,producto 7,1800,3,5400,codigo QR,usuario 4
+36,06/02/2022,17:08,sucursal 2,producto 2,2500,2,5000,efectivo,usuario 4
+37,07/02/2022,12:56,sucursal 3,producto 8,2700,1,2700,transferencia,usuario 4
+38,08/02/2022,15:59,sucursal 1,producto 8,2700,2,5400,transferencia,usuario 3
+39,09/02/2022,19:57,sucursal 2,producto 5,2000,5,10000,codigo QR,usuario 1
+40,10/02/2022,11:47,sucursal 3,producto 4,3000,2,6000,codigo QR,usuario 5
+41,11/02/2022,11:58,sucursal 3,producto 5,2000,5,10000,efectivo,usuario 4
+42,12/02/2022,17:33,sucursal 2,producto 4,3000,5,15000,transferencia,usuario 1
+43,13/02/2022,14:10,sucursal 2,producto 7,1800,4,7200,efectivo,usuario 1
+44,14/02/2022,22:37,sucursal 1,producto 8,2700,5,13500,tarjeta de credito,usuario 5
+45,15/02/2022,12:03,sucursal 2,producto 1,1000,4,4000,tarjeta de credito,usuario 5
+46,16/02/2022,13:48,sucursal 3,producto 5,2000,1,2000,transferencia,usuario 2
+47,17/02/2022,16:08,sucursal 3,producto 4,3000,2,6000,otro,usuario 5
+48,18/02/2022,21:44,sucursal 1,producto 1,1000,3,3000,tarjeta de credito,usuario 5
+49,19/02/2022,18:16,sucursal 1,producto 5,2000,3,6000,codigo QR,usuario 5
+50,20/02/2022,22:30,sucursal 2,producto 1,1000,2,2000,tarjeta de credito,usuario 5
+51,21/02/2022,11:13,sucursal 3,producto 8,2700,5,13500,otro,usuario 2
+52,22/02/2022,12:31,sucursal 1,producto 3,1500,4,6000,tarjeta de debito,usuario 1
+53,23/02/2022,16:52,sucursal 3,producto 9,2200,2,4400,otro,usuario 5
+54,24/02/2022,13:01,sucursal 3,producto 6,3500,4,14000,tarjeta de credito,usuario 5
+55,25/02/2022,10:10,sucursal 1,producto 10,4000,2,8000,tarjeta de debito,usuario 3
+56,26/02/2022,16:23,sucursal 1,producto 7,1800,2,3600,tarjeta de debito,usuario 4
+57,27/02/2022,20:01,sucursal 1,producto 6,3500,5,17500,otro,usuario 5
+58,28/02/2022,10:23,sucursal 3,producto 1,1000,4,4000,tarjeta de credito,usuario 2
+59,01/03/2022,09:57,sucursal 1,producto 10,4000,3,12000,codigo QR,usuario 3
+60,02/03/2022,12:20,sucursal 2,producto 3,1500,5,7500,tarjeta de credito,usuario 3
+61,03/03/2022,12:45,sucursal 1,producto 3,1500,4,6000,otro,usuario 1
+62,04/03/2022,19:18,sucursal 2,producto 7,1800,3,5400,efectivo,usuario 3
+63,05/03/2022,19:10,sucursal 2,producto 10,4000,3,12000,codigo QR,usuario 2
+64,06/03/2022,22:53,sucursal 1,producto 2,2500,4,10000,otro,usuario 3
+65,07/03/2022,18:44,sucursal 3,producto 2,2500,1,2500,otro,usuario 3
+66,08/03/2022,15:04,sucursal 2,producto 3,1500,5,7500,efectivo,usuario 4
+67,09/03/2022,16:25,sucursal 1,producto 6,3500,3,10500,tarjeta de credito,usuario 5
+68,10/03/2022,22:11,sucursal 1,producto 1,1000,5,5000,transferencia,usuario 5
+69,11/03/2022,15:46,sucursal 1,producto 4,3000,4,12000,otro,usuario 1
+70,12/03/2022,09:03,sucursal 2,producto 9,2200,3,6600,efectivo,usuario 2
+71,13/03/2022,09:55,sucursal 3,producto 4,3000,5,15000,codigo QR,usuario 2
+72,14/03/2022,20:15,sucursal 1,producto 4,3000,1,3000,efectivo,usuario 3
+73,15/03/2022,17:46,sucursal 1,producto 1,1000,5,5000,tarjeta de debito,usuario 2
+74,16/03/2022,20:58,sucursal 2,producto 8,2700,1,2700,tarjeta de debito,usuario 3
+75,17/03/2022,09:35,sucursal 1,producto 8,2700,5,13500,tarjeta de credito,usuario 4
+76,18/03/2022,10:05,sucursal 1,producto 4,3000,5,15000,tarjeta de credito,usuario 4
+77,19/03/2022,21:42,sucursal 1,producto 1,1000,1,1000,efectivo,usuario 1
+78,20/03/2022,20:21,sucursal 3,producto 4,3000,4,12000,transferencia,usuario 3
+79,21/03/2022,11:37,sucursal 1,producto 1,1000,2,2000,efectivo,usuario 3
+80,22/03/2022,20:21,sucursal 3,producto 4,3000,5,15000,codigo QR,usuario 2
+81,23/03/2022,09:01,sucursal 3,producto 4,3000,2,6000,efectivo,usuario 5
+82,24/03/2022,20:22,sucursal 2,producto 6,3500,5,17500,codigo QR,usuario 3
+83,25/03/2022,16:07,sucursal 2,producto 10,4000,1,4000,transferencia,usuario 5
+84,26/03/2022,14:17,sucursal 1,producto 10,4000,5,20000,tarjeta de credito,usuario 5
+85,27/03/2022,13:54,sucursal 3,producto 7,1800,5,9000,otro,usuario 5
+86,28/03/2022,18:13,sucursal 1,producto 6,3500,1,3500,transferencia,usuario 2
+87,29/03/2022,22:02,sucursal 2,producto 9,2200,2,4400,transferencia,usuario 4
+88,30/03/2022,12:10,sucursal 3,producto 2,2500,2,5000,otro,usuario 4
+89,31/03/2022,21:03,sucursal 2,producto 10,4000,1,4000,tarjeta de debito,usuario 3
+90,01/04/2022,20:55,sucursal 3,producto 6,3500,5,17500,codigo QR,usuario 2
+91,02/04/2022,14:16,sucursal 3,producto 4,3000,3,9000,efectivo,usuario 3
+92,03/04/2022,14:17,sucursal 1,producto 10,4000,4,16000,tarjeta de credito,usuario 1
+93,04/04/2022,18:58,sucursal 3,producto 9,2200,2,4400,tarjeta de debito,usuario 4
+94,05/04/2022,14:52,sucursal 3,producto 6,3500,3,10500,transferencia,usuario 2
+95,06/04/2022,18:51,sucursal 2,producto 7,1800,4,7200,tarjeta de debito,usuario 2
+96,07/04/2022,16:25,sucursal 3,producto 2,2500,1,2500,tarjeta de debito,usuario 1
+97,08/04/2022,14:58,sucursal 3,producto 10,4000,5,20000,transferencia,usuario 3
+98,09/04/2022,10:43,sucursal 3,producto 10,4000,1,4000,codigo QR,usuario 2
+99,10/04/2022,12:36,sucursal 2,producto 10,4000,5,20000,transferencia,usuario 5
+100,11/04/2022,16:08,sucursal 1,producto 2,2500,5,12500,codigo QR,usuario 5
+101,12/04/2022,20:02,sucursal 2,producto 4,3000,5,15000,transferencia,usuario 3
+102,13/04/2022,15:43,sucursal 1,producto 6,3500,3,10500,efectivo,usuario 1
+103,14/04/2022,13:30,sucursal 3,producto 9,2200,4,8800,tarjeta de debito,usuario 1
+104,15/04/2022,21:02,sucursal 3,producto 1,1000,2,2000,efectivo,usuario 2
+105,16/04/2022,10:12,sucursal 2,producto 8,2700,1,2700,efectivo,usuario 5
+106,17/04/2022,19:35,sucursal 3,producto 6,3500,5,17500,codigo QR,usuario 2
+107,18/04/2022,12:19,sucursal 3,producto 8,2700,4,10800,codigo QR,usuario 3
+108,19/04/2022,22:26,sucursal 1,producto 10,4000,3,12000,otro,usuario 2
+109,20/04/2022,11:30,sucursal 3,producto 10,4000,1,4000,codigo QR,usuario 3
+110,21/04/2022,10:50,sucursal 3,producto 9,2200,1,2200,tarjeta de credito,usuario 5
+111,22/04/2022,17:03,sucursal 1,producto 8,2700,2,5400,efectivo,usuario 2
+112,23/04/2022,15:19,sucursal 1,producto 7,1800,2,3600,tarjeta de credito,usuario 4
+113,24/04/2022,10:19,sucursal 3,producto 10,4000,1,4000,tarjeta de debito,usuario 1
+114,25/04/2022,18:50,sucursal 3,producto 3,1500,2,3000,transferencia,usuario 5
+115,26/04/2022,13:07,sucursal 3,producto 2,2500,2,5000,tarjeta de debito,usuario 2
+116,27/04/2022,22:21,sucursal 3,producto 4,3000,1,3000,efectivo,usuario 4
+117,28/04/2022,17:16,sucursal 2,producto 1,1000,5,5000,tarjeta de credito,usuario 4
+118,29/04/2022,19:36,sucursal 1,producto 9,2200,5,11000,codigo QR,usuario 2
+119,30/04/2022,15:23,sucursal 2,producto 9,2200,5,11000,tarjeta de credito,usuario 4
+120,01/05/2022,20:10,sucursal 1,producto 5,2000,5,10000,otro,usuario 2
+121,02/05/2022,15:32,sucursal 1,producto 9,2200,1,2200,otro,usuario 2
+122,03/05/2022,21:01,sucursal 2,producto 1,1000,5,5000,transferencia,usuario 1
+123,04/05/2022,15:07,sucursal 2,producto 5,2000,3,6000,otro,usuario 1
+124,05/05/2022,14:54,sucursal 3,producto 1,1000,1,1000,tarjeta de credito,usuario 5
+125,06/05/2022,17:47,sucursal 1,producto 7,1800,5,9000,tarjeta de credito,usuario 5
+126,07/05/2022,22:42,sucursal 3,producto 9,2200,1,2200,efectivo,usuario 1
+127,08/05/2022,17:36,sucursal 1,producto 1,1000,4,4000,tarjeta de credito,usuario 2
+128,09/05/2022,10:12,sucursal 3,producto 7,1800,3,5400,transferencia,usuario 4
+129,10/05/2022,11:13,sucursal 2,producto 7,1800,4,7200,efectivo,usuario 1
+130,11/05/2022,19:53,sucursal 2,producto 9,2200,4,8800,codigo QR,usuario 4
+131,12/05/2022,16:39,sucursal 2,producto 6,3500,4,14000,tarjeta de credito,usuario 1
+132,13/05/2022,20:49,sucursal 2,producto 5,2000,3,6000,codigo QR,usuario 4
+133,14/05/2022,11:25,sucursal 1,producto 3,1500,2,3000,tarjeta de credito,usuario 2
+134,15/05/2022,17:03,sucursal 2,producto 10,4000,4,16000,tarjeta de debito,usuario 1
+135,16/05/2022,09:36,sucursal 1,producto 8,2700,2,5400,efectivo,usuario 1
+136,17/05/2022,16:06,sucursal 3,producto 8,2700,1,2700,efectivo,usuario 5
+137,18/05/2022,22:25,sucursal 3,producto 3,1500,2,3000,tarjeta de debito,usuario 5
+138,19/05/2022,17:32,sucursal 3,producto 10,4000,4,16000,codigo QR,usuario 3
+139,20/05/2022,11:36,sucursal 2,producto 2,2500,2,5000,codigo QR,usuario 4
+140,21/05/2022,11:47,sucursal 3,producto 2,2500,4,10000,tarjeta de credito,usuario 5
+141,22/05/2022,21:01,sucursal 1,producto 4,3000,3,9000,tarjeta de debito,usuario 2
+142,23/05/2022,14:50,sucursal 2,producto 6,3500,4,14000,tarjeta de credito,usuario 5
+143,24/05/2022,15:45,sucursal 3,producto 4,3000,3,9000,codigo QR,usuario 5
+144,25/05/2022,20:57,sucursal 2,producto 9,2200,2,4400,codigo QR,usuario 4
+145,26/05/2022,21:56,sucursal 2,producto 2,2500,1,2500,tarjeta de credito,usuario 5
+146,27/05/2022,18:43,sucursal 1,producto 8,2700,2,5400,codigo QR,usuario 4
+147,28/05/2022,17:19,sucursal 1,producto 2,2500,2,5000,tarjeta de credito,usuario 1
+148,29/05/2022,17:47,sucursal 3,producto 2,2500,5,12500,transferencia,usuario 5
+149,30/05/2022,11:05,sucursal 3,producto 8,2700,3,8100,efectivo,usuario 3
+150,31/05/2022,12:23,sucursal 1,producto 2,2500,1,2500,transferencia,usuario 2
+151,01/06/2022,09:17,sucursal 3,producto 6,3500,3,10500,tarjeta de debito,usuario 1
+152,02/06/2022,11:24,sucursal 3,producto 2,2500,2,5000,efectivo,usuario 2
+153,03/06/2022,21:55,sucursal 2,producto 7,1800,1,1800,tarjeta de debito,usuario 4
+154,04/06/2022,11:22,sucursal 1,producto 3,1500,2,3000,tarjeta de credito,usuario 1
+155,05/06/2022,17:23,sucursal 1,producto 9,2200,5,11000,efectivo,usuario 2
+156,06/06/2022,12:31,sucursal 2,producto 5,2000,2,4000,tarjeta de debito,usuario 5
+157,07/06/2022,10:09,sucursal 2,producto 3,1500,5,7500,codigo QR,usuario 4
+158,08/06/2022,20:36,sucursal 1,producto 9,2200,1,2200,tarjeta de credito,usuario 2
+159,09/06/2022,19:17,sucursal 3,producto 8,2700,3,8100,transferencia,usuario 3
+160,10/06/2022,20:35,sucursal 2,producto 8,2700,2,5400,tarjeta de credito,usuario 5
+161,11/06/2022,16:46,sucursal 1,producto 8,2700,1,2700,tarjeta de credito,usuario 1
+162,12/06/2022,16:06,sucursal 1,producto 10,4000,5,20000,codigo QR,usuario 2
+163,13/06/2022,13:44,sucursal 2,producto 5,2000,3,6000,tarjeta de debito,usuario 4
+164,14/06/2022,18:37,sucursal 2,producto 9,2200,3,6600,efectivo,usuario 5
+165,15/06/2022,09:45,sucursal 3,producto 2,2500,3,7500,efectivo,usuario 5
+166,16/06/2022,10:57,sucursal 3,producto 4,3000,5,15000,efectivo,usuario 4
+167,17/06/2022,11:47,sucursal 1,producto 2,2500,4,10000,tarjeta de credito,usuario 2
+168,18/06/2022,16:44,sucursal 2,producto 3,1500,2,3000,tarjeta de credito,usuario 4
+169,19/06/2022,21:13,sucursal 1,producto 3,1500,4,6000,codigo QR,usuario 5
+170,20/06/2022,18:57,sucursal 3,producto 10,4000,2,8000,transferencia,usuario 3
+171,21/06/2022,16:33,sucursal 1,producto 4,3000,2,6000,tarjeta de credito,usuario 5
+172,22/06/2022,19:47,sucursal 3,producto 8,2700,1,2700,efectivo,usuario 1
+173,23/06/2022,10:14,sucursal 1,producto 3,1500,3,4500,tarjeta de credito,usuario 4
+174,24/06/2022,18:45,sucursal 1,producto 10,4000,1,4000,tarjeta de credito,usuario 3
+175,25/06/2022,18:44,sucursal 3,producto 5,2000,2,4000,tarjeta de credito,usuario 1
+176,26/06/2022,12:20,sucursal 3,producto 10,4000,1,4000,tarjeta de debito,usuario 4
+177,27/06/2022,21:48,sucursal 2,producto 9,2200,3,6600,tarjeta de credito,usuario 4
+178,28/06/2022,20:15,sucursal 1,producto 6,3500,1,3500,tarjeta de debito,usuario 5
+179,29/06/2022,09:49,sucursal 2,producto 2,2500,5,12500,otro,usuario 2
+180,30/06/2022,16:18,sucursal 2,producto 4,3000,4,12000,tarjeta de credito,usuario 2
+181,01/07/2022,22:20,sucursal 3,producto 6,3500,5,17500,efectivo,usuario 3
+182,02/07/2022,10:18,sucursal 2,producto 7,1800,1,1800,codigo QR,usuario 3
+183,03/07/2022,09:37,sucursal 1,producto 1,1000,2,2000,otro,usuario 4
+184,04/07/2022,16:59,sucursal 3,producto 4,3000,4,12000,codigo QR,usuario 1
+185,05/07/2022,19:56,sucursal 3,producto 5,2000,2,4000,transferencia,usuario 4
+186,06/07/2022,19:38,sucursal 1,producto 1,1000,1,1000,otro,usuario 1
+187,07/07/2022,18:49,sucursal 1,producto 8,2700,1,2700,tarjeta de credito,usuario 2
+188,08/07/2022,20:25,sucursal 3,producto 1,1000,3,3000,codigo QR,usuario 3
+189,09/07/2022,20:40,sucursal 1,producto 5,2000,4,8000,transferencia,usuario 1
+190,10/07/2022,19:27,sucursal 1,producto 2,2500,3,7500,efectivo,usuario 3
+191,11/07/2022,15:27,sucursal 3,producto 7,1800,5,9000,efectivo,usuario 1
+192,12/07/2022,22:39,sucursal 3,producto 10,4000,1,4000,otro,usuario 4
+193,13/07/2022,12:14,sucursal 2,producto 9,2200,3,6600,tarjeta de credito,usuario 1
+194,14/07/2022,10:03,sucursal 1,producto 2,2500,5,12500,codigo QR,usuario 1
+195,15/07/2022,16:31,sucursal 1,producto 9,2200,1,2200,transferencia,usuario 3
+196,16/07/2022,16:35,sucursal 1,producto 3,1500,3,4500,codigo QR,usuario 4
+197,17/07/2022,13:48,sucursal 1,producto 3,1500,1,1500,efectivo,usuario 4
+198,18/07/2022,13:49,sucursal 3,producto 1,1000,2,2000,transferencia,usuario 3
+199,19/07/2022,21:22,sucursal 1,producto 2,2500,4,10000,efectivo,usuario 1
+200,20/07/2022,15:54,sucursal 1,producto 3,1500,3,4500,otro,usuario 4
+201,21/07/2022,13:27,sucursal 3,producto 3,1500,5,7500,codigo QR,usuario 1
+202,22/07/2022,17:35,sucursal 3,producto 5,2000,1,2000,codigo QR,usuario 1
+203,23/07/2022,17:50,sucursal 1,producto 1,1000,5,5000,efectivo,usuario 5
+204,24/07/2022,11:40,sucursal 3,producto 8,2700,5,13500,otro,usuario 4
+205,25/07/2022,15:46,sucursal 2,producto 5,2000,4,8000,tarjeta de credito,usuario 2
+206,26/07/2022,21:51,sucursal 2,producto 8,2700,4,10800,otro,usuario 3
+207,27/07/2022,19:19,sucursal 1,producto 6,3500,1,3500,otro,usuario 2
+208,28/07/2022,11:45,sucursal 2,producto 6,3500,5,17500,otro,usuario 1
+209,29/07/2022,21:04,sucursal 1,producto 4,3000,5,15000,tarjeta de credito,usuario 5
+210,30/07/2022,11:39,sucursal 3,producto 4,3000,4,12000,transferencia,usuario 5
+211,31/07/2022,11:22,sucursal 2,producto 2,2500,2,5000,tarjeta de debito,usuario 2
+212,01/08/2022,18:55,sucursal 2,producto 1,1000,2,2000,transferencia,usuario 2
+213,02/08/2022,11:13,sucursal 3,producto 4,3000,5,15000,transferencia,usuario 2
+214,03/08/2022,20:02,sucursal 2,producto 2,2500,1,2500,otro,usuario 5
+215,04/08/2022,14:33,sucursal 3,producto 8,2700,3,8100,efectivo,usuario 3
+216,05/08/2022,16:31,sucursal 3,producto 5,2000,5,10000,efectivo,usuario 4
+217,06/08/2022,20:12,sucursal 2,producto 9,2200,1,2200,tarjeta de debito,usuario 3
+218,07/08/2022,22:21,sucursal 3,producto 4,3000,3,9000,efectivo,usuario 5
+219,08/08/2022,18:43,sucursal 1,producto 10,4000,1,4000,transferencia,usuario 2
+220,09/08/2022,19:57,sucursal 3,producto 2,2500,4,10000,efectivo,usuario 3
+221,10/08/2022,11:15,sucursal 1,producto 8,2700,5,13500,tarjeta de credito,usuario 1
+222,11/08/2022,12:11,sucursal 3,producto 5,2000,3,6000,transferencia,usuario 1
+223,12/08/2022,09:15,sucursal 3,producto 7,1800,3,5400,efectivo,usuario 2
+224,13/08/2022,10:09,sucursal 2,producto 2,2500,3,7500,tarjeta de credito,usuario 1
+225,14/08/2022,09:08,sucursal 2,producto 5,2000,1,2000,transferencia,usuario 1
+226,15/08/2022,17:17,sucursal 2,producto 3,1500,1,1500,efectivo,usuario 4
+227,16/08/2022,11:25,sucursal 1,producto 1,1000,2,2000,transferencia,usuario 4
+228,17/08/2022,11:04,sucursal 3,producto 4,3000,4,12000,tarjeta de credito,usuario 1
+229,18/08/2022,11:13,sucursal 3,producto 6,3500,5,17500,codigo QR,usuario 2
+230,19/08/2022,22:25,sucursal 2,producto 2,2500,3,7500,codigo QR,usuario 1
+231,20/08/2022,10:11,sucursal 2,producto 2,2500,4,10000,tarjeta de debito,usuario 5
+232,21/08/2022,10:17,sucursal 1,producto 2,2500,5,12500,tarjeta de credito,usuario 2
+233,22/08/2022,09:06,sucursal 2,producto 6,3500,5,17500,tarjeta de credito,usuario 4
+234,23/08/2022,14:56,sucursal 3,producto 9,2200,3,6600,tarjeta de debito,usuario 5
+235,24/08/2022,18:37,sucursal 1,producto 2,2500,3,7500,efectivo,usuario 4
+236,25/08/2022,10:55,sucursal 1,producto 1,1000,1,1000,efectivo,usuario 3
+237,26/08/2022,13:07,sucursal 2,producto 1,1000,4,4000,codigo QR,usuario 5
+238,27/08/2022,15:34,sucursal 1,producto 10,4000,5,20000,otro,usuario 1
+239,28/08/2022,12:26,sucursal 1,producto 9,2200,1,2200,tarjeta de credito,usuario 3
+240,29/08/2022,19:41,sucursal 1,producto 3,1500,5,7500,tarjeta de credito,usuario 5
+241,30/08/2022,11:38,sucursal 3,producto 4,3000,3,9000,otro,usuario 4
+242,31/08/2022,22:23,sucursal 2,producto 8,2700,3,8100,efectivo,usuario 5
+243,01/09/2022,12:45,sucursal 3,producto 4,3000,4,12000,tarjeta de debito,usuario 3
+244,02/09/2022,20:50,sucursal 3,producto 5,2000,3,6000,codigo QR,usuario 1
+245,03/09/2022,12:28,sucursal 3,producto 7,1800,1,1800,codigo QR,usuario 1
+246,04/09/2022,16:10,sucursal 3,producto 9,2200,5,11000,tarjeta de credito,usuario 2
+247,05/09/2022,15:58,sucursal 1,producto 2,2500,5,12500,codigo QR,usuario 1
+248,06/09/2022,12:36,sucursal 1,producto 3,1500,4,6000,codigo QR,usuario 3
+249,07/09/2022,14:08,sucursal 2,producto 3,1500,4,6000,otro,usuario 2
+250,08/09/2022,15:46,sucursal 2,producto 5,2000,4,8000,tarjeta de debito,usuario 2
+251,09/09/2022,17:01,sucursal 3,producto 5,2000,1,2000,tarjeta de debito,usuario 3
+252,10/09/2022,19:55,sucursal 3,producto 7,1800,3,5400,tarjeta de credito,usuario 4
+253,11/09/2022,22:08,sucursal 3,producto 4,3000,4,12000,codigo QR,usuario 1
+254,12/09/2022,13:36,sucursal 2,producto 8,2700,1,2700,tarjeta de debito,usuario 2
+255,13/09/2022,17:43,sucursal 2,producto 1,1000,4,4000,codigo QR,usuario 2
+256,14/09/2022,12:11,sucursal 3,producto 4,3000,1,3000,transferencia,usuario 3
+257,15/09/2022,09:02,sucursal 3,producto 8,2700,5,13500,codigo QR,usuario 4
+258,16/09/2022,16:53,sucursal 3,producto 4,3000,1,3000,efectivo,usuario 3
+259,17/09/2022,15:15,sucursal 1,producto 9,2200,3,6600,tarjeta de credito,usuario 5
+260,18/09/2022,21:40,sucursal 1,producto 6,3500,3,10500,otro,usuario 3
+261,19/09/2022,14:34,sucursal 3,producto 2,2500,2,5000,codigo QR,usuario 4
+262,20/09/2022,22:35,sucursal 2,producto 8,2700,4,10800,otro,usuario 1
+263,21/09/2022,09:19,sucursal 2,producto 7,1800,4,7200,tarjeta de debito,usuario 1
+264,22/09/2022,12:58,sucursal 1,producto 9,2200,2,4400,codigo QR,usuario 3
+265,23/09/2022,12:36,sucursal 2,producto 5,2000,5,10000,transferencia,usuario 1
+266,24/09/2022,13:41,sucursal 3,producto 8,2700,5,13500,transferencia,usuario 3
+267,25/09/2022,16:05,sucursal 3,producto 6,3500,3,10500,efectivo,usuario 3
+268,26/09/2022,11:28,sucursal 1,producto 9,2200,1,2200,tarjeta de debito,usuario 4
+269,27/09/2022,22:42,sucursal 1,producto 6,3500,3,10500,tarjeta de credito,usuario 4
+270,28/09/2022,13:36,sucursal 3,producto 1,1000,3,3000,efectivo,usuario 2
+271,29/09/2022,09:26,sucursal 1,producto 1,1000,3,3000,otro,usuario 2
+272,30/09/2022,10:39,sucursal 1,producto 7,1800,2,3600,tarjeta de debito,usuario 5
+273,01/10/2022,14:26,sucursal 2,producto 5,2000,4,8000,efectivo,usuario 4
+274,02/10/2022,15:06,sucursal 1,producto 7,1800,2,3600,tarjeta de credito,usuario 3
+275,03/10/2022,19:54,sucursal 3,producto 4,3000,1,3000,transferencia,usuario 1
+276,04/10/2022,17:38,sucursal 1,producto 3,1500,4,6000,codigo QR,usuario 1
+277,05/10/2022,15:27,sucursal 3,producto 1,1000,1,1000,tarjeta de credito,usuario 3
+278,06/10/2022,22:00,sucursal 1,producto 8,2700,1,2700,transferencia,usuario 3
+279,07/10/2022,11:56,sucursal 3,producto 9,2200,1,2200,otro,usuario 5
+280,08/10/2022,14:14,sucursal 1,producto 7,1800,2,3600,tarjeta de debito,usuario 2
+281,09/10/2022,10:08,sucursal 2,producto 1,1000,2,2000,tarjeta de credito,usuario 3
+282,10/10/2022,11:53,sucursal 3,producto 6,3500,3,10500,tarjeta de debito,usuario 3
+283,11/10/2022,19:07,sucursal 1,producto 4,3000,3,9000,efectivo,usuario 5
+284,12/10/2022,09:40,sucursal 1,producto 9,2200,5,11000,codigo QR,usuario 2
+285,13/10/2022,12:40,sucursal 3,producto 6,3500,2,7000,codigo QR,usuario 3
+286,14/10/2022,20:25,sucursal 3,producto 8,2700,5,13500,efectivo,usuario 5
+287,15/10/2022,14:44,sucursal 2,producto 10,4000,3,12000,codigo QR,usuario 4
+288,16/10/2022,11:27,sucursal 1,producto 2,2500,1,2500,codigo QR,usuario 5
+289,17/10/2022,09:33,sucursal 3,producto 8,2700,4,10800,codigo QR,usuario 4
+290,18/10/2022,18:38,sucursal 1,producto 2,2500,5,12500,tarjeta de credito,usuario 2
+291,19/10/2022,21:03,sucursal 3,producto 4,3000,1,3000,efectivo,usuario 4
+292,20/10/2022,20:57,sucursal 3,producto 9,2200,3,6600,tarjeta de debito,usuario 5
+293,21/10/2022,11:09,sucursal 3,producto 1,1000,5,5000,otro,usuario 4
+294,22/10/2022,14:33,sucursal 2,producto 6,3500,4,14000,transferencia,usuario 1
+295,23/10/2022,22:44,sucursal 3,producto 7,1800,1,1800,otro,usuario 5
+296,24/10/2022,16:52,sucursal 3,producto 2,2500,2,5000,tarjeta de debito,usuario 3
+297,25/10/2022,09:38,sucursal 2,producto 1,1000,4,4000,efectivo,usuario 2
+298,26/10/2022,16:18,sucursal 1,producto 7,1800,3,5400,tarjeta de credito,usuario 2
+299,27/10/2022,22:12,sucursal 3,producto 10,4000,5,20000,efectivo,usuario 5
+300,28/10/2022,22:38,sucursal 3,producto 7,1800,3,5400,tarjeta de debito,usuario 4
+301,29/10/2022,20:21,sucursal 3,producto 8,2700,5,13500,tarjeta de credito,usuario 3
+302,30/10/2022,16:37,sucursal 1,producto 3,1500,5,7500,otro,usuario 4
+303,31/10/2022,20:04,sucursal 1,producto 2,2500,3,7500,efectivo,usuario 4
+304,01/11/2022,11:47,sucursal 2,producto 3,1500,2,3000,transferencia,usuario 2
+305,02/11/2022,10:28,sucursal 1,producto 2,2500,5,12500,tarjeta de credito,usuario 4
+306,03/11/2022,16:34,sucursal 2,producto 2,2500,2,5000,transferencia,usuario 2
+307,04/11/2022,22:27,sucursal 1,producto 6,3500,5,17500,transferencia,usuario 4
+308,05/11/2022,21:53,sucursal 1,producto 1,1000,3,3000,tarjeta de credito,usuario 2
+309,06/11/2022,20:49,sucursal 3,producto 8,2700,2,5400,tarjeta de credito,usuario 2
+310,07/11/2022,15:01,sucursal 3,producto 3,1500,4,6000,codigo QR,usuario 5
+311,08/11/2022,16:53,sucursal 1,producto 4,3000,5,15000,transferencia,usuario 1
+312,09/11/2022,17:59,sucursal 3,producto 7,1800,3,5400,efectivo,usuario 1
+313,10/11/2022,19:55,sucursal 2,producto 3,1500,3,4500,efectivo,usuario 1
+314,11/11/2022,16:53,sucursal 3,producto 9,2200,2,4400,otro,usuario 1
+315,12/11/2022,19:00,sucursal 2,producto 1,1000,3,3000,otro,usuario 4
+316,13/11/2022,20:42,sucursal 1,producto 1,1000,3,3000,tarjeta de credito,usuario 5
+317,14/11/2022,19:41,sucursal 1,producto 4,3000,2,6000,tarjeta de debito,usuario 1
+318,15/11/2022,17:13,sucursal 3,producto 3,1500,3,4500,otro,usuario 1
+319,16/11/2022,21:09,sucursal 3,producto 1,1000,1,1000,codigo QR,usuario 5
+320,17/11/2022,11:44,sucursal 2,producto 5,2000,1,2000,efectivo,usuario 1
+321,18/11/2022,18:38,sucursal 1,producto 5,2000,5,10000,tarjeta de debito,usuario 2
+322,19/11/2022,13:06,sucursal 2,producto 6,3500,1,3500,codigo QR,usuario 3
+323,20/11/2022,10:24,sucursal 2,producto 8,2700,3,8100,codigo QR,usuario 3
+324,21/11/2022,11:16,sucursal 2,producto 8,2700,3,8100,efectivo,usuario 4
+325,22/11/2022,22:14,sucursal 3,producto 3,1500,1,1500,codigo QR,usuario 5
+326,23/11/2022,21:16,sucursal 1,producto 1,1000,3,3000,codigo QR,usuario 2
+327,24/11/2022,14:31,sucursal 3,producto 3,1500,2,3000,tarjeta de debito,usuario 3
+328,25/11/2022,16:45,sucursal 3,producto 10,4000,2,8000,efectivo,usuario 3
+329,26/11/2022,13:01,sucursal 3,producto 4,3000,3,9000,otro,usuario 4
+330,27/11/2022,18:12,sucursal 2,producto 2,2500,4,10000,codigo QR,usuario 1
+331,28/11/2022,20:02,sucursal 1,producto 8,2700,4,10800,efectivo,usuario 4
+332,29/11/2022,12:23,sucursal 1,producto 2,2500,5,12500,tarjeta de debito,usuario 2
+333,30/11/2022,16:18,sucursal 1,producto 7,1800,2,3600,otro,usuario 1
+334,01/12/2022,19:46,sucursal 1,producto 9,2200,4,8800,codigo QR,usuario 3
+335,02/12/2022,20:48,sucursal 3,producto 9,2200,1,2200,tarjeta de credito,usuario 1
+336,03/12/2022,15:09,sucursal 3,producto 8,2700,1,2700,tarjeta de debito,usuario 2
+337,04/12/2022,21:08,sucursal 1,producto 5,2000,5,10000,tarjeta de debito,usuario 3
+338,05/12/2022,19:00,sucursal 1,producto 8,2700,3,8100,transferencia,usuario 4
+339,06/12/2022,15:25,sucursal 1,producto 10,4000,4,16000,efectivo,usuario 3
+340,07/12/2022,15:50,sucursal 1,producto 3,1500,1,1500,transferencia,usuario 2
+341,08/12/2022,22:00,sucursal 3,producto 8,2700,4,10800,tarjeta de debito,usuario 4
+342,09/12/2022,19:00,sucursal 3,producto 9,2200,4,8800,tarjeta de debito,usuario 5
+343,10/12/2022,18:46,sucursal 2,producto 9,2200,1,2200,tarjeta de credito,usuario 3
+344,11/12/2022,16:14,sucursal 1,producto 1,1000,4,4000,otro,usuario 4
+345,12/12/2022,13:06,sucursal 2,producto 9,2200,1,2200,transferencia,usuario 5
+346,13/12/2022,18:37,sucursal 2,producto 6,3500,3,10500,otro,usuario 2
+347,14/12/2022,18:50,sucursal 3,producto 8,2700,5,13500,efectivo,usuario 2
+348,15/12/2022,20:40,sucursal 2,producto 3,1500,4,6000,codigo QR,usuario 1
+349,16/12/2022,19:08,sucursal 3,producto 1,1000,4,4000,codigo QR,usuario 2
+350,17/12/2022,15:56,sucursal 2,producto 5,2000,1,2000,transferencia,usuario 2
+351,18/12/2022,15:14,sucursal 1,producto 8,2700,5,13500,tarjeta de credito,usuario 1
+352,19/12/2022,14:11,sucursal 3,producto 7,1800,1,1800,tarjeta de credito,usuario 5
+353,20/12/2022,13:16,sucursal 2,producto 7,1800,3,5400,transferencia,usuario 4
+354,21/12/2022,17:48,sucursal 1,producto 5,2000,3,6000,otro,usuario 1
+355,22/12/2022,17:57,sucursal 2,producto 9,2200,4,8800,tarjeta de credito,usuario 4
+356,23/12/2022,11:20,sucursal 3,producto 10,4000,2,8000,efectivo,usuario 3
+357,24/12/2022,11:56,sucursal 2,producto 5,2000,5,10000,efectivo,usuario 4
+358,25/12/2022,19:07,sucursal 3,producto 3,1500,1,1500,codigo QR,usuario 2
+359,26/12/2022,22:51,sucursal 2,producto 3,1500,5,7500,efectivo,usuario 4
+360,27/12/2022,15:02,sucursal 2,producto 2,2500,5,12500,otro,usuario 5
+361,28/12/2022,19:41,sucursal 1,producto 9,2200,2,4400,tarjeta de debito,usuario 5
+362,29/12/2022,15:48,sucursal 2,producto 2,2500,2,5000,tarjeta de credito,usuario 5
+363,30/12/2022,19:30,sucursal 1,producto 1,1000,5,5000,tarjeta de debito,usuario 3
+364,31/12/2022,14:20,sucursal 2,producto 9,2200,5,11000,otro,usuario 1
+365,01/01/2023,16:59,sucursal 1,producto 1,1000,3,3000,tarjeta de credito,usuario 5
+366,02/01/2023,09:54,sucursal 1,producto 1,1000,1,1000,codigo QR,usuario 2
+367,03/01/2023,14:15,sucursal 2,producto 1,1000,1,1000,otro,usuario 3
+368,04/01/2023,17:27,sucursal 1,producto 6,3500,3,10500,efectivo,usuario 1
+369,05/01/2023,19:03,sucursal 1,producto 6,3500,5,17500,codigo QR,usuario 2
+370,06/01/2023,22:37,sucursal 2,producto 9,2200,1,2200,tarjeta de credito,usuario 1
+371,07/01/2023,13:27,sucursal 1,producto 6,3500,4,14000,tarjeta de credito,usuario 4
+372,08/01/2023,20:25,sucursal 2,producto 5,2000,2,4000,transferencia,usuario 4
+373,09/01/2023,21:21,sucursal 1,producto 7,1800,1,1800,tarjeta de credito,usuario 2
+374,10/01/2023,19:05,sucursal 2,producto 6,3500,5,17500,tarjeta de debito,usuario 3
+375,11/01/2023,20:30,sucursal 2,producto 5,2000,4,8000,tarjeta de debito,usuario 5
+376,12/01/2023,21:27,sucursal 2,producto 3,1500,4,6000,efectivo,usuario 1
+377,13/01/2023,16:04,sucursal 1,producto 5,2000,4,8000,efectivo,usuario 2
+378,14/01/2023,17:52,sucursal 3,producto 10,4000,5,20000,codigo QR,usuario 5
+379,15/01/2023,17:42,sucursal 3,producto 10,4000,5,20000,codigo QR,usuario 2
+380,16/01/2023,13:31,sucursal 3,producto 8,2700,1,2700,efectivo,usuario 5
+381,17/01/2023,12:29,sucursal 3,producto 9,2200,3,6600,otro,usuario 3
+382,18/01/2023,15:52,sucursal 2,producto 9,2200,2,4400,tarjeta de credito,usuario 3
+383,19/01/2023,10:38,sucursal 2,producto 9,2200,4,8800,codigo QR,usuario 1
+384,20/01/2023,17:28,sucursal 3,producto 1,1000,2,2000,efectivo,usuario 5
+385,21/01/2023,12:32,sucursal 1,producto 1,1000,3,3000,otro,usuario 3
+386,22/01/2023,16:19,sucursal 2,producto 4,3000,1,3000,codigo QR,usuario 2
+387,23/01/2023,14:12,sucursal 3,producto 1,1000,5,5000,codigo QR,usuario 3
+388,24/01/2023,14:12,sucursal 2,producto 8,2700,3,8100,efectivo,usuario 5
+389,25/01/2023,12:32,sucursal 1,producto 3,1500,2,3000,tarjeta de credito,usuario 2
+390,26/01/2023,13:53,sucursal 3,producto 5,2000,5,10000,transferencia,usuario 4
+391,27/01/2023,10:24,sucursal 3,producto 8,2700,3,8100,efectivo,usuario 1
+392,28/01/2023,10:23,sucursal 2,producto 6,3500,3,10500,transferencia,usuario 4
+393,29/01/2023,21:31,sucursal 3,producto 3,1500,5,7500,otro,usuario 3
+394,30/01/2023,13:01,sucursal 1,producto 7,1800,5,9000,tarjeta de credito,usuario 1
+395,31/01/2023,21:16,sucursal 3,producto 3,1500,3,4500,tarjeta de credito,usuario 3
+396,01/02/2023,09:30,sucursal 2,producto 8,2700,2,5400,otro,usuario 2
+397,02/02/2023,13:46,sucursal 3,producto 4,3000,3,9000,transferencia,usuario 5
+398,03/02/2023,10:32,sucursal 2,producto 3,1500,5,7500,otro,usuario 1
+399,04/02/2023,09:17,sucursal 1,producto 1,1000,5,5000,tarjeta de debito,usuario 2
+400,05/02/2023,20:37,sucursal 2,producto 7,1800,5,9000,tarjeta de credito,usuario 4
+401,06/02/2023,19:59,sucursal 3,producto 7,1800,1,1800,codigo QR,usuario 3
+402,07/02/2023,18:40,sucursal 3,producto 6,3500,2,7000,otro,usuario 5
+403,08/02/2023,09:10,sucursal 2,producto 2,2500,5,12500,codigo QR,usuario 3
+404,09/02/2023,17:59,sucursal 2,producto 5,2000,4,8000,otro,usuario 5
+405,10/02/2023,11:56,sucursal 1,producto 7,1800,2,3600,efectivo,usuario 2
+406,11/02/2023,10:11,sucursal 3,producto 9,2200,3,6600,codigo QR,usuario 1
+407,12/02/2023,16:19,sucursal 2,producto 3,1500,4,6000,efectivo,usuario 2
+408,13/02/2023,11:55,sucursal 2,producto 3,1500,3,4500,tarjeta de credito,usuario 5
+409,14/02/2023,20:42,sucursal 1,producto 9,2200,4,8800,transferencia,usuario 2
+410,15/02/2023,21:11,sucursal 3,producto 3,1500,5,7500,tarjeta de debito,usuario 1
+411,16/02/2023,09:17,sucursal 3,producto 8,2700,1,2700,tarjeta de debito,usuario 1
+412,17/02/2023,09:14,sucursal 1,producto 3,1500,5,7500,tarjeta de debito,usuario 2
+413,18/02/2023,15:29,sucursal 1,producto 8,2700,2,5400,otro,usuario 4
+414,19/02/2023,12:23,sucursal 1,producto 5,2000,4,8000,transferencia,usuario 1
+415,20/02/2023,09:14,sucursal 1,producto 4,3000,2,6000,otro,usuario 2
+416,21/02/2023,19:19,sucursal 3,producto 8,2700,2,5400,transferencia,usuario 1
+417,22/02/2023,15:43,sucursal 1,producto 10,4000,4,16000,transferencia,usuario 5
+418,23/02/2023,10:07,sucursal 3,producto 5,2000,1,2000,efectivo,usuario 2
+419,24/02/2023,16:54,sucursal 1,producto 1,1000,2,2000,otro,usuario 5
+420,25/02/2023,20:20,sucursal 3,producto 3,1500,1,1500,otro,usuario 1
+421,26/02/2023,13:40,sucursal 2,producto 5,2000,1,2000,codigo QR,usuario 5
+422,27/02/2023,13:26,sucursal 3,producto 5,2000,3,6000,transferencia,usuario 2
+423,28/02/2023,22:16,sucursal 2,producto 8,2700,4,10800,codigo QR,usuario 4
+424,01/03/2023,19:53,sucursal 1,producto 8,2700,4,10800,tarjeta de credito,usuario 5
+425,02/03/2023,13:18,sucursal 2,producto 4,3000,1,3000,efectivo,usuario 3
+426,03/03/2023,10:26,sucursal 1,producto 5,2000,3,6000,transferencia,usuario 1
+427,04/03/2023,16:23,sucursal 2,producto 7,1800,1,1800,tarjeta de debito,usuario 1
+428,05/03/2023,17:53,sucursal 2,producto 4,3000,1,3000,transferencia,usuario 4
+429,06/03/2023,12:12,sucursal 1,producto 4,3000,1,3000,transferencia,usuario 4
+430,07/03/2023,15:36,sucursal 1,producto 3,1500,4,6000,tarjeta de credito,usuario 3
+431,08/03/2023,12:35,sucursal 1,producto 2,2500,1,2500,codigo QR,usuario 5
+432,09/03/2023,16:30,sucursal 3,producto 7,1800,5,9000,tarjeta de credito,usuario 4
+433,10/03/2023,10:59,sucursal 2,producto 10,4000,2,8000,transferencia,usuario 2
+434,11/03/2023,09:03,sucursal 3,producto 6,3500,3,10500,tarjeta de credito,usuario 1
+435,12/03/2023,09:09,sucursal 1,producto 5,2000,2,4000,codigo QR,usuario 4
+436,13/03/2023,21:43,sucursal 3,producto 4,3000,1,3000,otro,usuario 3
+437,14/03/2023,12:46,sucursal 1,producto 1,1000,3,3000,transferencia,usuario 4
+438,15/03/2023,17:16,sucursal 3,producto 4,3000,5,15000,codigo QR,usuario 2
+439,16/03/2023,10:56,sucursal 3,producto 10,4000,5,20000,tarjeta de credito,usuario 4
+440,17/03/2023,20:54,sucursal 1,producto 8,2700,4,10800,tarjeta de debito,usuario 3
+441,18/03/2023,18:22,sucursal 2,producto 8,2700,2,5400,codigo QR,usuario 5
+442,19/03/2023,14:22,sucursal 3,producto 8,2700,1,2700,tarjeta de debito,usuario 5
+443,20/03/2023,22:25,sucursal 2,producto 9,2200,2,4400,tarjeta de credito,usuario 1
+444,21/03/2023,22:18,sucursal 1,producto 4,3000,1,3000,efectivo,usuario 5
+445,22/03/2023,18:38,sucursal 2,producto 2,2500,5,12500,transferencia,usuario 3
+446,23/03/2023,22:26,sucursal 2,producto 6,3500,2,7000,efectivo,usuario 4
+447,24/03/2023,13:32,sucursal 1,producto 5,2000,3,6000,codigo QR,usuario 4
+448,25/03/2023,20:53,sucursal 1,producto 4,3000,1,3000,tarjeta de credito,usuario 2
+449,26/03/2023,21:05,sucursal 2,producto 6,3500,3,10500,otro,usuario 1
+450,27/03/2023,09:08,sucursal 1,producto 7,1800,2,3600,tarjeta de debito,usuario 3
+451,28/03/2023,10:08,sucursal 3,producto 9,2200,5,11000,transferencia,usuario 2
+452,29/03/2023,19:41,sucursal 1,producto 1,1000,1,1000,efectivo,usuario 1
+453,30/03/2023,18:18,sucursal 3,producto 3,1500,1,1500,tarjeta de debito,usuario 2
+454,31/03/2023,17:48,sucursal 3,producto 8,2700,5,13500,transferencia,usuario 4
+455,01/04/2023,11:52,sucursal 3,producto 5,2000,4,8000,tarjeta de credito,usuario 1
+456,02/04/2023,16:35,sucursal 3,producto 1,1000,5,5000,efectivo,usuario 5
+457,03/04/2023,13:20,sucursal 2,producto 2,2500,5,12500,tarjeta de debito,usuario 4
+458,04/04/2023,09:41,sucursal 2,producto 5,2000,5,10000,tarjeta de debito,usuario 2
+459,05/04/2023,10:11,sucursal 1,producto 5,2000,5,10000,codigo QR,usuario 2
+460,06/04/2023,18:31,sucursal 2,producto 3,1500,3,4500,transferencia,usuario 2
+461,07/04/2023,20:59,sucursal 1,producto 8,2700,5,13500,tarjeta de credito,usuario 3
+462,08/04/2023,18:20,sucursal 2,producto 9,2200,4,8800,codigo QR,usuario 5
+463,09/04/2023,16:13,sucursal 3,producto 7,1800,1,1800,transferencia,usuario 5
+464,10/04/2023,12:11,sucursal 3,producto 1,1000,4,4000,otro,usuario 1
+465,11/04/2023,14:57,sucursal 1,producto 9,2200,5,11000,otro,usuario 4
+466,12/04/2023,21:28,sucursal 3,producto 7,1800,5,9000,transferencia,usuario 4
+467,13/04/2023,11:43,sucursal 1,producto 1,1000,1,1000,efectivo,usuario 5
+468,14/04/2023,13:19,sucursal 1,producto 7,1800,3,5400,otro,usuario 3
+469,15/04/2023,16:47,sucursal 3,producto 4,3000,5,15000,codigo QR,usuario 1
+470,16/04/2023,16:25,sucursal 1,producto 6,3500,3,10500,efectivo,usuario 3
+471,17/04/2023,16:03,sucursal 3,producto 7,1800,2,3600,transferencia,usuario 5
+472,18/04/2023,10:00,sucursal 2,producto 10,4000,4,16000,efectivo,usuario 1
+473,19/04/2023,09:15,sucursal 3,producto 3,1500,1,1500,efectivo,usuario 2
+474,20/04/2023,16:19,sucursal 2,producto 6,3500,5,17500,otro,usuario 4
+475,21/04/2023,10:17,sucursal 1,producto 2,2500,1,2500,otro,usuario 3
+476,22/04/2023,19:00,sucursal 3,producto 1,1000,1,1000,tarjeta de debito,usuario 4
+477,23/04/2023,17:58,sucursal 3,producto 7,1800,2,3600,codigo QR,usuario 4
+478,24/04/2023,22:59,sucursal 1,producto 8,2700,2,5400,codigo QR,usuario 5
+479,25/04/2023,17:36,sucursal 2,producto 4,3000,1,3000,efectivo,usuario 5
+480,26/04/2023,10:24,sucursal 3,producto 4,3000,4,12000,tarjeta de debito,usuario 4
+481,27/04/2023,14:20,sucursal 3,producto 1,1000,1,1000,efectivo,usuario 4
+482,28/04/2023,10:54,sucursal 2,producto 9,2200,4,8800,tarjeta de credito,usuario 3
+483,29/04/2023,21:06,sucursal 3,producto 7,1800,1,1800,otro,usuario 5
+484,30/04/2023,17:18,sucursal 1,producto 4,3000,5,15000,transferencia,usuario 1
+485,01/05/2023,10:14,sucursal 2,producto 3,1500,3,4500,otro,usuario 3
+486,02/05/2023,11:56,sucursal 2,producto 7,1800,5,9000,transferencia,usuario 1
+487,03/05/2023,17:23,sucursal 3,producto 10,4000,1,4000,codigo QR,usuario 1
+488,04/05/2023,18:58,sucursal 3,producto 10,4000,2,8000,codigo QR,usuario 3
+489,05/05/2023,16:50,sucursal 3,producto 8,2700,2,5400,tarjeta de debito,usuario 3
+490,06/05/2023,21:04,sucursal 1,producto 4,3000,2,6000,transferencia,usuario 4
+491,07/05/2023,17:11,sucursal 3,producto 5,2000,2,4000,tarjeta de debito,usuario 2
+492,08/05/2023,20:09,sucursal 2,producto 8,2700,3,8100,transferencia,usuario 1
+493,09/05/2023,18:37,sucursal 3,producto 10,4000,2,8000,transferencia,usuario 2
+494,10/05/2023,17:58,sucursal 3,producto 9,2200,3,6600,transferencia,usuario 5
+495,11/05/2023,12:54,sucursal 2,producto 10,4000,1,4000,tarjeta de debito,usuario 4
+496,12/05/2023,21:01,sucursal 2,producto 7,1800,4,7200,tarjeta de credito,usuario 5
+497,13/05/2023,14:16,sucursal 2,producto 2,2500,3,7500,codigo QR,usuario 4
+498,14/05/2023,17:21,sucursal 1,producto 1,1000,5,5000,tarjeta de debito,usuario 4
+499,15/05/2023,16:08,sucursal 3,producto 6,3500,5,17500,transferencia,usuario 2
+500,16/05/2023,11:26,sucursal 1,producto 6,3500,2,7000,tarjeta de debito,usuario 5
+501,17/05/2023,11:02,sucursal 2,producto 7,1800,1,1800,efectivo,usuario 1
+502,18/05/2023,10:08,sucursal 2,producto 2,2500,2,5000,codigo QR,usuario 5
+503,19/05/2023,22:27,sucursal 1,producto 3,1500,4,6000,codigo QR,usuario 5
+504,20/05/2023,14:53,sucursal 3,producto 9,2200,2,4400,tarjeta de debito,usuario 2
+505,21/05/2023,17:19,sucursal 3,producto 9,2200,2,4400,efectivo,usuario 2
+506,22/05/2023,19:22,sucursal 1,producto 7,1800,1,1800,efectivo,usuario 5
+507,23/05/2023,10:54,sucursal 2,producto 4,3000,5,15000,transferencia,usuario 2
+508,24/05/2023,12:54,sucursal 1,producto 1,1000,3,3000,otro,usuario 3
+509,25/05/2023,10:26,sucursal 3,producto 3,1500,5,7500,transferencia,usuario 1
+510,26/05/2023,16:31,sucursal 3,producto 3,1500,2,3000,tarjeta de debito,usuario 5
+511,27/05/2023,15:20,sucursal 1,producto 7,1800,5,9000,efectivo,usuario 3
+512,28/05/2023,09:00,sucursal 1,producto 9,2200,2,4400,tarjeta de debito,usuario 4
+513,29/05/2023,14:07,sucursal 1,producto 7,1800,3,5400,efectivo,usuario 5
+514,30/05/2023,20:06,sucursal 3,producto 10,4000,4,16000,transferencia,usuario 1
+515,31/05/2023,17:24,sucursal 3,producto 2,2500,4,10000,tarjeta de credito,usuario 5
+516,01/06/2023,14:04,sucursal 1,producto 8,2700,4,10800,codigo QR,usuario 1
+517,02/06/2023,13:36,sucursal 2,producto 5,2000,4,8000,otro,usuario 5
+518,03/06/2023,17:45,sucursal 1,producto 9,2200,1,2200,codigo QR,usuario 2
+519,04/06/2023,15:38,sucursal 1,producto 5,2000,4,8000,tarjeta de credito,usuario 4
+520,05/06/2023,19:05,sucursal 1,producto 10,4000,1,4000,transferencia,usuario 1
+521,06/06/2023,13:11,sucursal 3,producto 8,2700,1,2700,tarjeta de credito,usuario 5
+522,07/06/2023,18:10,sucursal 3,producto 2,2500,1,2500,transferencia,usuario 5
+523,08/06/2023,19:16,sucursal 1,producto 7,1800,2,3600,codigo QR,usuario 4
+524,09/06/2023,17:14,sucursal 1,producto 6,3500,4,14000,codigo QR,usuario 1
+525,10/06/2023,12:29,sucursal 2,producto 7,1800,4,7200,tarjeta de credito,usuario 2
+526,11/06/2023,13:57,sucursal 2,producto 1,1000,2,2000,tarjeta de debito,usuario 4
+527,12/06/2023,09:50,sucursal 2,producto 5,2000,3,6000,tarjeta de credito,usuario 1
+528,13/06/2023,15:09,sucursal 1,producto 6,3500,2,7000,codigo QR,usuario 1
+529,14/06/2023,17:23,sucursal 1,producto 8,2700,5,13500,transferencia,usuario 3
+530,15/06/2023,13:04,sucursal 2,producto 10,4000,5,20000,efectivo,usuario 5
+531,16/06/2023,16:10,sucursal 1,producto 6,3500,3,10500,codigo QR,usuario 5
+532,17/06/2023,17:18,sucursal 3,producto 10,4000,3,12000,tarjeta de debito,usuario 2
+533,18/06/2023,09:22,sucursal 2,producto 1,1000,3,3000,otro,usuario 1
+534,19/06/2023,20:36,sucursal 1,producto 10,4000,3,12000,codigo QR,usuario 4
+535,20/06/2023,09:50,sucursal 2,producto 9,2200,3,6600,tarjeta de credito,usuario 4
+536,21/06/2023,13:41,sucursal 1,producto 5,2000,2,4000,tarjeta de debito,usuario 4
+537,22/06/2023,18:46,sucursal 2,producto 5,2000,3,6000,efectivo,usuario 5
+538,23/06/2023,16:55,sucursal 3,producto 3,1500,4,6000,tarjeta de debito,usuario 3
+539,24/06/2023,14:39,sucursal 2,producto 6,3500,3,10500,codigo QR,usuario 4
+540,25/06/2023,22:19,sucursal 3,producto 7,1800,2,3600,efectivo,usuario 5
+541,26/06/2023,17:55,sucursal 3,producto 9,2200,5,11000,tarjeta de credito,usuario 1
+542,27/06/2023,15:32,sucursal 2,producto 4,3000,1,3000,otro,usuario 1
+543,28/06/2023,20:44,sucursal 1,producto 1,1000,5,5000,otro,usuario 1
+544,29/06/2023,13:20,sucursal 3,producto 7,1800,4,7200,codigo QR,usuario 5
+545,30/06/2023,19:29,sucursal 3,producto 6,3500,4,14000,codigo QR,usuario 1
+546,01/07/2023,12:25,sucursal 2,producto 2,2500,1,2500,codigo QR,usuario 3
+547,02/07/2023,19:21,sucursal 2,producto 2,2500,3,7500,otro,usuario 3
+548,03/07/2023,13:15,sucursal 1,producto 10,4000,2,8000,transferencia,usuario 1
+549,04/07/2023,09:31,sucursal 1,producto 6,3500,3,10500,codigo QR,usuario 2
+550,05/07/2023,19:16,sucursal 1,producto 6,3500,3,10500,transferencia,usuario 2
+551,06/07/2023,09:51,sucursal 1,producto 3,1500,5,7500,efectivo,usuario 3
+552,07/07/2023,12:06,sucursal 2,producto 2,2500,4,10000,efectivo,usuario 2
+553,08/07/2023,21:27,sucursal 3,producto 8,2700,3,8100,transferencia,usuario 2
+554,09/07/2023,10:06,sucursal 1,producto 6,3500,1,3500,tarjeta de credito,usuario 3
+555,10/07/2023,16:34,sucursal 1,producto 7,1800,1,1800,otro,usuario 4
+556,11/07/2023,12:38,sucursal 2,producto 8,2700,4,10800,codigo QR,usuario 1
+557,12/07/2023,13:02,sucursal 3,producto 8,2700,4,10800,otro,usuario 2
+558,13/07/2023,10:54,sucursal 1,producto 10,4000,5,20000,codigo QR,usuario 1
+559,14/07/2023,14:50,sucursal 1,producto 8,2700,3,8100,otro,usuario 4
+560,15/07/2023,14:07,sucursal 2,producto 7,1800,4,7200,transferencia,usuario 2
+561,16/07/2023,17:41,sucursal 3,producto 7,1800,1,1800,tarjeta de credito,usuario 3
+562,17/07/2023,10:53,sucursal 3,producto 1,1000,5,5000,tarjeta de debito,usuario 5
+563,18/07/2023,13:36,sucursal 3,producto 9,2200,5,11000,tarjeta de credito,usuario 4
+564,19/07/2023,13:42,sucursal 3,producto 6,3500,4,14000,codigo QR,usuario 3
+565,20/07/2023,14:42,sucursal 3,producto 4,3000,3,9000,codigo QR,usuario 1
+566,21/07/2023,12:14,sucursal 1,producto 10,4000,5,20000,otro,usuario 3
+567,22/07/2023,21:44,sucursal 3,producto 8,2700,3,8100,efectivo,usuario 2
+568,23/07/2023,22:41,sucursal 2,producto 2,2500,5,12500,efectivo,usuario 2
+569,24/07/2023,21:12,sucursal 2,producto 10,4000,4,16000,codigo QR,usuario 5
+570,25/07/2023,17:26,sucursal 3,producto 7,1800,5,9000,tarjeta de credito,usuario 2
+571,26/07/2023,14:02,sucursal 3,producto 2,2500,5,12500,tarjeta de credito,usuario 2
+572,27/07/2023,20:49,sucursal 3,producto 1,1000,3,3000,efectivo,usuario 5
+573,28/07/2023,09:50,sucursal 2,producto 7,1800,2,3600,efectivo,usuario 4
+574,29/07/2023,22:59,sucursal 2,producto 9,2200,3,6600,tarjeta de credito,usuario 3
+575,30/07/2023,15:06,sucursal 1,producto 2,2500,2,5000,tarjeta de credito,usuario 4
+576,31/07/2023,13:51,sucursal 3,producto 6,3500,5,17500,codigo QR,usuario 4
+577,01/08/2023,09:34,sucursal 1,producto 1,1000,3,3000,tarjeta de debito,usuario 1
+578,02/08/2023,22:17,sucursal 1,producto 8,2700,5,13500,tarjeta de debito,usuario 2
+579,03/08/2023,22:48,sucursal 2,producto 5,2000,5,10000,otro,usuario 2
+580,04/08/2023,12:32,sucursal 1,producto 2,2500,3,7500,efectivo,usuario 5
+581,05/08/2023,20:29,sucursal 3,producto 2,2500,3,7500,tarjeta de debito,usuario 2
+582,06/08/2023,10:22,sucursal 3,producto 9,2200,5,11000,tarjeta de credito,usuario 1
+583,07/08/2023,14:08,sucursal 2,producto 6,3500,3,10500,codigo QR,usuario 2
+584,08/08/2023,17:51,sucursal 3,producto 5,2000,2,4000,codigo QR,usuario 5
+585,09/08/2023,13:01,sucursal 1,producto 6,3500,1,3500,otro,usuario 2
+586,10/08/2023,19:07,sucursal 1,producto 9,2200,2,4400,efectivo,usuario 5
+587,11/08/2023,09:42,sucursal 3,producto 3,1500,3,4500,codigo QR,usuario 5
+588,12/08/2023,10:28,sucursal 1,producto 4,3000,5,15000,otro,usuario 1
+589,13/08/2023,18:03,sucursal 1,producto 8,2700,5,13500,transferencia,usuario 1
+590,14/08/2023,13:37,sucursal 3,producto 9,2200,3,6600,transferencia,usuario 4
+591,15/08/2023,15:56,sucursal 1,producto 5,2000,3,6000,tarjeta de debito,usuario 4
+592,16/08/2023,09:40,sucursal 3,producto 6,3500,2,7000,tarjeta de credito,usuario 2
+593,17/08/2023,15:05,sucursal 2,producto 4,3000,3,9000,codigo QR,usuario 3
+594,18/08/2023,22:11,sucursal 2,producto 6,3500,1,3500,codigo QR,usuario 4
+595,19/08/2023,18:31,sucursal 2,producto 7,1800,2,3600,efectivo,usuario 2
+596,20/08/2023,14:04,sucursal 2,producto 9,2200,4,8800,codigo QR,usuario 1
+597,21/08/2023,17:05,sucursal 3,producto 6,3500,2,7000,efectivo,usuario 4
+598,22/08/2023,22:08,sucursal 2,producto 6,3500,1,3500,efectivo,usuario 3
+599,23/08/2023,18:10,sucursal 2,producto 1,1000,2,2000,otro,usuario 5
+600,24/08/2023,16:55,sucursal 1,producto 8,2700,3,8100,codigo QR,usuario 4
+601,25/08/2023,21:40,sucursal 2,producto 6,3500,5,17500,codigo QR,usuario 3
+602,26/08/2023,21:18,sucursal 2,producto 9,2200,5,11000,tarjeta de debito,usuario 1
+603,27/08/2023,22:47,sucursal 1,producto 4,3000,5,15000,otro,usuario 2
+604,28/08/2023,22:29,sucursal 2,producto 9,2200,5,11000,codigo QR,usuario 4
+605,29/08/2023,21:40,sucursal 3,producto 5,2000,5,10000,transferencia,usuario 4
+606,30/08/2023,18:15,sucursal 2,producto 7,1800,5,9000,tarjeta de debito,usuario 4
+607,31/08/2023,17:03,sucursal 3,producto 1,1000,3,3000,codigo QR,usuario 1
+608,01/09/2023,20:09,sucursal 1,producto 3,1500,4,6000,tarjeta de credito,usuario 4
+609,02/09/2023,12:46,sucursal 2,producto 8,2700,2,5400,tarjeta de debito,usuario 3
+610,03/09/2023,20:13,sucursal 1,producto 8,2700,4,10800,efectivo,usuario 4
+611,04/09/2023,12:55,sucursal 1,producto 8,2700,2,5400,codigo QR,usuario 4
+612,05/09/2023,17:39,sucursal 1,producto 2,2500,4,10000,otro,usuario 3
+613,06/09/2023,13:31,sucursal 3,producto 7,1800,1,1800,tarjeta de debito,usuario 5
+614,07/09/2023,13:55,sucursal 1,producto 6,3500,5,17500,transferencia,usuario 3
+615,08/09/2023,19:20,sucursal 3,producto 10,4000,3,12000,otro,usuario 5
+616,09/09/2023,10:23,sucursal 3,producto 9,2200,4,8800,tarjeta de debito,usuario 5
+617,10/09/2023,14:35,sucursal 3,producto 4,3000,1,3000,tarjeta de credito,usuario 4
+618,11/09/2023,20:27,sucursal 1,producto 4,3000,3,9000,efectivo,usuario 3
+619,12/09/2023,10:18,sucursal 3,producto 1,1000,1,1000,codigo QR,usuario 2
+620,13/09/2023,10:04,sucursal 3,producto 7,1800,4,7200,transferencia,usuario 4
+621,14/09/2023,20:09,sucursal 2,producto 5,2000,5,10000,transferencia,usuario 4
+622,15/09/2023,18:46,sucursal 1,producto 4,3000,1,3000,transferencia,usuario 4
+623,16/09/2023,15:36,sucursal 2,producto 6,3500,1,3500,codigo QR,usuario 3
+624,17/09/2023,19:30,sucursal 1,producto 1,1000,1,1000,tarjeta de debito,usuario 2
+625,18/09/2023,20:29,sucursal 1,producto 10,4000,2,8000,transferencia,usuario 2
+626,19/09/2023,21:47,sucursal 2,producto 1,1000,4,4000,codigo QR,usuario 1
+627,20/09/2023,16:53,sucursal 1,producto 7,1800,4,7200,codigo QR,usuario 5
+628,21/09/2023,17:48,sucursal 3,producto 8,2700,2,5400,otro,usuario 5
+629,22/09/2023,10:38,sucursal 3,producto 8,2700,1,2700,efectivo,usuario 4
+630,23/09/2023,10:51,sucursal 3,producto 1,1000,5,5000,codigo QR,usuario 4
+631,24/09/2023,22:43,sucursal 1,producto 2,2500,1,2500,codigo QR,usuario 1
+632,25/09/2023,18:50,sucursal 1,producto 6,3500,5,17500,efectivo,usuario 5
+633,26/09/2023,14:58,sucursal 1,producto 1,1000,3,3000,codigo QR,usuario 1
+634,27/09/2023,16:39,sucursal 2,producto 8,2700,5,13500,otro,usuario 3
+635,28/09/2023,10:33,sucursal 3,producto 7,1800,4,7200,tarjeta de credito,usuario 1
+636,29/09/2023,22:46,sucursal 3,producto 6,3500,3,10500,tarjeta de debito,usuario 4
+637,30/09/2023,09:22,sucursal 2,producto 3,1500,1,1500,transferencia,usuario 4
+638,01/10/2023,13:46,sucursal 1,producto 4,3000,3,9000,codigo QR,usuario 2
+639,02/10/2023,11:37,sucursal 1,producto 2,2500,3,7500,efectivo,usuario 4
+640,03/10/2023,17:42,sucursal 3,producto 6,3500,3,10500,tarjeta de credito,usuario 4
+641,04/10/2023,11:55,sucursal 2,producto 4,3000,3,9000,tarjeta de credito,usuario 1
+642,05/10/2023,21:00,sucursal 1,producto 1,1000,3,3000,tarjeta de credito,usuario 3
+643,06/10/2023,11:30,sucursal 1,producto 4,3000,2,6000,transferencia,usuario 4
+644,07/10/2023,09:16,sucursal 2,producto 3,1500,3,4500,codigo QR,usuario 5
+645,08/10/2023,10:13,sucursal 3,producto 9,2200,3,6600,efectivo,usuario 4
+646,09/10/2023,12:45,sucursal 2,producto 3,1500,2,3000,tarjeta de credito,usuario 3
+647,10/10/2023,14:41,sucursal 2,producto 2,2500,4,10000,codigo QR,usuario 1
+648,11/10/2023,15:24,sucursal 2,producto 6,3500,5,17500,transferencia,usuario 2
+649,12/10/2023,18:41,sucursal 2,producto 5,2000,2,4000,efectivo,usuario 5
+650,13/10/2023,17:58,sucursal 3,producto 5,2000,2,4000,transferencia,usuario 1
+651,14/10/2023,17:11,sucursal 3,producto 1,1000,4,4000,tarjeta de credito,usuario 1
+652,15/10/2023,15:28,sucursal 1,producto 7,1800,2,3600,transferencia,usuario 2
+653,16/10/2023,20:32,sucursal 3,producto 5,2000,3,6000,codigo QR,usuario 2
+654,17/10/2023,11:05,sucursal 3,producto 3,1500,5,7500,codigo QR,usuario 2
+655,18/10/2023,18:47,sucursal 3,producto 5,2000,3,6000,tarjeta de debito,usuario 3
+656,19/10/2023,20:47,sucursal 2,producto 7,1800,4,7200,efectivo,usuario 4
+657,20/10/2023,22:58,sucursal 2,producto 2,2500,5,12500,efectivo,usuario 2
+658,21/10/2023,20:03,sucursal 1,producto 3,1500,5,7500,tarjeta de debito,usuario 1
+659,22/10/2023,22:44,sucursal 1,producto 7,1800,3,5400,tarjeta de credito,usuario 2
+660,23/10/2023,12:37,sucursal 1,producto 2,2500,4,10000,otro,usuario 2
+661,24/10/2023,13:14,sucursal 3,producto 4,3000,4,12000,codigo QR,usuario 3
+662,25/10/2023,12:43,sucursal 1,producto 5,2000,3,6000,efectivo,usuario 1
+663,26/10/2023,14:05,sucursal 3,producto 10,4000,1,4000,tarjeta de credito,usuario 1
+664,27/10/2023,17:34,sucursal 3,producto 6,3500,1,3500,otro,usuario 1
+665,28/10/2023,09:41,sucursal 3,producto 8,2700,3,8100,tarjeta de credito,usuario 3
+666,29/10/2023,20:52,sucursal 2,producto 7,1800,2,3600,transferencia,usuario 2
+667,30/10/2023,18:19,sucursal 2,producto 6,3500,4,14000,transferencia,usuario 1
+668,31/10/2023,21:16,sucursal 2,producto 1,1000,4,4000,tarjeta de debito,usuario 5
+669,01/11/2023,22:57,sucursal 1,producto 10,4000,3,12000,efectivo,usuario 3
+670,02/11/2023,13:56,sucursal 2,producto 3,1500,3,4500,tarjeta de credito,usuario 5
+671,03/11/2023,11:50,sucursal 3,producto 1,1000,1,1000,efectivo,usuario 2
+672,04/11/2023,09:50,sucursal 2,producto 8,2700,3,8100,tarjeta de credito,usuario 2
+673,05/11/2023,22:14,sucursal 3,producto 2,2500,4,10000,tarjeta de debito,usuario 1
+674,06/11/2023,10:36,sucursal 2,producto 3,1500,2,3000,transferencia,usuario 3
+675,07/11/2023,14:03,sucursal 2,producto 10,4000,5,20000,otro,usuario 1
+676,08/11/2023,19:05,sucursal 3,producto 9,2200,5,11000,codigo QR,usuario 1
+677,09/11/2023,20:14,sucursal 3,producto 1,1000,4,4000,otro,usuario 4
+678,10/11/2023,19:38,sucursal 3,producto 6,3500,2,7000,transferencia,usuario 5
+679,11/11/2023,14:27,sucursal 2,producto 3,1500,4,6000,transferencia,usuario 1
+680,12/11/2023,18:27,sucursal 3,producto 7,1800,5,9000,otro,usuario 4
+681,13/11/2023,09:37,sucursal 1,producto 9,2200,3,6600,transferencia,usuario 1
+682,14/11/2023,14:26,sucursal 1,producto 2,2500,1,2500,codigo QR,usuario 4
+683,15/11/2023,16:41,sucursal 1,producto 1,1000,4,4000,codigo QR,usuario 4
+684,16/11/2023,14:23,sucursal 2,producto 5,2000,4,8000,efectivo,usuario 5
+685,17/11/2023,16:06,sucursal 3,producto 9,2200,5,11000,codigo QR,usuario 3
+686,18/11/2023,12:11,sucursal 3,producto 10,4000,3,12000,transferencia,usuario 1
+687,19/11/2023,12:29,sucursal 1,producto 8,2700,5,13500,transferencia,usuario 5
+688,20/11/2023,13:39,sucursal 2,producto 4,3000,1,3000,otro,usuario 5
+689,21/11/2023,19:34,sucursal 3,producto 9,2200,5,11000,transferencia,usuario 5
+690,22/11/2023,13:59,sucursal 3,producto 7,1800,3,5400,otro,usuario 4
+691,23/11/2023,10:53,sucursal 2,producto 5,2000,4,8000,efectivo,usuario 3
+692,24/11/2023,17:53,sucursal 1,producto 8,2700,4,10800,tarjeta de debito,usuario 2
+693,25/11/2023,21:04,sucursal 1,producto 8,2700,4,10800,tarjeta de debito,usuario 3
+694,26/11/2023,21:10,sucursal 1,producto 2,2500,1,2500,efectivo,usuario 2
+695,27/11/2023,21:51,sucursal 1,producto 3,1500,2,3000,transferencia,usuario 5
+696,28/11/2023,18:58,sucursal 2,producto 1,1000,2,2000,tarjeta de debito,usuario 2
+697,29/11/2023,18:28,sucursal 1,producto 7,1800,1,1800,codigo QR,usuario 3
+698,30/11/2023,15:55,sucursal 3,producto 3,1500,1,1500,codigo QR,usuario 3
+699,01/12/2023,14:14,sucursal 2,producto 7,1800,2,3600,tarjeta de debito,usuario 2
+700,02/12/2023,09:15,sucursal 3,producto 5,2000,4,8000,transferencia,usuario 5
+701,03/12/2023,22:56,sucursal 3,producto 1,1000,5,5000,tarjeta de credito,usuario 2
+702,04/12/2023,16:59,sucursal 2,producto 8,2700,3,8100,efectivo,usuario 5
+703,05/12/2023,16:01,sucursal 2,producto 6,3500,5,17500,tarjeta de debito,usuario 5
+704,06/12/2023,21:24,sucursal 3,producto 7,1800,3,5400,transferencia,usuario 5
+705,07/12/2023,16:54,sucursal 3,producto 4,3000,1,3000,codigo QR,usuario 5
+706,08/12/2023,20:07,sucursal 3,producto 2,2500,3,7500,tarjeta de debito,usuario 1
+707,09/12/2023,13:50,sucursal 1,producto 9,2200,4,8800,codigo QR,usuario 1
+708,10/12/2023,19:52,sucursal 1,producto 1,1000,1,1000,otro,usuario 3
+709,11/12/2023,12:43,sucursal 3,producto 6,3500,2,7000,tarjeta de credito,usuario 4
+710,12/12/2023,16:52,sucursal 2,producto 2,2500,2,5000,tarjeta de debito,usuario 4
+711,13/12/2023,18:59,sucursal 3,producto 9,2200,3,6600,codigo QR,usuario 4
+712,14/12/2023,17:37,sucursal 1,producto 2,2500,1,2500,efectivo,usuario 1
+713,15/12/2023,17:29,sucursal 2,producto 7,1800,2,3600,efectivo,usuario 1
+714,16/12/2023,12:06,sucursal 3,producto 4,3000,4,12000,tarjeta de credito,usuario 3
+715,17/12/2023,11:14,sucursal 1,producto 6,3500,4,14000,otro,usuario 5
+716,18/12/2023,22:27,sucursal 1,producto 1,1000,2,2000,tarjeta de debito,usuario 3
+717,19/12/2023,18:53,sucursal 1,producto 7,1800,1,1800,otro,usuario 3
+718,20/12/2023,21:18,sucursal 1,producto 6,3500,3,10500,codigo QR,usuario 3
+719,21/12/2023,14:08,sucursal 2,producto 7,1800,1,1800,tarjeta de credito,usuario 4
+720,22/12/2023,09:22,sucursal 2,producto 8,2700,3,8100,efectivo,usuario 4
+721,23/12/2023,11:15,sucursal 1,producto 10,4000,4,16000,codigo QR,usuario 4
+722,24/12/2023,20:03,sucursal 2,producto 7,1800,5,9000,tarjeta de debito,usuario 5
+723,25/12/2023,09:59,sucursal 2,producto 1,1000,3,3000,transferencia,usuario 3
+724,26/12/2023,21:41,sucursal 2,producto 2,2500,3,7500,efectivo,usuario 1
+725,27/12/2023,14:46,sucursal 3,producto 2,2500,1,2500,efectivo,usuario 4
+726,28/12/2023,20:49,sucursal 3,producto 1,1000,5,5000,otro,usuario 4
+727,29/12/2023,17:27,sucursal 3,producto 3,1500,4,6000,tarjeta de debito,usuario 4
+728,30/12/2023,20:58,sucursal 3,producto 2,2500,2,5000,codigo QR,usuario 2
+729,31/12/2023,15:17,sucursal 2,producto 2,2500,2,5000,codigo QR,usuario 5
+730,01/01/2024,10:37,sucursal 3,producto 5,2000,1,2000,codigo QR,usuario 5
+731,02/01/2024,20:46,sucursal 2,producto 3,1500,5,7500,codigo QR,usuario 5
+732,03/01/2024,11:51,sucursal 3,producto 10,4000,1,4000,codigo QR,usuario 4
+733,04/01/2024,10:51,sucursal 2,producto 4,3000,1,3000,otro,usuario 1
+734,05/01/2024,19:29,sucursal 3,producto 6,3500,3,10500,tarjeta de credito,usuario 2
+735,06/01/2024,15:47,sucursal 2,producto 5,2000,5,10000,codigo QR,usuario 5
+736,07/01/2024,10:38,sucursal 2,producto 10,4000,3,12000,efectivo,usuario 2
+737,08/01/2024,22:13,sucursal 3,producto 4,3000,5,15000,tarjeta de debito,usuario 5
+738,09/01/2024,16:14,sucursal 1,producto 10,4000,1,4000,tarjeta de credito,usuario 2
+739,10/01/2024,20:10,sucursal 3,producto 3,1500,1,1500,efectivo,usuario 5
+740,11/01/2024,14:04,sucursal 1,producto 4,3000,3,9000,efectivo,usuario 4
+741,12/01/2024,22:12,sucursal 2,producto 9,2200,1,2200,tarjeta de credito,usuario 3
+742,13/01/2024,13:49,sucursal 1,producto 1,1000,4,4000,tarjeta de credito,usuario 1
+743,14/01/2024,21:12,sucursal 1,producto 8,2700,4,10800,efectivo,usuario 5
+744,15/01/2024,19:23,sucursal 2,producto 1,1000,5,5000,otro,usuario 1
+745,16/01/2024,11:35,sucursal 2,producto 10,4000,4,16000,efectivo,usuario 2
+746,17/01/2024,12:06,sucursal 2,producto 8,2700,2,5400,tarjeta de credito,usuario 2
+747,18/01/2024,12:03,sucursal 1,producto 6,3500,4,14000,transferencia,usuario 3
+748,19/01/2024,19:09,sucursal 1,producto 6,3500,1,3500,tarjeta de debito,usuario 2
+749,20/01/2024,09:28,sucursal 3,producto 2,2500,1,2500,tarjeta de credito,usuario 2
+750,21/01/2024,22:08,sucursal 1,producto 3,1500,3,4500,tarjeta de credito,usuario 5
+751,22/01/2024,19:14,sucursal 3,producto 9,2200,1,2200,tarjeta de credito,usuario 5
+752,23/01/2024,21:51,sucursal 2,producto 1,1000,1,1000,otro,usuario 2
+753,24/01/2024,15:52,sucursal 2,producto 6,3500,3,10500,tarjeta de debito,usuario 4
+754,25/01/2024,12:47,sucursal 3,producto 6,3500,5,17500,tarjeta de debito,usuario 5
+755,26/01/2024,22:42,sucursal 1,producto 7,1800,4,7200,tarjeta de credito,usuario 5
+756,27/01/2024,10:41,sucursal 2,producto 10,4000,1,4000,tarjeta de credito,usuario 3
+757,28/01/2024,19:24,sucursal 2,producto 1,1000,3,3000,efectivo,usuario 2
+758,29/01/2024,12:12,sucursal 1,producto 6,3500,4,14000,tarjeta de debito,usuario 5
+759,30/01/2024,13:17,sucursal 1,producto 9,2200,4,8800,tarjeta de debito,usuario 1
+760,31/01/2024,11:08,sucursal 3,producto 2,2500,2,5000,otro,usuario 1
+761,01/02/2024,21:06,sucursal 1,producto 3,1500,3,4500,codigo QR,usuario 4
+762,02/02/2024,20:11,sucursal 3,producto 4,3000,4,12000,otro,usuario 4
+763,03/02/2024,11:36,sucursal 1,producto 9,2200,4,8800,tarjeta de debito,usuario 3
+764,04/02/2024,15:48,sucursal 1,producto 2,2500,1,2500,tarjeta de credito,usuario 5
+765,05/02/2024,10:46,sucursal 2,producto 1,1000,1,1000,otro,usuario 3
+766,06/02/2024,15:49,sucursal 1,producto 2,2500,4,10000,codigo QR,usuario 4
+767,07/02/2024,17:36,sucursal 1,producto 7,1800,3,5400,transferencia,usuario 1
+768,08/02/2024,14:57,sucursal 1,producto 3,1500,1,1500,otro,usuario 2
+769,09/02/2024,21:41,sucursal 2,producto 9,2200,3,6600,tarjeta de credito,usuario 4
+770,10/02/2024,10:24,sucursal 2,producto 4,3000,3,9000,codigo QR,usuario 5
+771,11/02/2024,10:20,sucursal 3,producto 9,2200,4,8800,tarjeta de credito,usuario 5
+772,12/02/2024,21:16,sucursal 2,producto 7,1800,4,7200,otro,usuario 3
+773,13/02/2024,11:32,sucursal 2,producto 2,2500,4,10000,efectivo,usuario 1
+774,14/02/2024,21:11,sucursal 3,producto 7,1800,1,1800,codigo QR,usuario 3
+775,15/02/2024,10:12,sucursal 1,producto 10,4000,1,4000,tarjeta de credito,usuario 5
+776,16/02/2024,17:27,sucursal 1,producto 6,3500,1,3500,codigo QR,usuario 4
+777,17/02/2024,14:50,sucursal 3,producto 4,3000,2,6000,tarjeta de debito,usuario 3
+778,18/02/2024,16:30,sucursal 2,producto 10,4000,5,20000,codigo QR,usuario 5
+779,19/02/2024,20:47,sucursal 2,producto 7,1800,4,7200,transferencia,usuario 3
+780,20/02/2024,21:34,sucursal 3,producto 2,2500,4,10000,tarjeta de credito,usuario 1
+781,21/02/2024,13:50,sucursal 1,producto 10,4000,3,12000,tarjeta de credito,usuario 4
+782,22/02/2024,17:37,sucursal 1,producto 10,4000,1,4000,transferencia,usuario 3
+783,23/02/2024,20:39,sucursal 3,producto 6,3500,5,17500,tarjeta de debito,usuario 5
+784,24/02/2024,11:35,sucursal 1,producto 10,4000,3,12000,codigo QR,usuario 3
+785,25/02/2024,15:55,sucursal 2,producto 10,4000,2,8000,transferencia,usuario 4
+786,26/02/2024,17:02,sucursal 3,producto 1,1000,4,4000,transferencia,usuario 5
+787,27/02/2024,09:33,sucursal 2,producto 8,2700,1,2700,transferencia,usuario 4
+788,28/02/2024,19:48,sucursal 2,producto 10,4000,4,16000,tarjeta de credito,usuario 3
+789,29/02/2024,22:54,sucursal 3,producto 1,1000,3,3000,otro,usuario 2
+790,01/03/2024,17:40,sucursal 1,producto 8,2700,5,13500,tarjeta de credito,usuario 1
+791,02/03/2024,22:31,sucursal 1,producto 8,2700,1,2700,codigo QR,usuario 3
+792,03/03/2024,22:28,sucursal 2,producto 1,1000,4,4000,tarjeta de credito,usuario 5
+793,04/03/2024,21:40,sucursal 3,producto 6,3500,1,3500,efectivo,usuario 1
+794,05/03/2024,16:35,sucursal 1,producto 1,1000,2,2000,efectivo,usuario 5
+795,06/03/2024,17:38,sucursal 2,producto 4,3000,3,9000,codigo QR,usuario 4
+796,07/03/2024,15:12,sucursal 2,producto 1,1000,1,1000,codigo QR,usuario 3
+797,08/03/2024,13:04,sucursal 1,producto 6,3500,2,7000,efectivo,usuario 3
+798,09/03/2024,17:34,sucursal 3,producto 2,2500,5,12500,transferencia,usuario 2
+799,10/03/2024,19:19,sucursal 2,producto 10,4000,5,20000,tarjeta de credito,usuario 4
+800,11/03/2024,09:52,sucursal 3,producto 6,3500,3,10500,tarjeta de debito,usuario 4
+801,12/03/2024,15:12,sucursal 2,producto 10,4000,5,20000,efectivo,usuario 2
+802,13/03/2024,14:58,sucursal 3,producto 6,3500,3,10500,codigo QR,usuario 5
+803,14/03/2024,11:26,sucursal 3,producto 8,2700,3,8100,tarjeta de debito,usuario 4
+804,15/03/2024,13:39,sucursal 2,producto 3,1500,5,7500,tarjeta de credito,usuario 4
+805,16/03/2024,16:46,sucursal 3,producto 7,1800,3,5400,transferencia,usuario 4
+806,17/03/2024,16:44,sucursal 1,producto 10,4000,4,16000,otro,usuario 2
+807,18/03/2024,09:14,sucursal 3,producto 10,4000,1,4000,tarjeta de credito,usuario 5
+808,19/03/2024,19:10,sucursal 1,producto 4,3000,3,9000,codigo QR,usuario 5
+809,20/03/2024,13:43,sucursal 3,producto 6,3500,5,17500,otro,usuario 4
+810,21/03/2024,20:27,sucursal 2,producto 7,1800,1,1800,transferencia,usuario 2
+811,22/03/2024,13:12,sucursal 2,producto 9,2200,2,4400,otro,usuario 4
+812,23/03/2024,18:26,sucursal 3,producto 10,4000,2,8000,tarjeta de credito,usuario 4
+813,24/03/2024,21:58,sucursal 3,producto 10,4000,5,20000,otro,usuario 2
+814,25/03/2024,18:23,sucursal 3,producto 6,3500,2,7000,otro,usuario 4
+815,26/03/2024,13:32,sucursal 3,producto 2,2500,5,12500,tarjeta de credito,usuario 1
+816,27/03/2024,21:15,sucursal 2,producto 1,1000,5,5000,tarjeta de credito,usuario 1
+817,28/03/2024,13:15,sucursal 3,producto 3,1500,1,1500,tarjeta de debito,usuario 2
+818,29/03/2024,15:56,sucursal 1,producto 4,3000,2,6000,transferencia,usuario 2
+819,30/03/2024,09:33,sucursal 3,producto 4,3000,5,15000,tarjeta de credito,usuario 4
+820,31/03/2024,22:19,sucursal 2,producto 2,2500,1,2500,tarjeta de credito,usuario 2
+821,01/04/2024,21:40,sucursal 2,producto 8,2700,1,2700,codigo QR,usuario 4
+822,02/04/2024,20:03,sucursal 3,producto 10,4000,1,4000,efectivo,usuario 3
+823,03/04/2024,17:31,sucursal 3,producto 8,2700,2,5400,tarjeta de credito,usuario 5
+824,04/04/2024,09:59,sucursal 1,producto 10,4000,5,20000,codigo QR,usuario 1
+825,05/04/2024,19:05,sucursal 1,producto 10,4000,3,12000,efectivo,usuario 3
+826,06/04/2024,22:09,sucursal 1,producto 4,3000,2,6000,transferencia,usuario 5
+827,07/04/2024,09:57,sucursal 1,producto 1,1000,4,4000,otro,usuario 2
+828,08/04/2024,19:45,sucursal 3,producto 2,2500,5,12500,tarjeta de credito,usuario 1
+829,09/04/2024,18:54,sucursal 2,producto 10,4000,5,20000,tarjeta de credito,usuario 4
+830,10/04/2024,15:22,sucursal 3,producto 2,2500,1,2500,tarjeta de credito,usuario 1
+831,11/04/2024,11:48,sucursal 3,producto 3,1500,4,6000,tarjeta de debito,usuario 2
+832,12/04/2024,18:15,sucursal 1,producto 5,2000,4,8000,tarjeta de debito,usuario 1
+833,13/04/2024,14:49,sucursal 3,producto 9,2200,4,8800,efectivo,usuario 3
+834,14/04/2024,15:06,sucursal 1,producto 3,1500,5,7500,tarjeta de credito,usuario 4
+835,15/04/2024,22:38,sucursal 2,producto 1,1000,2,2000,otro,usuario 5
+836,16/04/2024,13:36,sucursal 2,producto 2,2500,4,10000,tarjeta de credito,usuario 4
+837,17/04/2024,15:26,sucursal 3,producto 1,1000,3,3000,tarjeta de debito,usuario 5
+838,18/04/2024,09:09,sucursal 1,producto 4,3000,2,6000,tarjeta de credito,usuario 5
+839,19/04/2024,14:29,sucursal 3,producto 2,2500,3,7500,otro,usuario 1
+840,20/04/2024,18:04,sucursal 1,producto 5,2000,2,4000,codigo QR,usuario 3
+841,21/04/2024,15:03,sucursal 2,producto 9,2200,4,8800,codigo QR,usuario 2
+842,22/04/2024,13:21,sucursal 2,producto 5,2000,3,6000,efectivo,usuario 1
+843,23/04/2024,17:28,sucursal 1,producto 2,2500,3,7500,codigo QR,usuario 3
+844,24/04/2024,12:40,sucursal 2,producto 9,2200,2,4400,efectivo,usuario 3
+845,25/04/2024,20:27,sucursal 1,producto 7,1800,3,5400,tarjeta de credito,usuario 5
+846,26/04/2024,22:48,sucursal 3,producto 2,2500,1,2500,otro,usuario 1
+847,27/04/2024,14:51,sucursal 3,producto 2,2500,5,12500,otro,usuario 3
+848,28/04/2024,17:44,sucursal 3,producto 8,2700,3,8100,otro,usuario 5
+849,29/04/2024,13:46,sucursal 1,producto 1,1000,5,5000,efectivo,usuario 3
+850,30/04/2024,20:26,sucursal 1,producto 2,2500,3,7500,codigo QR,usuario 4
+851,01/05/2024,20:19,sucursal 3,producto 7,1800,4,7200,efectivo,usuario 5
+852,02/05/2024,17:16,sucursal 1,producto 7,1800,3,5400,codigo QR,usuario 1
+853,03/05/2024,19:00,sucursal 2,producto 6,3500,4,14000,transferencia,usuario 4
+854,04/05/2024,17:19,sucursal 3,producto 6,3500,5,17500,tarjeta de credito,usuario 1
+855,05/05/2024,11:22,sucursal 2,producto 2,2500,5,12500,efectivo,usuario 4
+856,06/05/2024,21:22,sucursal 3,producto 7,1800,1,1800,tarjeta de credito,usuario 5
+857,07/05/2024,11:39,sucursal 1,producto 8,2700,2,5400,codigo QR,usuario 4
+858,08/05/2024,10:39,sucursal 2,producto 1,1000,3,3000,efectivo,usuario 4
+859,09/05/2024,09:27,sucursal 1,producto 5,2000,2,4000,transferencia,usuario 5
+860,10/05/2024,09:08,sucursal 3,producto 7,1800,1,1800,transferencia,usuario 5
+861,11/05/2024,16:50,sucursal 2,producto 6,3500,5,17500,tarjeta de credito,usuario 1
+862,12/05/2024,13:48,sucursal 1,producto 4,3000,4,12000,tarjeta de debito,usuario 2
+863,13/05/2024,21:27,sucursal 3,producto 5,2000,3,6000,codigo QR,usuario 1
+864,14/05/2024,17:29,sucursal 3,producto 6,3500,2,7000,tarjeta de debito,usuario 4
+865,15/05/2024,13:48,sucursal 1,producto 10,4000,1,4000,tarjeta de debito,usuario 5
+866,16/05/2024,11:09,sucursal 2,producto 4,3000,2,6000,tarjeta de debito,usuario 2
+867,17/05/2024,22:17,sucursal 2,producto 6,3500,3,10500,otro,usuario 4
+868,18/05/2024,14:21,sucursal 1,producto 8,2700,3,8100,tarjeta de debito,usuario 2
+869,19/05/2024,20:19,sucursal 1,producto 5,2000,5,10000,efectivo,usuario 4
+870,20/05/2024,11:41,sucursal 2,producto 1,1000,2,2000,transferencia,usuario 3
+871,21/05/2024,20:38,sucursal 2,producto 2,2500,5,12500,transferencia,usuario 1
+872,22/05/2024,18:37,sucursal 3,producto 7,1800,2,3600,efectivo,usuario 3
+873,23/05/2024,20:15,sucursal 3,producto 6,3500,2,7000,efectivo,usuario 4
+874,24/05/2024,20:03,sucursal 1,producto 3,1500,4,6000,efectivo,usuario 5
+875,25/05/2024,21:43,sucursal 3,producto 2,2500,2,5000,tarjeta de credito,usuario 3
+876,26/05/2024,09:40,sucursal 1,producto 6,3500,5,17500,transferencia,usuario 3
+877,27/05/2024,16:17,sucursal 3,producto 1,1000,2,2000,tarjeta de debito,usuario 3
+878,28/05/2024,17:52,sucursal 2,producto 7,1800,3,5400,transferencia,usuario 1
+879,29/05/2024,17:01,sucursal 1,producto 4,3000,4,12000,otro,usuario 1
+880,30/05/2024,10:17,sucursal 1,producto 3,1500,5,7500,tarjeta de debito,usuario 3
+881,31/05/2024,12:12,sucursal 1,producto 6,3500,4,14000,efectivo,usuario 3
+882,01/06/2024,12:57,sucursal 3,producto 10,4000,2,8000,transferencia,usuario 3
+883,02/06/2024,10:28,sucursal 1,producto 5,2000,4,8000,transferencia,usuario 5
+884,03/06/2024,09:20,sucursal 2,producto 10,4000,4,16000,otro,usuario 1
+885,04/06/2024,20:47,sucursal 3,producto 3,1500,4,6000,otro,usuario 3
+886,05/06/2024,16:42,sucursal 3,producto 6,3500,2,7000,otro,usuario 2
+887,06/06/2024,15:08,sucursal 2,producto 3,1500,2,3000,tarjeta de credito,usuario 1
+888,07/06/2024,11:22,sucursal 3,producto 7,1800,2,3600,tarjeta de credito,usuario 3
+889,08/06/2024,17:48,sucursal 1,producto 7,1800,2,3600,tarjeta de credito,usuario 4
+890,09/06/2024,12:54,sucursal 1,producto 5,2000,4,8000,codigo QR,usuario 5
+891,10/06/2024,17:11,sucursal 3,producto 4,3000,3,9000,tarjeta de credito,usuario 3
+892,11/06/2024,16:49,sucursal 1,producto 8,2700,2,5400,efectivo,usuario 4
+893,12/06/2024,10:04,sucursal 3,producto 7,1800,1,1800,tarjeta de debito,usuario 4
+894,13/06/2024,17:58,sucursal 2,producto 4,3000,2,6000,tarjeta de debito,usuario 1
+895,14/06/2024,13:44,sucursal 2,producto 5,2000,4,8000,otro,usuario 3
+896,15/06/2024,20:47,sucursal 2,producto 2,2500,2,5000,efectivo,usuario 1
+897,16/06/2024,22:02,sucursal 1,producto 2,2500,4,10000,otro,usuario 1
+898,17/06/2024,16:00,sucursal 1,producto 10,4000,2,8000,codigo QR,usuario 5
+899,18/06/2024,11:42,sucursal 3,producto 5,2000,2,4000,otro,usuario 3
+900,19/06/2024,18:15,sucursal 2,producto 10,4000,2,8000,transferencia,usuario 4
+901,20/06/2024,12:26,sucursal 1,producto 3,1500,5,7500,tarjeta de debito,usuario 5
+902,21/06/2024,11:46,sucursal 1,producto 4,3000,2,6000,transferencia,usuario 3
+903,22/06/2024,16:48,sucursal 1,producto 8,2700,2,5400,codigo QR,usuario 5
+904,23/06/2024,15:24,sucursal 2,producto 2,2500,3,7500,efectivo,usuario 2
+905,24/06/2024,17:41,sucursal 1,producto 10,4000,2,8000,codigo QR,usuario 5
+906,25/06/2024,12:08,sucursal 3,producto 7,1800,1,1800,efectivo,usuario 1
+907,26/06/2024,12:12,sucursal 2,producto 6,3500,3,10500,otro,usuario 1
+908,27/06/2024,21:46,sucursal 1,producto 7,1800,3,5400,tarjeta de credito,usuario 2
+909,28/06/2024,21:23,sucursal 3,producto 2,2500,5,12500,codigo QR,usuario 3
+910,29/06/2024,16:01,sucursal 3,producto 1,1000,4,4000,efectivo,usuario 1
+911,30/06/2024,20:02,sucursal 3,producto 7,1800,3,5400,codigo QR,usuario 1
+912,01/07/2024,14:09,sucursal 1,producto 2,2500,5,12500,tarjeta de debito,usuario 1
+913,02/07/2024,21:08,sucursal 3,producto 2,2500,4,10000,tarjeta de credito,usuario 3
+914,03/07/2024,21:20,sucursal 3,producto 2,2500,2,5000,tarjeta de credito,usuario 1
+915,04/07/2024,21:04,sucursal 2,producto 1,1000,4,4000,transferencia,usuario 3
+916,05/07/2024,13:24,sucursal 3,producto 4,3000,1,3000,tarjeta de credito,usuario 5
+917,06/07/2024,17:01,sucursal 1,producto 1,1000,4,4000,efectivo,usuario 3
+918,07/07/2024,16:12,sucursal 1,producto 2,2500,1,2500,otro,usuario 2
+919,08/07/2024,11:27,sucursal 1,producto 2,2500,5,12500,otro,usuario 3
+920,09/07/2024,16:47,sucursal 2,producto 6,3500,4,14000,tarjeta de credito,usuario 3
+921,10/07/2024,16:53,sucursal 1,producto 3,1500,4,6000,efectivo,usuario 5
+922,11/07/2024,14:53,sucursal 1,producto 2,2500,1,2500,efectivo,usuario 2
+923,12/07/2024,18:06,sucursal 3,producto 4,3000,3,9000,tarjeta de debito,usuario 1
+924,13/07/2024,11:39,sucursal 1,producto 4,3000,3,9000,tarjeta de credito,usuario 2
+925,14/07/2024,17:48,sucursal 3,producto 3,1500,5,7500,tarjeta de credito,usuario 1
+926,15/07/2024,21:10,sucursal 2,producto 6,3500,3,10500,codigo QR,usuario 2
+927,16/07/2024,21:02,sucursal 1,producto 3,1500,5,7500,otro,usuario 1
+928,17/07/2024,19:46,sucursal 3,producto 10,4000,3,12000,tarjeta de credito,usuario 2
+929,18/07/2024,13:48,sucursal 1,producto 3,1500,3,4500,transferencia,usuario 5
+930,19/07/2024,12:10,sucursal 2,producto 7,1800,5,9000,transferencia,usuario 5
+931,20/07/2024,12:08,sucursal 2,producto 7,1800,2,3600,tarjeta de debito,usuario 4
+932,21/07/2024,14:32,sucursal 3,producto 1,1000,3,3000,otro,usuario 5
+933,22/07/2024,15:16,sucursal 3,producto 1,1000,3,3000,otro,usuario 4
+934,23/07/2024,18:13,sucursal 3,producto 10,4000,2,8000,codigo QR,usuario 5
+935,24/07/2024,17:55,sucursal 1,producto 1,1000,2,2000,efectivo,usuario 5
+936,25/07/2024,21:11,sucursal 1,producto 7,1800,4,7200,efectivo,usuario 4
+937,26/07/2024,09:58,sucursal 3,producto 6,3500,5,17500,transferencia,usuario 4
+938,27/07/2024,14:24,sucursal 2,producto 9,2200,4,8800,tarjeta de debito,usuario 2
+939,28/07/2024,17:24,sucursal 3,producto 3,1500,2,3000,otro,usuario 5
+940,29/07/2024,10:21,sucursal 2,producto 3,1500,4,6000,otro,usuario 5
+941,30/07/2024,21:54,sucursal 1,producto 5,2000,3,6000,efectivo,usuario 5
+942,31/07/2024,12:38,sucursal 2,producto 7,1800,4,7200,tarjeta de credito,usuario 2
+943,01/08/2024,09:17,sucursal 3,producto 8,2700,5,13500,efectivo,usuario 4
+944,02/08/2024,12:59,sucursal 1,producto 2,2500,1,2500,efectivo,usuario 5
+945,03/08/2024,17:53,sucursal 3,producto 6,3500,2,7000,codigo QR,usuario 1
+946,04/08/2024,15:21,sucursal 1,producto 9,2200,3,6600,otro,usuario 3
+947,05/08/2024,16:13,sucursal 2,producto 9,2200,2,4400,tarjeta de credito,usuario 1
+948,06/08/2024,10:38,sucursal 1,producto 6,3500,2,7000,tarjeta de debito,usuario 3
+949,07/08/2024,14:08,sucursal 1,producto 4,3000,1,3000,codigo QR,usuario 5
+950,08/08/2024,21:35,sucursal 3,producto 9,2200,1,2200,tarjeta de debito,usuario 1
+951,09/08/2024,10:46,sucursal 2,producto 9,2200,4,8800,codigo QR,usuario 4
+952,10/08/2024,13:01,sucursal 2,producto 8,2700,5,13500,transferencia,usuario 1
+953,11/08/2024,15:54,sucursal 1,producto 1,1000,1,1000,otro,usuario 2
+954,12/08/2024,16:15,sucursal 1,producto 2,2500,4,10000,transferencia,usuario 4
+955,13/08/2024,17:01,sucursal 1,producto 5,2000,5,10000,efectivo,usuario 3
+956,14/08/2024,12:39,sucursal 1,producto 2,2500,3,7500,tarjeta de debito,usuario 1
+957,15/08/2024,09:19,sucursal 2,producto 7,1800,1,1800,transferencia,usuario 2
+958,16/08/2024,15:20,sucursal 3,producto 2,2500,1,2500,codigo QR,usuario 1
+959,17/08/2024,17:39,sucursal 3,producto 5,2000,1,2000,tarjeta de debito,usuario 4
+960,18/08/2024,20:11,sucursal 3,producto 8,2700,3,8100,otro,usuario 2
+961,19/08/2024,21:04,sucursal 2,producto 9,2200,4,8800,tarjeta de debito,usuario 1
+962,20/08/2024,15:48,sucursal 2,producto 6,3500,3,10500,tarjeta de debito,usuario 3
+963,21/08/2024,13:05,sucursal 3,producto 7,1800,4,7200,tarjeta de credito,usuario 1
+964,22/08/2024,17:23,sucursal 3,producto 1,1000,3,3000,codigo QR,usuario 1
+965,23/08/2024,10:34,sucursal 3,producto 2,2500,5,12500,tarjeta de credito,usuario 3
+966,24/08/2024,21:13,sucursal 3,producto 6,3500,3,10500,otro,usuario 1
+967,25/08/2024,09:21,sucursal 3,producto 8,2700,3,8100,tarjeta de credito,usuario 1
+968,26/08/2024,13:11,sucursal 1,producto 8,2700,1,2700,tarjeta de debito,usuario 3
+969,27/08/2024,14:03,sucursal 3,producto 1,1000,2,2000,efectivo,usuario 2
+970,28/08/2024,09:56,sucursal 1,producto 10,4000,3,12000,tarjeta de debito,usuario 1
+971,29/08/2024,16:12,sucursal 1,producto 6,3500,2,7000,codigo QR,usuario 5
+972,30/08/2024,15:26,sucursal 1,producto 7,1800,2,3600,tarjeta de debito,usuario 2
+973,31/08/2024,09:50,sucursal 2,producto 9,2200,3,6600,tarjeta de credito,usuario 2
+974,01/09/2024,09:04,sucursal 1,producto 2,2500,4,10000,efectivo,usuario 4
+975,02/09/2024,09:03,sucursal 3,producto 6,3500,4,14000,tarjeta de credito,usuario 4
+976,03/09/2024,15:45,sucursal 2,producto 1,1000,3,3000,tarjeta de credito,usuario 4
+977,04/09/2024,14:22,sucursal 1,producto 3,1500,1,1500,tarjeta de credito,usuario 3
+978,05/09/2024,12:02,sucursal 2,producto 9,2200,4,8800,transferencia,usuario 5
+979,06/09/2024,22:17,sucursal 2,producto 7,1800,4,7200,codigo QR,usuario 3
+980,07/09/2024,18:08,sucursal 3,producto 7,1800,4,7200,tarjeta de credito,usuario 5
+981,08/09/2024,13:47,sucursal 1,producto 3,1500,5,7500,efectivo,usuario 4
+982,09/09/2024,21:04,sucursal 3,producto 10,4000,1,4000,otro,usuario 5
+983,10/09/2024,10:13,sucursal 2,producto 8,2700,1,2700,otro,usuario 2
+984,11/09/2024,17:04,sucursal 3,producto 9,2200,2,4400,efectivo,usuario 4
+985,12/09/2024,15:02,sucursal 3,producto 7,1800,1,1800,efectivo,usuario 5
+986,13/09/2024,14:16,sucursal 1,producto 3,1500,5,7500,otro,usuario 5
+987,14/09/2024,12:14,sucursal 1,producto 8,2700,1,2700,codigo QR,usuario 1
+988,15/09/2024,09:07,sucursal 1,producto 2,2500,4,10000,otro,usuario 2
+989,16/09/2024,22:25,sucursal 3,producto 5,2000,1,2000,efectivo,usuario 5
+990,17/09/2024,16:49,sucursal 1,producto 4,3000,2,6000,otro,usuario 5
+991,18/09/2024,22:04,sucursal 2,producto 7,1800,3,5400,tarjeta de credito,usuario 4
+992,19/09/2024,20:38,sucursal 3,producto 4,3000,5,15000,tarjeta de credito,usuario 2
+993,20/09/2024,18:26,sucursal 3,producto 7,1800,5,9000,efectivo,usuario 3
+994,21/09/2024,21:42,sucursal 1,producto 5,2000,1,2000,tarjeta de credito,usuario 4
+995,22/09/2024,16:26,sucursal 2,producto 4,3000,4,12000,tarjeta de credito,usuario 1
+996,23/09/2024,14:51,sucursal 1,producto 9,2200,4,8800,otro,usuario 1
+997,24/09/2024,10:40,sucursal 1,producto 4,3000,2,6000,codigo QR,usuario 3
+998,25/09/2024,13:45,sucursal 3,producto 10,4000,2,8000,efectivo,usuario 4
+999,26/09/2024,12:11,sucursal 1,producto 5,2000,3,6000,tarjeta de debito,usuario 1
+1000,27/09/2024,13:11,sucursal 2,producto 2,2500,2,5000,otro,usuario 3
+1001,28/09/2024,10:02,sucursal 2,producto 7,1800,3,5400,otro,usuario 4
+1002,29/09/2024,21:06,sucursal 3,producto 6,3500,1,3500,codigo QR,usuario 2
+1003,30/09/2024,20:14,sucursal 3,producto 6,3500,4,14000,tarjeta de debito,usuario 3
+1004,01/10/2024,10:55,sucursal 3,producto 1,1000,3,3000,efectivo,usuario 1
+1005,02/10/2024,11:00,sucursal 1,producto 7,1800,3,5400,tarjeta de credito,usuario 4
+1006,03/10/2024,10:06,sucursal 1,producto 4,3000,1,3000,tarjeta de debito,usuario 2
+1007,04/10/2024,09:47,sucursal 2,producto 4,3000,4,12000,tarjeta de debito,usuario 1
+1008,05/10/2024,14:44,sucursal 3,producto 10,4000,5,20000,tarjeta de debito,usuario 3
+1009,06/10/2024,21:56,sucursal 1,producto 1,1000,5,5000,tarjeta de credito,usuario 1
+1010,07/10/2024,13:22,sucursal 2,producto 2,2500,2,5000,efectivo,usuario 3
+1011,08/10/2024,11:57,sucursal 2,producto 10,4000,5,20000,codigo QR,usuario 2
+1012,09/10/2024,18:37,sucursal 3,producto 10,4000,1,4000,tarjeta de credito,usuario 2
+1013,10/10/2024,13:35,sucursal 3,producto 2,2500,1,2500,efectivo,usuario 3
+1014,11/10/2024,22:36,sucursal 3,producto 9,2200,2,4400,tarjeta de debito,usuario 4
+1015,12/10/2024,13:00,sucursal 1,producto 4,3000,4,12000,tarjeta de credito,usuario 4
+1016,13/10/2024,15:19,sucursal 3,producto 8,2700,5,13500,transferencia,usuario 3
+1017,14/10/2024,15:57,sucursal 1,producto 7,1800,5,9000,efectivo,usuario 4
+1018,15/10/2024,21:10,sucursal 3,producto 5,2000,4,8000,transferencia,usuario 3
+1019,16/10/2024,09:47,sucursal 2,producto 9,2200,5,11000,tarjeta de credito,usuario 4
+1020,17/10/2024,19:56,sucursal 3,producto 1,1000,1,1000,tarjeta de debito,usuario 4
+1021,18/10/2024,17:23,sucursal 2,producto 3,1500,5,7500,transferencia,usuario 1
+1022,19/10/2024,20:47,sucursal 3,producto 5,2000,5,10000,codigo QR,usuario 2
+1023,20/10/2024,19:40,sucursal 3,producto 10,4000,2,8000,efectivo,usuario 3
+1024,21/10/2024,20:41,sucursal 1,producto 9,2200,1,2200,transferencia,usuario 3
+1025,22/10/2024,22:56,sucursal 1,producto 4,3000,1,3000,otro,usuario 5
+1026,23/10/2024,22:56,sucursal 3,producto 1,1000,4,4000,otro,usuario 1
+1027,24/10/2024,15:51,sucursal 1,producto 3,1500,2,3000,efectivo,usuario 3
+1028,25/10/2024,21:39,sucursal 2,producto 7,1800,1,1800,otro,usuario 3
+1029,26/10/2024,17:48,sucursal 3,producto 8,2700,5,13500,codigo QR,usuario 1
+1030,27/10/2024,17:25,sucursal 1,producto 5,2000,4,8000,tarjeta de debito,usuario 5
+1031,28/10/2024,22:18,sucursal 1,producto 6,3500,3,10500,efectivo,usuario 1
+1032,29/10/2024,11:17,sucursal 2,producto 2,2500,1,2500,otro,usuario 4
+1033,30/10/2024,16:55,sucursal 2,producto 5,2000,4,8000,tarjeta de debito,usuario 5
+1034,31/10/2024,12:14,sucursal 1,producto 1,1000,1,1000,tarjeta de debito,usuario 4
+1035,01/11/2024,12:13,sucursal 1,producto 4,3000,2,6000,codigo QR,usuario 3
+1036,02/11/2024,16:50,sucursal 1,producto 5,2000,1,2000,tarjeta de credito,usuario 5
+1037,03/11/2024,21:31,sucursal 1,producto 5,2000,4,8000,codigo QR,usuario 3
+1038,04/11/2024,15:40,sucursal 1,producto 9,2200,5,11000,codigo QR,usuario 2
+1039,05/11/2024,16:00,sucursal 1,producto 5,2000,3,6000,tarjeta de credito,usuario 1
+1040,06/11/2024,12:42,sucursal 1,producto 4,3000,3,9000,transferencia,usuario 3
+1041,07/11/2024,15:56,sucursal 2,producto 2,2500,3,7500,tarjeta de debito,usuario 2
+1042,08/11/2024,21:40,sucursal 1,producto 7,1800,5,9000,transferencia,usuario 1
+1043,09/11/2024,10:00,sucursal 1,producto 4,3000,4,12000,tarjeta de debito,usuario 1
+1044,10/11/2024,11:37,sucursal 1,producto 2,2500,4,10000,codigo QR,usuario 1
+1045,11/11/2024,19:25,sucursal 3,producto 4,3000,2,6000,transferencia,usuario 5
+1046,12/11/2024,10:27,sucursal 1,producto 10,4000,4,16000,codigo QR,usuario 5
+1047,13/11/2024,13:03,sucursal 3,producto 5,2000,1,2000,otro,usuario 5
+1048,14/11/2024,14:11,sucursal 2,producto 4,3000,5,15000,tarjeta de credito,usuario 4
+1049,15/11/2024,18:09,sucursal 3,producto 4,3000,3,9000,tarjeta de credito,usuario 5
+1050,16/11/2024,16:02,sucursal 1,producto 3,1500,1,1500,tarjeta de credito,usuario 2
+1051,17/11/2024,15:04,sucursal 3,producto 8,2700,2,5400,transferencia,usuario 4
+1052,18/11/2024,19:41,sucursal 1,producto 6,3500,2,7000,otro,usuario 5
+1053,19/11/2024,21:25,sucursal 2,producto 4,3000,1,3000,otro,usuario 4
+1054,20/11/2024,15:25,sucursal 1,producto 5,2000,5,10000,efectivo,usuario 1
+1055,21/11/2024,09:55,sucursal 2,producto 4,3000,3,9000,codigo QR,usuario 1
+1056,22/11/2024,11:05,sucursal 3,producto 5,2000,1,2000,codigo QR,usuario 2
+1057,23/11/2024,20:14,sucursal 3,producto 2,2500,2,5000,tarjeta de credito,usuario 2
+1058,24/11/2024,17:48,sucursal 2,producto 2,2500,3,7500,tarjeta de credito,usuario 5
+1059,25/11/2024,11:27,sucursal 3,producto 5,2000,5,10000,otro,usuario 2
+1060,26/11/2024,13:22,sucursal 2,producto 2,2500,1,2500,otro,usuario 3
+1061,27/11/2024,11:07,sucursal 3,producto 7,1800,3,5400,tarjeta de credito,usuario 5
+1062,28/11/2024,09:36,sucursal 2,producto 3,1500,2,3000,transferencia,usuario 3
+1063,29/11/2024,14:04,sucursal 1,producto 8,2700,3,8100,tarjeta de credito,usuario 5
+1064,30/11/2024,12:49,sucursal 2,producto 9,2200,5,11000,codigo QR,usuario 2
+1065,01/12/2024,14:47,sucursal 1,producto 2,2500,2,5000,codigo QR,usuario 3
+1066,02/12/2024,22:26,sucursal 3,producto 1,1000,3,3000,tarjeta de credito,usuario 5
+1067,03/12/2024,11:58,sucursal 1,producto 5,2000,3,6000,transferencia,usuario 2
+1068,04/12/2024,11:33,sucursal 3,producto 4,3000,3,9000,codigo QR,usuario 2
+1069,05/12/2024,13:58,sucursal 3,producto 9,2200,4,8800,codigo QR,usuario 2
+1070,06/12/2024,09:30,sucursal 2,producto 1,1000,4,4000,tarjeta de debito,usuario 5
+1071,07/12/2024,16:38,sucursal 2,producto 9,2200,1,2200,transferencia,usuario 4
+1072,08/12/2024,18:48,sucursal 1,producto 10,4000,5,20000,codigo QR,usuario 4
+1073,09/12/2024,18:29,sucursal 3,producto 10,4000,2,8000,efectivo,usuario 4
+1074,10/12/2024,20:47,sucursal 1,producto 1,1000,4,4000,tarjeta de debito,usuario 3
+1075,11/12/2024,19:45,sucursal 1,producto 4,3000,5,15000,codigo QR,usuario 1
+1076,12/12/2024,19:35,sucursal 3,producto 4,3000,2,6000,otro,usuario 2
+1077,13/12/2024,19:06,sucursal 3,producto 1,1000,1,1000,codigo QR,usuario 1
+1078,14/12/2024,20:07,sucursal 1,producto 8,2700,5,13500,otro,usuario 1
+1079,15/12/2024,14:22,sucursal 3,producto 3,1500,4,6000,tarjeta de credito,usuario 3
+1080,16/12/2024,17:54,sucursal 3,producto 9,2200,4,8800,efectivo,usuario 5
+1081,17/12/2024,15:32,sucursal 1,producto 3,1500,2,3000,efectivo,usuario 1
+1082,18/12/2024,20:55,sucursal 1,producto 2,2500,1,2500,tarjeta de debito,usuario 3
+1083,19/12/2024,11:00,sucursal 2,producto 6,3500,5,17500,transferencia,usuario 2
+1084,20/12/2024,12:06,sucursal 1,producto 10,4000,3,12000,otro,usuario 1
+1085,21/12/2024,17:54,sucursal 2,producto 7,1800,3,5400,efectivo,usuario 3
+1086,22/12/2024,11:01,sucursal 2,producto 10,4000,5,20000,otro,usuario 3
+1087,23/12/2024,19:56,sucursal 1,producto 8,2700,3,8100,transferencia,usuario 1
+1088,24/12/2024,10:25,sucursal 3,producto 7,1800,5,9000,transferencia,usuario 4
+1089,25/12/2024,09:26,sucursal 3,producto 4,3000,4,12000,transferencia,usuario 1
+1090,26/12/2024,18:56,sucursal 1,producto 10,4000,1,4000,otro,usuario 3
+1091,27/12/2024,17:54,sucursal 2,producto 9,2200,4,8800,otro,usuario 4
+1092,28/12/2024,10:54,sucursal 3,producto 10,4000,3,12000,tarjeta de debito,usuario 3
+1093,29/12/2024,14:17,sucursal 1,producto 5,2000,4,8000,tarjeta de credito,usuario 5
+1094,30/12/2024,14:23,sucursal 1,producto 10,4000,3,12000,otro,usuario 3
+1095,31/12/2024,13:24,sucursal 2,producto 1,1000,2,2000,otro,usuario 1
+1096,01/01/2025,18:22,sucursal 3,producto 3,1500,2,3000,otro,usuario 3
+1097,02/01/2025,17:35,sucursal 2,producto 7,1800,5,9000,transferencia,usuario 4
+1098,03/01/2025,22:36,sucursal 1,producto 8,2700,1,2700,otro,usuario 3
+1099,04/01/2025,18:31,sucursal 2,producto 8,2700,1,2700,efectivo,usuario 2
+1100,05/01/2025,22:36,sucursal 3,producto 2,2500,2,5000,tarjeta de debito,usuario 4
+1101,06/01/2025,14:49,sucursal 1,producto 9,2200,2,4400,otro,usuario 1
+1102,07/01/2025,09:43,sucursal 2,producto 7,1800,1,1800,transferencia,usuario 2
+1103,08/01/2025,16:54,sucursal 1,producto 1,1000,2,2000,otro,usuario 5
+1104,09/01/2025,09:22,sucursal 2,producto 2,2500,1,2500,codigo QR,usuario 5
+1105,10/01/2025,16:35,sucursal 3,producto 8,2700,1,2700,transferencia,usuario 1
+1106,11/01/2025,22:16,sucursal 2,producto 10,4000,4,16000,otro,usuario 1
+1107,12/01/2025,21:02,sucursal 2,producto 7,1800,3,5400,codigo QR,usuario 3
+1108,13/01/2025,14:55,sucursal 2,producto 2,2500,2,5000,tarjeta de debito,usuario 2
+1109,14/01/2025,10:04,sucursal 1,producto 9,2200,5,11000,efectivo,usuario 4
+1110,15/01/2025,14:05,sucursal 2,producto 7,1800,3,5400,efectivo,usuario 2
+1111,16/01/2025,21:39,sucursal 1,producto 7,1800,4,7200,transferencia,usuario 5
+1112,17/01/2025,12:54,sucursal 3,producto 3,1500,4,6000,codigo QR,usuario 4
+1113,18/01/2025,09:22,sucursal 2,producto 1,1000,5,5000,tarjeta de debito,usuario 1
+1114,19/01/2025,14:47,sucursal 2,producto 3,1500,3,4500,otro,usuario 3
+1115,20/01/2025,13:08,sucursal 3,producto 1,1000,3,3000,tarjeta de debito,usuario 5
+1116,21/01/2025,18:26,sucursal 3,producto 2,2500,2,5000,transferencia,usuario 2
+1117,22/01/2025,21:08,sucursal 1,producto 3,1500,5,7500,efectivo,usuario 3
+1118,23/01/2025,19:10,sucursal 2,producto 3,1500,1,1500,efectivo,usuario 4
+1119,24/01/2025,09:32,sucursal 1,producto 7,1800,2,3600,otro,usuario 5
+1120,25/01/2025,20:19,sucursal 1,producto 7,1800,2,3600,otro,usuario 3
+1121,26/01/2025,12:32,sucursal 2,producto 1,1000,5,5000,transferencia,usuario 2
+1122,27/01/2025,13:50,sucursal 2,producto 6,3500,4,14000,codigo QR,usuario 1
+1123,28/01/2025,20:35,sucursal 3,producto 8,2700,2,5400,tarjeta de debito,usuario 3
+1124,29/01/2025,22:10,sucursal 1,producto 9,2200,3,6600,codigo QR,usuario 5
+1125,30/01/2025,10:21,sucursal 3,producto 9,2200,5,11000,tarjeta de credito,usuario 5
+1126,31/01/2025,21:24,sucursal 2,producto 9,2200,1,2200,efectivo,usuario 1
+1127,01/02/2025,14:30,sucursal 2,producto 5,2000,3,6000,codigo QR,usuario 1
+1128,02/02/2025,13:57,sucursal 3,producto 5,2000,2,4000,codigo QR,usuario 3
+1129,03/02/2025,19:03,sucursal 2,producto 9,2200,4,8800,codigo QR,usuario 4
+1130,04/02/2025,09:01,sucursal 3,producto 3,1500,1,1500,transferencia,usuario 1
+1131,05/02/2025,18:35,sucursal 2,producto 6,3500,5,17500,codigo QR,usuario 3
+1132,06/02/2025,10:06,sucursal 1,producto 4,3000,5,15000,otro,usuario 1
+1133,07/02/2025,11:49,sucursal 2,producto 4,3000,5,15000,transferencia,usuario 5
+1134,08/02/2025,15:29,sucursal 1,producto 8,2700,2,5400,otro,usuario 2
+1135,09/02/2025,21:46,sucursal 1,producto 2,2500,1,2500,transferencia,usuario 4
+1136,10/02/2025,14:15,sucursal 3,producto 8,2700,3,8100,efectivo,usuario 2
+1137,11/02/2025,09:48,sucursal 3,producto 3,1500,3,4500,transferencia,usuario 1
+1138,12/02/2025,22:28,sucursal 1,producto 8,2700,4,10800,tarjeta de credito,usuario 5
+1139,13/02/2025,12:25,sucursal 2,producto 1,1000,2,2000,tarjeta de debito,usuario 5
+1140,14/02/2025,13:50,sucursal 1,producto 4,3000,3,9000,tarjeta de credito,usuario 5
+1141,15/02/2025,19:36,sucursal 2,producto 8,2700,1,2700,tarjeta de credito,usuario 2
+1142,16/02/2025,18:05,sucursal 1,producto 9,2200,3,6600,efectivo,usuario 1
+1143,17/02/2025,11:11,sucursal 2,producto 1,1000,2,2000,tarjeta de credito,usuario 3
+1144,18/02/2025,16:48,sucursal 1,producto 10,4000,1,4000,tarjeta de debito,usuario 3
+1145,19/02/2025,17:38,sucursal 3,producto 10,4000,1,4000,efectivo,usuario 1
+1146,20/02/2025,22:54,sucursal 2,producto 10,4000,4,16000,tarjeta de debito,usuario 5
+1147,21/02/2025,14:28,sucursal 3,producto 1,1000,3,3000,tarjeta de credito,usuario 2
+1148,22/02/2025,13:33,sucursal 3,producto 10,4000,2,8000,efectivo,usuario 3
+1149,23/02/2025,11:25,sucursal 3,producto 10,4000,4,16000,otro,usuario 2
+1150,24/02/2025,18:02,sucursal 3,producto 10,4000,3,12000,tarjeta de credito,usuario 1
+1151,25/02/2025,22:46,sucursal 3,producto 8,2700,2,5400,transferencia,usuario 2
+1152,26/02/2025,13:59,sucursal 1,producto 4,3000,1,3000,tarjeta de debito,usuario 2
+1153,27/02/2025,21:59,sucursal 2,producto 2,2500,5,12500,codigo QR,usuario 2
+1154,28/02/2025,22:40,sucursal 2,producto 3,1500,3,4500,otro,usuario 3
+1155,01/03/2025,13:42,sucursal 1,producto 3,1500,3,4500,codigo QR,usuario 2
+1156,02/03/2025,18:12,sucursal 2,producto 4,3000,3,9000,codigo QR,usuario 1
+1157,03/03/2025,15:44,sucursal 1,producto 9,2200,4,8800,transferencia,usuario 3
+1158,04/03/2025,21:44,sucursal 2,producto 4,3000,4,12000,tarjeta de credito,usuario 2
+1159,05/03/2025,14:17,sucursal 1,producto 4,3000,1,3000,tarjeta de debito,usuario 3
+1160,06/03/2025,18:03,sucursal 3,producto 2,2500,3,7500,transferencia,usuario 2
+1161,07/03/2025,13:49,sucursal 2,producto 2,2500,3,7500,codigo QR,usuario 2
+1162,08/03/2025,12:51,sucursal 3,producto 8,2700,5,13500,codigo QR,usuario 1
+1163,09/03/2025,22:18,sucursal 3,producto 1,1000,5,5000,transferencia,usuario 4
+1164,10/03/2025,14:56,sucursal 3,producto 9,2200,2,4400,codigo QR,usuario 4
+1165,11/03/2025,09:16,sucursal 1,producto 4,3000,2,6000,tarjeta de credito,usuario 3
+1166,12/03/2025,19:13,sucursal 2,producto 10,4000,5,20000,codigo QR,usuario 5
+1167,13/03/2025,13:47,sucursal 1,producto 1,1000,4,4000,otro,usuario 4
+1168,14/03/2025,17:18,sucursal 1,producto 2,2500,1,2500,efectivo,usuario 4
+1169,15/03/2025,15:27,sucursal 2,producto 4,3000,4,12000,transferencia,usuario 1
+1170,16/03/2025,19:36,sucursal 2,producto 4,3000,3,9000,efectivo,usuario 4
+1171,17/03/2025,17:17,sucursal 1,producto 6,3500,5,17500,tarjeta de debito,usuario 1
+1172,18/03/2025,16:04,sucursal 3,producto 3,1500,4,6000,transferencia,usuario 2
+1173,19/03/2025,18:40,sucursal 3,producto 8,2700,4,10800,otro,usuario 3
+1174,20/03/2025,21:18,sucursal 2,producto 10,4000,5,20000,codigo QR,usuario 1
+1175,21/03/2025,20:49,sucursal 3,producto 4,3000,5,15000,efectivo,usuario 5
+1176,22/03/2025,16:47,sucursal 3,producto 6,3500,2,7000,tarjeta de debito,usuario 5
+1177,23/03/2025,16:24,sucursal 3,producto 10,4000,5,20000,otro,usuario 3
+1178,24/03/2025,12:37,sucursal 2,producto 3,1500,4,6000,tarjeta de debito,usuario 1
+1179,25/03/2025,16:14,sucursal 3,producto 1,1000,1,1000,otro,usuario 1
+1180,26/03/2025,21:31,sucursal 1,producto 7,1800,3,5400,efectivo,usuario 2
+1181,27/03/2025,17:59,sucursal 2,producto 3,1500,3,4500,transferencia,usuario 3
+1182,28/03/2025,19:06,sucursal 1,producto 2,2500,3,7500,tarjeta de debito,usuario 2
+1183,29/03/2025,15:17,sucursal 1,producto 3,1500,3,4500,tarjeta de debito,usuario 4
+1184,30/03/2025,12:04,sucursal 1,producto 5,2000,2,4000,tarjeta de credito,usuario 2
+1185,31/03/2025,10:40,sucursal 3,producto 6,3500,4,14000,codigo QR,usuario 3
+1186,01/04/2025,13:40,sucursal 3,producto 7,1800,5,9000,codigo QR,usuario 2
+1187,02/04/2025,11:20,sucursal 3,producto 2,2500,5,12500,tarjeta de credito,usuario 2
+1188,03/04/2025,11:46,sucursal 1,producto 10,4000,5,20000,tarjeta de debito,usuario 2
+1189,04/04/2025,12:45,sucursal 3,producto 5,2000,5,10000,transferencia,usuario 2
+1190,05/04/2025,13:06,sucursal 3,producto 5,2000,1,2000,otro,usuario 2
+1191,06/04/2025,20:13,sucursal 3,producto 7,1800,1,1800,codigo QR,usuario 2
+1192,07/04/2025,15:25,sucursal 2,producto 3,1500,3,4500,otro,usuario 3
+1193,08/04/2025,21:01,sucursal 1,producto 4,3000,5,15000,transferencia,usuario 1
+1194,09/04/2025,20:35,sucursal 2,producto 5,2000,1,2000,codigo QR,usuario 1
+1195,10/04/2025,22:38,sucursal 3,producto 8,2700,3,8100,tarjeta de debito,usuario 5
+1196,11/04/2025,14:13,sucursal 1,producto 8,2700,5,13500,transferencia,usuario 5
+1197,12/04/2025,16:59,sucursal 2,producto 5,2000,3,6000,efectivo,usuario 5
+1198,13/04/2025,22:56,sucursal 1,producto 10,4000,1,4000,codigo QR,usuario 4
+1199,14/04/2025,15:08,sucursal 2,producto 9,2200,1,2200,tarjeta de credito,usuario 3
+1200,15/04/2025,16:43,sucursal 1,producto 8,2700,2,5400,codigo QR,usuario 4
+1201,16/04/2025,18:05,sucursal 3,producto 2,2500,5,12500,otro,usuario 4
+1202,17/04/2025,13:01,sucursal 2,producto 3,1500,5,7500,efectivo,usuario 4
+1203,18/04/2025,09:34,sucursal 2,producto 5,2000,2,4000,efectivo,usuario 1
+1204,19/04/2025,21:47,sucursal 1,producto 2,2500,2,5000,tarjeta de credito,usuario 4
+1205,20/04/2025,13:16,sucursal 1,producto 9,2200,5,11000,codigo QR,usuario 1
+1206,21/04/2025,12:02,sucursal 1,producto 1,1000,4,4000,transferencia,usuario 1
+1207,22/04/2025,22:54,sucursal 3,producto 3,1500,2,3000,tarjeta de credito,usuario 2
+1208,23/04/2025,22:01,sucursal 1,producto 6,3500,1,3500,transferencia,usuario 3
+1209,24/04/2025,10:33,sucursal 1,producto 8,2700,1,2700,tarjeta de debito,usuario 5
+1210,25/04/2025,19:15,sucursal 1,producto 4,3000,1,3000,efectivo,usuario 5
+1211,26/04/2025,09:08,sucursal 1,producto 5,2000,1,2000,efectivo,usuario 4
+1212,27/04/2025,09:34,sucursal 2,producto 10,4000,1,4000,codigo QR,usuario 3
+1213,28/04/2025,09:25,sucursal 1,producto 10,4000,3,12000,tarjeta de debito,usuario 4
+1214,29/04/2025,16:19,sucursal 1,producto 8,2700,5,13500,tarjeta de credito,usuario 2
+1215,30/04/2025,10:42,sucursal 1,producto 4,3000,1,3000,codigo QR,usuario 2
+1216,01/05/2025,14:08,sucursal 3,producto 7,1800,4,7200,otro,usuario 5
+1217,02/05/2025,09:44,sucursal 1,producto 1,1000,1,1000,otro,usuario 5
+1218,03/05/2025,19:16,sucursal 3,producto 4,3000,1,3000,otro,usuario 1
+1219,04/05/2025,17:41,sucursal 2,producto 3,1500,1,1500,tarjeta de debito,usuario 4
+1220,05/05/2025,09:01,sucursal 1,producto 5,2000,1,2000,efectivo,usuario 3
+1221,06/05/2025,13:28,sucursal 2,producto 2,2500,4,10000,tarjeta de debito,usuario 2
+1222,07/05/2025,11:41,sucursal 2,producto 9,2200,5,11000,efectivo,usuario 1
+1223,08/05/2025,16:35,sucursal 2,producto 7,1800,2,3600,efectivo,usuario 1
+1224,09/05/2025,16:08,sucursal 1,producto 1,1000,2,2000,otro,usuario 5
+1225,10/05/2025,12:38,sucursal 1,producto 3,1500,3,4500,tarjeta de credito,usuario 5
+1226,11/05/2025,15:03,sucursal 3,producto 4,3000,4,12000,codigo QR,usuario 4
+1227,12/05/2025,12:28,sucursal 2,producto 9,2200,2,4400,transferencia,usuario 1
+1228,13/05/2025,12:47,sucursal 1,producto 1,1000,1,1000,otro,usuario 5
+1229,14/05/2025,14:00,sucursal 1,producto 10,4000,3,12000,codigo QR,usuario 1
+1230,15/05/2025,14:15,sucursal 2,producto 5,2000,3,6000,codigo QR,usuario 1
+1231,16/05/2025,12:40,sucursal 3,producto 9,2200,1,2200,codigo QR,usuario 3
+1232,17/05/2025,18:07,sucursal 3,producto 10,4000,5,20000,codigo QR,usuario 5
+1233,18/05/2025,22:37,sucursal 1,producto 1,1000,3,3000,tarjeta de debito,usuario 1
+1234,19/05/2025,21:06,sucursal 3,producto 4,3000,3,9000,efectivo,usuario 3
+1235,20/05/2025,19:28,sucursal 1,producto 10,4000,4,16000,otro,usuario 2
+1236,21/05/2025,15:43,sucursal 3,producto 2,2500,1,2500,tarjeta de credito,usuario 5
+1237,22/05/2025,17:56,sucursal 3,producto 5,2000,2,4000,tarjeta de credito,usuario 1
+1238,23/05/2025,20:27,sucursal 1,producto 2,2500,5,12500,transferencia,usuario 3
+1239,24/05/2025,10:41,sucursal 1,producto 10,4000,3,12000,tarjeta de debito,usuario 5
+1240,25/05/2025,14:23,sucursal 3,producto 5,2000,5,10000,transferencia,usuario 1
+1241,26/05/2025,13:00,sucursal 3,producto 9,2200,4,8800,tarjeta de credito,usuario 1
+1242,27/05/2025,20:17,sucursal 2,producto 3,1500,4,6000,tarjeta de credito,usuario 5
+1243,28/05/2025,13:59,sucursal 2,producto 1,1000,2,2000,codigo QR,usuario 3
+1244,29/05/2025,22:33,sucursal 1,producto 8,2700,3,8100,tarjeta de credito,usuario 5
+1245,30/05/2025,22:32,sucursal 1,producto 3,1500,4,6000,efectivo,usuario 2
+1246,31/05/2025,14:04,sucursal 1,producto 7,1800,2,3600,tarjeta de credito,usuario 3
+1247,01/06/2025,12:49,sucursal 1,producto 1,1000,3,3000,tarjeta de credito,usuario 3
+1248,02/06/2025,10:13,sucursal 3,producto 8,2700,2,5400,otro,usuario 5
+1249,03/06/2025,16:44,sucursal 2,producto 4,3000,3,9000,otro,usuario 1
+1250,04/06/2025,21:05,sucursal 2,producto 8,2700,5,13500,tarjeta de debito,usuario 5
+1251,05/06/2025,16:24,sucursal 1,producto 4,3000,3,9000,tarjeta de credito,usuario 4
+1252,06/06/2025,10:01,sucursal 1,producto 4,3000,1,3000,transferencia,usuario 3
+1253,07/06/2025,14:33,sucursal 1,producto 1,1000,4,4000,tarjeta de credito,usuario 1
+1254,08/06/2025,21:50,sucursal 3,producto 7,1800,4,7200,tarjeta de debito,usuario 4
+1255,09/06/2025,10:56,sucursal 2,producto 10,4000,4,16000,otro,usuario 3
+1256,10/06/2025,14:33,sucursal 2,producto 2,2500,5,12500,codigo QR,usuario 4
+1257,11/06/2025,22:27,sucursal 1,producto 1,1000,4,4000,codigo QR,usuario 1
+1258,12/06/2025,20:19,sucursal 1,producto 3,1500,1,1500,tarjeta de credito,usuario 4
+1259,13/06/2025,11:26,sucursal 1,producto 3,1500,3,4500,tarjeta de credito,usuario 5
+1260,14/06/2025,13:17,sucursal 1,producto 3,1500,4,6000,tarjeta de credito,usuario 4
+1261,15/06/2025,21:48,sucursal 1,producto 7,1800,1,1800,transferencia,usuario 1
+1262,16/06/2025,16:57,sucursal 1,producto 5,2000,5,10000,tarjeta de credito,usuario 2
+1263,17/06/2025,22:16,sucursal 3,producto 7,1800,1,1800,transferencia,usuario 1
+1264,18/06/2025,10:07,sucursal 1,producto 5,2000,3,6000,tarjeta de debito,usuario 2
+1265,19/06/2025,09:30,sucursal 3,producto 1,1000,1,1000,otro,usuario 1
+1266,20/06/2025,21:18,sucursal 1,producto 9,2200,5,11000,transferencia,usuario 5
+1267,21/06/2025,15:40,sucursal 1,producto 2,2500,2,5000,otro,usuario 5
+1268,22/06/2025,16:37,sucursal 1,producto 9,2200,5,11000,codigo QR,usuario 2
+1269,23/06/2025,14:22,sucursal 2,producto 4,3000,2,6000,tarjeta de debito,usuario 4
+1270,24/06/2025,17:37,sucursal 2,producto 3,1500,4,6000,tarjeta de credito,usuario 4
+1271,25/06/2025,22:32,sucursal 3,producto 4,3000,3,9000,otro,usuario 2
+1272,26/06/2025,18:41,sucursal 2,producto 4,3000,1,3000,tarjeta de debito,usuario 3
+1273,27/06/2025,21:06,sucursal 3,producto 8,2700,3,8100,tarjeta de debito,usuario 1
+1274,28/06/2025,22:26,sucursal 2,producto 8,2700,3,8100,otro,usuario 2
+1275,29/06/2025,17:38,sucursal 2,producto 7,1800,2,3600,efectivo,usuario 2
+1276,30/06/2025,11:07,sucursal 1,producto 3,1500,3,4500,tarjeta de credito,usuario 5
+1277,01/07/2025,20:11,sucursal 2,producto 1,1000,3,3000,codigo QR,usuario 3
+1278,02/07/2025,09:14,sucursal 3,producto 10,4000,2,8000,transferencia,usuario 5
+1279,03/07/2025,15:34,sucursal 2,producto 10,4000,3,12000,codigo QR,usuario 2
+1280,04/07/2025,11:13,sucursal 2,producto 4,3000,5,15000,codigo QR,usuario 4
+1281,05/07/2025,16:43,sucursal 1,producto 10,4000,3,12000,codigo QR,usuario 5
+1282,06/07/2025,20:27,sucursal 3,producto 9,2200,2,4400,transferencia,usuario 1
+1283,07/07/2025,18:23,sucursal 3,producto 9,2200,4,8800,tarjeta de debito,usuario 2
+1284,08/07/2025,09:36,sucursal 1,producto 5,2000,2,4000,transferencia,usuario 3
+1285,09/07/2025,17:28,sucursal 1,producto 8,2700,4,10800,tarjeta de debito,usuario 5
+1286,10/07/2025,16:00,sucursal 2,producto 5,2000,3,6000,tarjeta de credito,usuario 3
+1287,11/07/2025,12:43,sucursal 3,producto 10,4000,1,4000,otro,usuario 3
+1288,12/07/2025,21:01,sucursal 3,producto 7,1800,3,5400,transferencia,usuario 5
+1289,13/07/2025,16:33,sucursal 2,producto 10,4000,4,16000,tarjeta de credito,usuario 4
+1290,14/07/2025,09:42,sucursal 3,producto 1,1000,2,2000,codigo QR,usuario 2
+1291,15/07/2025,17:32,sucursal 1,producto 8,2700,5,13500,tarjeta de credito,usuario 3
+1292,16/07/2025,13:58,sucursal 2,producto 9,2200,2,4400,efectivo,usuario 3
+1293,17/07/2025,16:40,sucursal 1,producto 4,3000,2,6000,otro,usuario 3
+1294,18/07/2025,20:26,sucursal 3,producto 5,2000,2,4000,codigo QR,usuario 3
+1295,19/07/2025,20:53,sucursal 2,producto 6,3500,2,7000,transferencia,usuario 5
+1296,20/07/2025,16:26,sucursal 1,producto 10,4000,2,8000,tarjeta de debito,usuario 4
+1297,21/07/2025,12:42,sucursal 2,producto 3,1500,3,4500,otro,usuario 4
+1298,22/07/2025,17:52,sucursal 1,producto 8,2700,3,8100,efectivo,usuario 2
+1299,23/07/2025,14:06,sucursal 3,producto 10,4000,3,12000,efectivo,usuario 3
+1300,24/07/2025,19:09,sucursal 3,producto 6,3500,5,17500,tarjeta de credito,usuario 1
+1301,25/07/2025,19:30,sucursal 3,producto 8,2700,5,13500,transferencia,usuario 3
+1302,26/07/2025,22:33,sucursal 1,producto 6,3500,2,7000,tarjeta de debito,usuario 4
+1303,27/07/2025,21:19,sucursal 1,producto 2,2500,5,12500,codigo QR,usuario 5
+1304,28/07/2025,15:50,sucursal 1,producto 8,2700,2,5400,tarjeta de debito,usuario 2
+1305,29/07/2025,22:06,sucursal 3,producto 2,2500,3,7500,tarjeta de credito,usuario 5
+1306,30/07/2025,10:11,sucursal 2,producto 2,2500,1,2500,tarjeta de debito,usuario 1
+1307,31/07/2025,13:51,sucursal 1,producto 7,1800,4,7200,otro,usuario 5
+1308,01/08/2025,13:37,sucursal 3,producto 8,2700,4,10800,codigo QR,usuario 5
+1309,02/08/2025,22:41,sucursal 1,producto 1,1000,3,3000,tarjeta de debito,usuario 1
+1310,03/08/2025,16:24,sucursal 1,producto 10,4000,3,12000,transferencia,usuario 2
+1311,04/08/2025,16:26,sucursal 3,producto 6,3500,5,17500,otro,usuario 3
+1312,05/08/2025,14:02,sucursal 2,producto 9,2200,1,2200,transferencia,usuario 1
+1313,06/08/2025,15:03,sucursal 1,producto 7,1800,4,7200,codigo QR,usuario 5
+1314,07/08/2025,09:16,sucursal 2,producto 2,2500,4,10000,transferencia,usuario 1
+1315,08/08/2025,15:16,sucursal 1,producto 4,3000,1,3000,transferencia,usuario 1
+1316,09/08/2025,15:19,sucursal 2,producto 6,3500,1,3500,otro,usuario 1
+1317,10/08/2025,12:58,sucursal 3,producto 8,2700,3,8100,otro,usuario 2
+1318,11/08/2025,16:18,sucursal 3,producto 10,4000,2,8000,transferencia,usuario 5
+1319,12/08/2025,14:13,sucursal 2,producto 2,2500,5,12500,transferencia,usuario 3
+1320,13/08/2025,10:30,sucursal 1,producto 6,3500,5,17500,tarjeta de credito,usuario 2
+1321,14/08/2025,19:15,sucursal 3,producto 5,2000,4,8000,tarjeta de credito,usuario 2
+1322,15/08/2025,12:28,sucursal 1,producto 10,4000,5,20000,tarjeta de credito,usuario 4
+1323,16/08/2025,15:18,sucursal 3,producto 3,1500,1,1500,codigo QR,usuario 2
+1324,17/08/2025,12:14,sucursal 3,producto 8,2700,5,13500,efectivo,usuario 1
+1325,18/08/2025,15:24,sucursal 1,producto 7,1800,3,5400,tarjeta de credito,usuario 2
+1326,19/08/2025,18:47,sucursal 1,producto 8,2700,4,10800,tarjeta de debito,usuario 2
+1327,20/08/2025,19:26,sucursal 1,producto 6,3500,2,7000,tarjeta de credito,usuario 1
+1328,21/08/2025,17:03,sucursal 2,producto 2,2500,3,7500,codigo QR,usuario 4
+1329,22/08/2025,13:02,sucursal 3,producto 6,3500,1,3500,otro,usuario 1
+1330,23/08/2025,13:04,sucursal 2,producto 4,3000,2,6000,tarjeta de credito,usuario 4
+1331,24/08/2025,17:59,sucursal 2,producto 4,3000,1,3000,transferencia,usuario 4
+1332,25/08/2025,20:15,sucursal 3,producto 10,4000,3,12000,efectivo,usuario 5
+1333,26/08/2025,21:11,sucursal 1,producto 10,4000,3,12000,tarjeta de debito,usuario 1
+1334,27/08/2025,15:07,sucursal 3,producto 10,4000,1,4000,efectivo,usuario 4
+1335,28/08/2025,18:34,sucursal 1,producto 10,4000,3,12000,efectivo,usuario 1
+1336,29/08/2025,12:17,sucursal 3,producto 6,3500,3,10500,codigo QR,usuario 1
+1337,30/08/2025,16:28,sucursal 3,producto 7,1800,1,1800,tarjeta de credito,usuario 4
+1338,31/08/2025,19:51,sucursal 1,producto 9,2200,5,11000,transferencia,usuario 2
+1339,01/09/2025,09:59,sucursal 2,producto 5,2000,3,6000,tarjeta de debito,usuario 3
+1340,02/09/2025,20:27,sucursal 3,producto 1,1000,5,5000,codigo QR,usuario 2
+1341,03/09/2025,09:56,sucursal 3,producto 5,2000,4,8000,codigo QR,usuario 3
+1342,04/09/2025,09:54,sucursal 2,producto 4,3000,5,15000,tarjeta de debito,usuario 4
+1343,05/09/2025,10:36,sucursal 1,producto 3,1500,1,1500,tarjeta de debito,usuario 3
+1344,06/09/2025,12:34,sucursal 1,producto 10,4000,4,16000,codigo QR,usuario 2
+1345,07/09/2025,10:39,sucursal 2,producto 4,3000,4,12000,efectivo,usuario 2
+1346,08/09/2025,14:06,sucursal 3,producto 9,2200,5,11000,efectivo,usuario 4
+1347,09/09/2025,12:22,sucursal 2,producto 2,2500,3,7500,efectivo,usuario 1
+1348,10/09/2025,17:25,sucursal 1,producto 2,2500,4,10000,otro,usuario 5
+1349,11/09/2025,16:45,sucursal 2,producto 4,3000,1,3000,otro,usuario 3
+1350,12/09/2025,21:13,sucursal 2,producto 6,3500,2,7000,efectivo,usuario 5
+1351,13/09/2025,17:46,sucursal 1,producto 3,1500,2,3000,otro,usuario 3
+1352,14/09/2025,16:13,sucursal 3,producto 10,4000,2,8000,efectivo,usuario 4
+1353,15/09/2025,17:53,sucursal 3,producto 2,2500,5,12500,transferencia,usuario 2
+1354,16/09/2025,14:25,sucursal 1,producto 5,2000,5,10000,transferencia,usuario 5
+1355,17/09/2025,21:46,sucursal 1,producto 4,3000,1,3000,otro,usuario 2
+1356,18/09/2025,12:27,sucursal 2,producto 9,2200,4,8800,tarjeta de debito,usuario 4
+1357,19/09/2025,14:44,sucursal 2,producto 7,1800,5,9000,otro,usuario 5
+1358,20/09/2025,17:50,sucursal 2,producto 2,2500,5,12500,otro,usuario 1
+1359,21/09/2025,22:37,sucursal 3,producto 6,3500,3,10500,otro,usuario 1
+1360,22/09/2025,12:42,sucursal 2,producto 7,1800,3,5400,tarjeta de debito,usuario 2
+1361,23/09/2025,19:41,sucursal 1,producto 4,3000,1,3000,efectivo,usuario 1
+1362,24/09/2025,12:46,sucursal 2,producto 4,3000,4,12000,tarjeta de credito,usuario 4
+1363,25/09/2025,15:52,sucursal 2,producto 6,3500,4,14000,transferencia,usuario 5
+1364,26/09/2025,16:53,sucursal 3,producto 2,2500,1,2500,tarjeta de credito,usuario 2
+1365,27/09/2025,18:22,sucursal 1,producto 10,4000,4,16000,otro,usuario 3
+1366,28/09/2025,16:19,sucursal 2,producto 10,4000,2,8000,codigo QR,usuario 1
+1367,29/09/2025,17:57,sucursal 3,producto 2,2500,5,12500,transferencia,usuario 1
+1368,30/09/2025,09:23,sucursal 2,producto 9,2200,5,11000,tarjeta de debito,usuario 1
+1369,01/10/2025,15:31,sucursal 1,producto 6,3500,3,10500,tarjeta de debito,usuario 1
+1370,02/10/2025,20:15,sucursal 2,producto 8,2700,5,13500,tarjeta de debito,usuario 3
+1371,03/10/2025,17:48,sucursal 1,producto 10,4000,3,12000,tarjeta de credito,usuario 3
+1372,04/10/2025,15:31,sucursal 2,producto 6,3500,2,7000,transferencia,usuario 1
+1373,05/10/2025,20:07,sucursal 2,producto 5,2000,5,10000,codigo QR,usuario 4
+1374,06/10/2025,15:09,sucursal 1,producto 6,3500,1,3500,codigo QR,usuario 1
+1375,07/10/2025,20:44,sucursal 3,producto 3,1500,5,7500,efectivo,usuario 2
+1376,08/10/2025,19:45,sucursal 1,producto 9,2200,2,4400,efectivo,usuario 2
+1377,09/10/2025,20:11,sucursal 1,producto 3,1500,4,6000,tarjeta de credito,usuario 1
+1378,10/10/2025,17:48,sucursal 2,producto 7,1800,2,3600,transferencia,usuario 3
+1379,11/10/2025,21:09,sucursal 2,producto 2,2500,5,12500,tarjeta de debito,usuario 3
+1380,12/10/2025,10:01,sucursal 3,producto 6,3500,2,7000,otro,usuario 3
+1381,13/10/2025,15:25,sucursal 3,producto 8,2700,4,10800,codigo QR,usuario 4
+1382,14/10/2025,14:34,sucursal 1,producto 4,3000,4,12000,tarjeta de credito,usuario 1
+1383,15/10/2025,17:48,sucursal 3,producto 10,4000,3,12000,tarjeta de credito,usuario 3
+1384,16/10/2025,17:11,sucursal 2,producto 4,3000,3,9000,codigo QR,usuario 3
+1385,17/10/2025,18:50,sucursal 3,producto 4,3000,3,9000,codigo QR,usuario 5
+1386,18/10/2025,17:57,sucursal 1,producto 5,2000,3,6000,otro,usuario 4
+1387,19/10/2025,14:28,sucursal 3,producto 3,1500,1,1500,codigo QR,usuario 3
+1388,20/10/2025,17:59,sucursal 1,producto 4,3000,5,15000,tarjeta de credito,usuario 5
+1389,21/10/2025,17:22,sucursal 1,producto 6,3500,1,3500,tarjeta de debito,usuario 2
+1390,22/10/2025,09:19,sucursal 1,producto 6,3500,5,17500,otro,usuario 3
+1391,23/10/2025,10:21,sucursal 1,producto 2,2500,1,2500,tarjeta de credito,usuario 1
+1392,24/10/2025,22:04,sucursal 2,producto 8,2700,2,5400,tarjeta de debito,usuario 1
+1393,25/10/2025,12:20,sucursal 2,producto 9,2200,4,8800,codigo QR,usuario 2
+1394,26/10/2025,21:07,sucursal 1,producto 6,3500,2,7000,otro,usuario 4
+1395,27/10/2025,11:24,sucursal 2,producto 4,3000,1,3000,efectivo,usuario 1
+1396,28/10/2025,18:42,sucursal 1,producto 2,2500,1,2500,codigo QR,usuario 5
+1397,29/10/2025,14:12,sucursal 1,producto 4,3000,3,9000,codigo QR,usuario 1
+1398,30/10/2025,14:37,sucursal 3,producto 3,1500,4,6000,tarjeta de debito,usuario 3
+1399,31/10/2025,17:28,sucursal 2,producto 4,3000,3,9000,efectivo,usuario 4
+1400,01/11/2025,14:05,sucursal 1,producto 9,2200,3,6600,otro,usuario 1
+1401,02/11/2025,20:45,sucursal 1,producto 4,3000,1,3000,otro,usuario 4
+1402,03/11/2025,19:35,sucursal 3,producto 3,1500,1,1500,codigo QR,usuario 3
+1403,04/11/2025,15:29,sucursal 2,producto 9,2200,1,2200,otro,usuario 2
+1404,05/11/2025,22:53,sucursal 3,producto 4,3000,2,6000,codigo QR,usuario 2
+1405,06/11/2025,09:47,sucursal 3,producto 4,3000,1,3000,efectivo,usuario 2
+1406,07/11/2025,14:01,sucursal 1,producto 7,1800,1,1800,tarjeta de debito,usuario 3
+1407,08/11/2025,15:55,sucursal 2,producto 3,1500,4,6000,codigo QR,usuario 4
+1408,09/11/2025,18:41,sucursal 3,producto 2,2500,2,5000,tarjeta de credito,usuario 5
+1409,10/11/2025,22:37,sucursal 3,producto 7,1800,3,5400,efectivo,usuario 5
+1410,11/11/2025,15:19,sucursal 1,producto 1,1000,2,2000,codigo QR,usuario 4
+1411,12/11/2025,13:00,sucursal 1,producto 10,4000,2,8000,codigo QR,usuario 4
+1412,13/11/2025,18:09,sucursal 1,producto 4,3000,3,9000,tarjeta de credito,usuario 3
+1413,14/11/2025,14:38,sucursal 1,producto 5,2000,4,8000,tarjeta de debito,usuario 5
+1414,15/11/2025,13:35,sucursal 1,producto 4,3000,2,6000,efectivo,usuario 5
+1415,16/11/2025,10:14,sucursal 3,producto 7,1800,5,9000,transferencia,usuario 1
+1416,17/11/2025,20:10,sucursal 3,producto 5,2000,5,10000,otro,usuario 4
+1417,18/11/2025,16:11,sucursal 1,producto 6,3500,1,3500,codigo QR,usuario 4
+1418,19/11/2025,12:22,sucursal 2,producto 5,2000,4,8000,tarjeta de credito,usuario 4
+1419,20/11/2025,13:48,sucursal 2,producto 2,2500,2,5000,codigo QR,usuario 1
+1420,21/11/2025,11:52,sucursal 1,producto 6,3500,5,17500,transferencia,usuario 5
+1421,22/11/2025,15:50,sucursal 1,producto 6,3500,1,3500,tarjeta de debito,usuario 3
+1422,23/11/2025,22:42,sucursal 3,producto 9,2200,1,2200,tarjeta de debito,usuario 1
+1423,24/11/2025,09:47,sucursal 1,producto 7,1800,2,3600,codigo QR,usuario 2
+1424,25/11/2025,16:14,sucursal 2,producto 2,2500,4,10000,tarjeta de credito,usuario 3
+1425,26/11/2025,18:18,sucursal 1,producto 10,4000,5,20000,transferencia,usuario 4
+1426,27/11/2025,14:02,sucursal 1,producto 5,2000,2,4000,tarjeta de credito,usuario 3
+1427,28/11/2025,22:42,sucursal 2,producto 2,2500,1,2500,codigo QR,usuario 2
+1428,29/11/2025,12:17,sucursal 1,producto 9,2200,5,11000,otro,usuario 5
+1429,30/11/2025,15:09,sucursal 3,producto 3,1500,3,4500,tarjeta de credito,usuario 5
+1430,01/12/2025,10:53,sucursal 2,producto 2,2500,5,12500,tarjeta de debito,usuario 5
+1431,02/12/2025,19:15,sucursal 2,producto 2,2500,1,2500,transferencia,usuario 3
+1432,03/12/2025,14:48,sucursal 1,producto 5,2000,1,2000,efectivo,usuario 1
+1433,04/12/2025,09:55,sucursal 2,producto 10,4000,2,8000,otro,usuario 1
+1434,05/12/2025,10:41,sucursal 3,producto 8,2700,2,5400,otro,usuario 2
+1435,06/12/2025,20:28,sucursal 3,producto 1,1000,2,2000,efectivo,usuario 4
+1436,07/12/2025,20:28,sucursal 2,producto 3,1500,5,7500,transferencia,usuario 5
+1437,08/12/2025,18:52,sucursal 3,producto 10,4000,3,12000,tarjeta de debito,usuario 1
+1438,09/12/2025,18:04,sucursal 2,producto 4,3000,3,9000,tarjeta de credito,usuario 5
+1439,10/12/2025,17:08,sucursal 3,producto 7,1800,1,1800,transferencia,usuario 1
+1440,11/12/2025,10:54,sucursal 2,producto 10,4000,4,16000,otro,usuario 1
+1441,12/12/2025,11:15,sucursal 3,producto 2,2500,3,7500,tarjeta de debito,usuario 1
+1442,13/12/2025,18:46,sucursal 3,producto 4,3000,2,6000,transferencia,usuario 1
+1443,14/12/2025,21:58,sucursal 1,producto 4,3000,4,12000,tarjeta de debito,usuario 5
+1444,15/12/2025,14:19,sucursal 3,producto 2,2500,3,7500,tarjeta de credito,usuario 4
+1445,16/12/2025,16:44,sucursal 1,producto 1,1000,4,4000,codigo QR,usuario 2
+1446,17/12/2025,10:13,sucursal 3,producto 6,3500,5,17500,codigo QR,usuario 2
+1447,18/12/2025,10:28,sucursal 1,producto 10,4000,3,12000,tarjeta de credito,usuario 4
+1448,19/12/2025,22:53,sucursal 1,producto 8,2700,1,2700,tarjeta de credito,usuario 3
+1449,20/12/2025,21:54,sucursal 3,producto 5,2000,5,10000,tarjeta de credito,usuario 4
+1450,21/12/2025,10:31,sucursal 2,producto 3,1500,3,4500,efectivo,usuario 1
+1451,22/12/2025,12:12,sucursal 2,producto 6,3500,1,3500,efectivo,usuario 2
+1452,23/12/2025,09:53,sucursal 2,producto 3,1500,1,1500,tarjeta de credito,usuario 2
+1453,24/12/2025,11:57,sucursal 2,producto 8,2700,2,5400,transferencia,usuario 2
+1454,25/12/2025,09:59,sucursal 1,producto 4,3000,2,6000,otro,usuario 1
+1455,26/12/2025,22:26,sucursal 3,producto 8,2700,5,13500,transferencia,usuario 4
+1456,27/12/2025,11:13,sucursal 3,producto 5,2000,3,6000,codigo QR,usuario 2
+1457,28/12/2025,11:01,sucursal 1,producto 2,2500,5,12500,otro,usuario 3
+1458,29/12/2025,19:31,sucursal 2,producto 2,2500,4,10000,codigo QR,usuario 4
+1459,30/12/2025,09:39,sucursal 3,producto 2,2500,4,10000,efectivo,usuario 2
+1460,31/12/2025,13:36,sucursal 3,producto 9,2200,2,4400,codigo QR,usuario 5
+1461,01/01/2026,09:11,sucursal 2,producto 6,3500,3,10500,tarjeta de credito,usuario 2
+1462,02/01/2026,19:20,sucursal 2,producto 10,4000,2,8000,codigo QR,usuario 2
+1463,03/01/2026,11:46,sucursal 2,producto 4,3000,2,6000,tarjeta de credito,usuario 2
+1464,04/01/2026,18:09,sucursal 1,producto 5,2000,4,8000,tarjeta de credito,usuario 5
+1465,05/01/2026,21:14,sucursal 3,producto 10,4000,2,8000,efectivo,usuario 4
+1466,06/01/2026,13:05,sucursal 1,producto 2,2500,1,2500,efectivo,usuario 1
+1467,07/01/2026,13:59,sucursal 2,producto 7,1800,3,5400,tarjeta de debito,usuario 5
+1468,08/01/2026,14:52,sucursal 3,producto 2,2500,5,12500,efectivo,usuario 2
+1469,09/01/2026,13:59,sucursal 2,producto 5,2000,3,6000,codigo QR,usuario 5
+1470,10/01/2026,13:10,sucursal 3,producto 8,2700,2,5400,transferencia,usuario 2
+1471,11/01/2026,13:58,sucursal 3,producto 9,2200,4,8800,efectivo,usuario 2
+1472,12/01/2026,14:33,sucursal 1,producto 5,2000,4,8000,transferencia,usuario 1
+1473,13/01/2026,20:08,sucursal 1,producto 7,1800,3,5400,otro,usuario 2
+1474,14/01/2026,13:40,sucursal 2,producto 2,2500,1,2500,tarjeta de debito,usuario 5
+1475,15/01/2026,17:59,sucursal 3,producto 5,2000,4,8000,efectivo,usuario 2
+1476,16/01/2026,19:10,sucursal 3,producto 7,1800,3,5400,otro,usuario 1
+1477,17/01/2026,11:41,sucursal 2,producto 2,2500,2,5000,efectivo,usuario 2
+1478,18/01/2026,19:21,sucursal 1,producto 8,2700,4,10800,tarjeta de credito,usuario 4
+1479,19/01/2026,09:08,sucursal 2,producto 8,2700,2,5400,tarjeta de debito,usuario 5
+1480,20/01/2026,10:32,sucursal 2,producto 1,1000,1,1000,tarjeta de debito,usuario 3
+1481,21/01/2026,22:37,sucursal 1,producto 9,2200,4,8800,tarjeta de credito,usuario 3
+1482,22/01/2026,15:01,sucursal 3,producto 4,3000,2,6000,otro,usuario 4
+1483,23/01/2026,12:39,sucursal 3,producto 6,3500,2,7000,tarjeta de debito,usuario 5
+1484,24/01/2026,22:16,sucursal 2,producto 9,2200,5,11000,otro,usuario 3
+1485,25/01/2026,13:12,sucursal 3,producto 5,2000,4,8000,transferencia,usuario 3
+1486,26/01/2026,13:47,sucursal 1,producto 7,1800,3,5400,codigo QR,usuario 5
+1487,27/01/2026,12:06,sucursal 2,producto 9,2200,4,8800,otro,usuario 4
+1488,28/01/2026,19:30,sucursal 1,producto 9,2200,3,6600,codigo QR,usuario 5
+1489,29/01/2026,19:30,sucursal 1,producto 10,4000,2,8000,tarjeta de debito,usuario 4
+1490,30/01/2026,16:16,sucursal 2,producto 5,2000,1,2000,tarjeta de debito,usuario 4
+1491,31/01/2026,15:16,sucursal 3,producto 6,3500,5,17500,tarjeta de credito,usuario 5
+1492,01/02/2026,21:59,sucursal 3,producto 7,1800,4,7200,codigo QR,usuario 2
+1493,02/02/2026,13:21,sucursal 3,producto 9,2200,1,2200,efectivo,usuario 2
+1494,03/02/2026,20:18,sucursal 1,producto 2,2500,2,5000,transferencia,usuario 3
+1495,04/02/2026,15:03,sucursal 3,producto 1,1000,5,5000,otro,usuario 2
+1496,05/02/2026,13:56,sucursal 1,producto 8,2700,5,13500,transferencia,usuario 1
+1497,06/02/2026,21:38,sucursal 3,producto 5,2000,1,2000,transferencia,usuario 1
+1498,07/02/2026,15:55,sucursal 3,producto 1,1000,5,5000,transferencia,usuario 4
+1499,08/02/2026,16:10,sucursal 3,producto 1,1000,5,5000,efectivo,usuario 1
+1500,09/02/2026,15:35,sucursal 2,producto 2,2500,5,12500,tarjeta de debito,usuario 4
+1501,10/02/2026,21:47,sucursal 2,producto 2,2500,3,7500,tarjeta de debito,usuario 2
+1502,11/02/2026,10:40,sucursal 1,producto 2,2500,5,12500,codigo QR,usuario 3
+1503,12/02/2026,16:13,sucursal 2,producto 6,3500,4,14000,tarjeta de credito,usuario 1
+1504,13/02/2026,14:00,sucursal 3,producto 6,3500,5,17500,tarjeta de credito,usuario 4
+1505,14/02/2026,21:52,sucursal 1,producto 8,2700,3,8100,codigo QR,usuario 1
+1506,15/02/2026,17:44,sucursal 2,producto 3,1500,5,7500,otro,usuario 1
+1507,16/02/2026,12:40,sucursal 1,producto 8,2700,5,13500,otro,usuario 2
+1508,17/02/2026,13:46,sucursal 2,producto 3,1500,4,6000,tarjeta de credito,usuario 5
+1509,18/02/2026,11:56,sucursal 1,producto 8,2700,5,13500,otro,usuario 4
+1510,19/02/2026,13:36,sucursal 3,producto 4,3000,1,3000,otro,usuario 5
+1511,20/02/2026,11:16,sucursal 1,producto 8,2700,2,5400,codigo QR,usuario 3
+1512,21/02/2026,22:36,sucursal 1,producto 4,3000,1,3000,otro,usuario 4
+1513,22/02/2026,12:59,sucursal 1,producto 2,2500,5,12500,transferencia,usuario 4
+1514,23/02/2026,22:07,sucursal 2,producto 9,2200,3,6600,otro,usuario 3
+1515,24/02/2026,22:41,sucursal 3,producto 1,1000,3,3000,tarjeta de credito,usuario 5
+1516,25/02/2026,10:17,sucursal 3,producto 6,3500,2,7000,transferencia,usuario 5
+1517,26/02/2026,22:39,sucursal 2,producto 6,3500,5,17500,tarjeta de credito,usuario 5
+1518,27/02/2026,22:50,sucursal 2,producto 10,4000,4,16000,tarjeta de debito,usuario 2
+1519,28/02/2026,21:24,sucursal 1,producto 3,1500,4,6000,otro,usuario 4
+1520,01/03/2026,09:42,sucursal 3,producto 3,1500,3,4500,tarjeta de debito,usuario 5
+1521,02/03/2026,15:00,sucursal 3,producto 10,4000,3,12000,otro,usuario 1
+1522,03/03/2026,21:12,sucursal 1,producto 10,4000,3,12000,tarjeta de debito,usuario 5
+1523,04/03/2026,12:04,sucursal 1,producto 6,3500,1,3500,tarjeta de debito,usuario 1
+1524,05/03/2026,18:35,sucursal 2,producto 3,1500,4,6000,tarjeta de credito,usuario 1
+1525,06/03/2026,12:24,sucursal 3,producto 7,1800,2,3600,codigo QR,usuario 3
+1526,07/03/2026,13:03,sucursal 2,producto 6,3500,2,7000,efectivo,usuario 3
+1527,08/03/2026,11:05,sucursal 1,producto 5,2000,4,8000,transferencia,usuario 2
+1528,09/03/2026,13:59,sucursal 2,producto 3,1500,3,4500,otro,usuario 3
+1529,10/03/2026,18:39,sucursal 1,producto 9,2200,5,11000,codigo QR,usuario 2
+1530,11/03/2026,18:03,sucursal 2,producto 2,2500,3,7500,otro,usuario 1
+1531,12/03/2026,10:46,sucursal 2,producto 1,1000,3,3000,tarjeta de debito,usuario 1
+1532,13/03/2026,20:12,sucursal 2,producto 6,3500,2,7000,tarjeta de debito,usuario 1
+1533,14/03/2026,12:56,sucursal 2,producto 2,2500,3,7500,efectivo,usuario 1
+1534,15/03/2026,10:58,sucursal 2,producto 4,3000,5,15000,tarjeta de debito,usuario 4
+1535,16/03/2026,09:22,sucursal 3,producto 7,1800,1,1800,tarjeta de debito,usuario 5
+1536,17/03/2026,09:50,sucursal 3,producto 2,2500,2,5000,transferencia,usuario 4
+1537,18/03/2026,16:44,sucursal 1,producto 10,4000,1,4000,otro,usuario 3
+1538,19/03/2026,12:35,sucursal 3,producto 10,4000,3,12000,transferencia,usuario 3
+1539,20/03/2026,16:45,sucursal 2,producto 3,1500,2,3000,transferencia,usuario 1
+1540,21/03/2026,16:53,sucursal 3,producto 1,1000,4,4000,efectivo,usuario 1
+1541,22/03/2026,16:52,sucursal 3,producto 9,2200,2,4400,codigo QR,usuario 5
+1542,23/03/2026,19:58,sucursal 2,producto 6,3500,1,3500,tarjeta de credito,usuario 1
+1543,24/03/2026,10:12,sucursal 2,producto 1,1000,2,2000,otro,usuario 1
+1544,25/03/2026,22:05,sucursal 3,producto 2,2500,5,12500,transferencia,usuario 1
+1545,26/03/2026,18:07,sucursal 1,producto 3,1500,3,4500,codigo QR,usuario 2
+1546,27/03/2026,20:31,sucursal 2,producto 3,1500,5,7500,tarjeta de credito,usuario 3
+1547,28/03/2026,22:39,sucursal 2,producto 2,2500,3,7500,codigo QR,usuario 4
+1548,29/03/2026,19:53,sucursal 2,producto 7,1800,3,5400,transferencia,usuario 2
+1549,30/03/2026,09:58,sucursal 1,producto 9,2200,4,8800,efectivo,usuario 1
+1550,31/03/2026,17:12,sucursal 1,producto 6,3500,2,7000,otro,usuario 2
+1551,01/04/2026,16:07,sucursal 2,producto 8,2700,1,2700,efectivo,usuario 2
+1552,02/04/2026,22:13,sucursal 1,producto 1,1000,3,3000,codigo QR,usuario 1
+1553,03/04/2026,10:51,sucursal 1,producto 9,2200,5,11000,transferencia,usuario 5
+1554,04/04/2026,19:50,sucursal 1,producto 5,2000,1,2000,tarjeta de debito,usuario 4
+1555,05/04/2026,21:46,sucursal 1,producto 7,1800,5,9000,transferencia,usuario 2
+1556,06/04/2026,19:56,sucursal 2,producto 9,2200,5,11000,tarjeta de credito,usuario 4
+1557,07/04/2026,14:51,sucursal 1,producto 2,2500,5,12500,tarjeta de debito,usuario 5
+1558,08/04/2026,17:02,sucursal 3,producto 6,3500,5,17500,efectivo,usuario 2
+1559,09/04/2026,16:57,sucursal 1,producto 5,2000,1,2000,otro,usuario 2
+1560,10/04/2026,11:18,sucursal 1,producto 8,2700,3,8100,otro,usuario 4
+1561,11/04/2026,15:55,sucursal 3,producto 8,2700,1,2700,efectivo,usuario 1
+1562,12/04/2026,11:28,sucursal 1,producto 10,4000,4,16000,efectivo,usuario 5
+1563,13/04/2026,18:34,sucursal 3,producto 9,2200,2,4400,tarjeta de credito,usuario 4
+1564,14/04/2026,17:07,sucursal 2,producto 7,1800,1,1800,tarjeta de debito,usuario 3
+1565,15/04/2026,10:06,sucursal 1,producto 3,1500,3,4500,otro,usuario 2
+1566,16/04/2026,10:22,sucursal 2,producto 1,1000,3,3000,tarjeta de debito,usuario 2
+1567,17/04/2026,13:30,sucursal 1,producto 5,2000,3,6000,tarjeta de debito,usuario 2
+1568,18/04/2026,15:43,sucursal 2,producto 5,2000,2,4000,transferencia,usuario 3
+1569,19/04/2026,20:24,sucursal 2,producto 10,4000,3,12000,efectivo,usuario 5
+1570,20/04/2026,11:17,sucursal 3,producto 1,1000,5,5000,codigo QR,usuario 4
+1571,21/04/2026,09:42,sucursal 1,producto 7,1800,3,5400,efectivo,usuario 4
+1572,22/04/2026,10:14,sucursal 1,producto 4,3000,4,12000,efectivo,usuario 3
+1573,23/04/2026,13:13,sucursal 1,producto 3,1500,5,7500,codigo QR,usuario 2
+1574,24/04/2026,12:15,sucursal 1,producto 9,2200,3,6600,codigo QR,usuario 4
+1575,25/04/2026,15:50,sucursal 2,producto 4,3000,3,9000,transferencia,usuario 4
+1576,26/04/2026,17:29,sucursal 2,producto 2,2500,4,10000,transferencia,usuario 1
+1577,27/04/2026,09:44,sucursal 2,producto 8,2700,5,13500,codigo QR,usuario 3
+1578,28/04/2026,22:24,sucursal 3,producto 2,2500,1,2500,tarjeta de debito,usuario 3
+1579,29/04/2026,18:15,sucursal 2,producto 8,2700,5,13500,transferencia,usuario 5
+1580,30/04/2026,17:41,sucursal 2,producto 8,2700,3,8100,transferencia,usuario 5
+1581,01/05/2026,15:56,sucursal 2,producto 4,3000,1,3000,efectivo,usuario 5
+1582,02/05/2026,21:20,sucursal 1,producto 4,3000,3,9000,transferencia,usuario 2
+1583,03/05/2026,22:52,sucursal 2,producto 8,2700,3,8100,tarjeta de credito,usuario 3
+1584,04/05/2026,22:51,sucursal 1,producto 3,1500,5,7500,codigo QR,usuario 3
+1585,05/05/2026,18:07,sucursal 1,producto 9,2200,3,6600,efectivo,usuario 2
+1586,06/05/2026,13:40,sucursal 2,producto 2,2500,3,7500,tarjeta de credito,usuario 4
+1587,07/05/2026,12:54,sucursal 3,producto 2,2500,5,12500,transferencia,usuario 4
+1588,08/05/2026,19:23,sucursal 1,producto 2,2500,3,7500,transferencia,usuario 2
+1589,09/05/2026,12:28,sucursal 2,producto 4,3000,1,3000,codigo QR,usuario 4
+1590,10/05/2026,18:38,sucursal 3,producto 6,3500,2,7000,otro,usuario 1
+1591,11/05/2026,21:39,sucursal 1,producto 6,3500,5,17500,codigo QR,usuario 3
+1592,12/05/2026,22:18,sucursal 2,producto 1,1000,2,2000,codigo QR,usuario 3
+1593,13/05/2026,20:02,sucursal 1,producto 8,2700,4,10800,tarjeta de debito,usuario 5
+1594,14/05/2026,22:56,sucursal 2,producto 1,1000,2,2000,codigo QR,usuario 3
+1595,15/05/2026,11:26,sucursal 1,producto 8,2700,4,10800,otro,usuario 2
+1596,16/05/2026,16:16,sucursal 1,producto 2,2500,2,5000,tarjeta de credito,usuario 4
+1597,17/05/2026,18:45,sucursal 3,producto 6,3500,2,7000,tarjeta de credito,usuario 5
+1598,18/05/2026,20:41,sucursal 3,producto 6,3500,2,7000,efectivo,usuario 1
+1599,19/05/2026,22:49,sucursal 2,producto 10,4000,3,12000,otro,usuario 5
+1600,20/05/2026,18:11,sucursal 2,producto 1,1000,3,3000,codigo QR,usuario 5
+1601,21/05/2026,19:26,sucursal 3,producto 9,2200,2,4400,tarjeta de credito,usuario 2
+1602,22/05/2026,13:20,sucursal 1,producto 5,2000,2,4000,otro,usuario 4
+1603,23/05/2026,22:39,sucursal 2,producto 1,1000,4,4000,efectivo,usuario 3
+1604,24/05/2026,09:00,sucursal 3,producto 1,1000,5,5000,efectivo,usuario 3
+1605,25/05/2026,12:29,sucursal 2,producto 1,1000,5,5000,efectivo,usuario 4
+1606,26/05/2026,15:32,sucursal 2,producto 1,1000,1,1000,codigo QR,usuario 2
+1607,27/05/2026,22:09,sucursal 3,producto 3,1500,2,3000,tarjeta de credito,usuario 1
+1608,28/05/2026,13:13,sucursal 3,producto 7,1800,2,3600,efectivo,usuario 1
+1609,29/05/2026,21:00,sucursal 1,producto 5,2000,4,8000,codigo QR,usuario 2
+1610,30/05/2026,15:01,sucursal 3,producto 9,2200,4,8800,tarjeta de debito,usuario 4
+1611,31/05/2026,11:27,sucursal 3,producto 3,1500,3,4500,efectivo,usuario 3
+1612,01/06/2026,21:56,sucursal 1,producto 5,2000,2,4000,tarjeta de credito,usuario 1
+1613,02/06/2026,15:06,sucursal 2,producto 2,2500,3,7500,codigo QR,usuario 1
+1614,03/06/2026,18:15,sucursal 1,producto 7,1800,3,5400,codigo QR,usuario 4
+1615,04/06/2026,22:26,sucursal 3,producto 7,1800,2,3600,efectivo,usuario 5
+1616,05/06/2026,14:05,sucursal 3,producto 6,3500,1,3500,transferencia,usuario 4
+1617,06/06/2026,09:55,sucursal 1,producto 5,2000,1,2000,transferencia,usuario 2
+1618,07/06/2026,14:35,sucursal 2,producto 6,3500,5,17500,otro,usuario 1
+1619,08/06/2026,18:24,sucursal 1,producto 10,4000,4,16000,tarjeta de debito,usuario 1
+1620,09/06/2026,09:05,sucursal 3,producto 3,1500,1,1500,codigo QR,usuario 3
+1621,10/06/2026,15:38,sucursal 3,producto 5,2000,3,6000,tarjeta de credito,usuario 5
+1622,11/06/2026,12:21,sucursal 3,producto 3,1500,2,3000,transferencia,usuario 2
+1623,12/06/2026,17:40,sucursal 2,producto 8,2700,5,13500,tarjeta de debito,usuario 5
+1624,13/06/2026,18:53,sucursal 3,producto 3,1500,4,6000,transferencia,usuario 4
+1625,14/06/2026,14:11,sucursal 1,producto 3,1500,2,3000,tarjeta de debito,usuario 2
+1626,15/06/2026,20:38,sucursal 3,producto 6,3500,1,3500,transferencia,usuario 5
+1627,16/06/2026,17:54,sucursal 3,producto 2,2500,2,5000,otro,usuario 1
+1628,17/06/2026,15:46,sucursal 3,producto 5,2000,5,10000,codigo QR,usuario 2
+1629,18/06/2026,13:39,sucursal 1,producto 3,1500,5,7500,codigo QR,usuario 2
+1630,19/06/2026,10:19,sucursal 3,producto 9,2200,2,4400,codigo QR,usuario 4
+1631,20/06/2026,13:21,sucursal 2,producto 8,2700,5,13500,efectivo,usuario 4
+1632,21/06/2026,21:13,sucursal 1,producto 9,2200,5,11000,codigo QR,usuario 4
+1633,22/06/2026,12:05,sucursal 3,producto 7,1800,1,1800,otro,usuario 5
+1634,23/06/2026,12:28,sucursal 1,producto 1,1000,2,2000,codigo QR,usuario 1
+1635,24/06/2026,21:40,sucursal 3,producto 7,1800,3,5400,tarjeta de debito,usuario 1
+1636,25/06/2026,14:27,sucursal 2,producto 8,2700,2,5400,codigo QR,usuario 4
+1637,26/06/2026,11:45,sucursal 3,producto 5,2000,3,6000,codigo QR,usuario 3
+1638,27/06/2026,19:25,sucursal 1,producto 4,3000,1,3000,otro,usuario 4
+1639,28/06/2026,17:20,sucursal 1,producto 10,4000,2,8000,efectivo,usuario 5
+1640,29/06/2026,18:53,sucursal 3,producto 6,3500,2,7000,otro,usuario 2
+1641,30/06/2026,20:32,sucursal 3,producto 9,2200,4,8800,tarjeta de credito,usuario 3
+1642,01/07/2026,19:44,sucursal 1,producto 5,2000,5,10000,otro,usuario 5
+1643,02/07/2026,22:28,sucursal 2,producto 4,3000,4,12000,codigo QR,usuario 2
+1644,03/07/2026,14:02,sucursal 1,producto 4,3000,5,15000,efectivo,usuario 2
+1645,04/07/2026,12:00,sucursal 3,producto 10,4000,4,16000,tarjeta de debito,usuario 5
+1646,05/07/2026,12:46,sucursal 2,producto 2,2500,1,2500,tarjeta de debito,usuario 2
+1647,06/07/2026,21:47,sucursal 1,producto 5,2000,1,2000,efectivo,usuario 2
+1648,07/07/2026,22:59,sucursal 2,producto 8,2700,1,2700,efectivo,usuario 5
+1649,08/07/2026,20:21,sucursal 2,producto 4,3000,5,15000,tarjeta de debito,usuario 5
+1650,09/07/2026,19:02,sucursal 1,producto 10,4000,1,4000,tarjeta de credito,usuario 3
+1651,10/07/2026,16:22,sucursal 2,producto 6,3500,2,7000,tarjeta de credito,usuario 5
+1652,11/07/2026,11:00,sucursal 1,producto 4,3000,3,9000,tarjeta de debito,usuario 2
+1653,12/07/2026,11:12,sucursal 1,producto 4,3000,3,9000,efectivo,usuario 2
+1654,13/07/2026,14:14,sucursal 1,producto 8,2700,5,13500,tarjeta de debito,usuario 4
+1655,14/07/2026,10:56,sucursal 3,producto 3,1500,2,3000,tarjeta de debito,usuario 2
+1656,15/07/2026,17:41,sucursal 3,producto 8,2700,2,5400,transferencia,usuario 5
+1657,16/07/2026,21:47,sucursal 2,producto 4,3000,1,3000,tarjeta de debito,usuario 2
+1658,17/07/2026,19:32,sucursal 3,producto 9,2200,5,11000,otro,usuario 4
+1659,18/07/2026,10:29,sucursal 1,producto 1,1000,2,2000,efectivo,usuario 2
+1660,19/07/2026,19:43,sucursal 2,producto 9,2200,3,6600,tarjeta de debito,usuario 5
+1661,20/07/2026,13:28,sucursal 3,producto 4,3000,2,6000,tarjeta de debito,usuario 1
+1662,21/07/2026,10:42,sucursal 3,producto 4,3000,3,9000,tarjeta de debito,usuario 3
+1663,22/07/2026,22:02,sucursal 3,producto 1,1000,5,5000,efectivo,usuario 3
+1664,23/07/2026,11:48,sucursal 1,producto 9,2200,3,6600,efectivo,usuario 3
+1665,24/07/2026,21:12,sucursal 3,producto 2,2500,2,5000,transferencia,usuario 4
+1666,25/07/2026,14:52,sucursal 2,producto 5,2000,3,6000,efectivo,usuario 3
+1667,26/07/2026,13:34,sucursal 2,producto 5,2000,5,10000,tarjeta de debito,usuario 5
+1668,27/07/2026,19:20,sucursal 2,producto 7,1800,2,3600,tarjeta de debito,usuario 5
+1669,28/07/2026,16:00,sucursal 1,producto 5,2000,4,8000,tarjeta de debito,usuario 4
+1670,29/07/2026,12:39,sucursal 3,producto 10,4000,3,12000,codigo QR,usuario 2
+1671,30/07/2026,10:07,sucursal 1,producto 10,4000,5,20000,otro,usuario 5
+1672,31/07/2026,09:47,sucursal 1,producto 5,2000,3,6000,efectivo,usuario 3
+1673,01/08/2026,13:40,sucursal 3,producto 6,3500,3,10500,tarjeta de credito,usuario 5
+1674,02/08/2026,18:24,sucursal 3,producto 6,3500,3,10500,transferencia,usuario 3
+1675,03/08/2026,22:56,sucursal 2,producto 7,1800,2,3600,tarjeta de debito,usuario 1
+1676,04/08/2026,15:32,sucursal 2,producto 6,3500,3,10500,otro,usuario 5
+1677,05/08/2026,15:51,sucursal 3,producto 9,2200,3,6600,codigo QR,usuario 2
+1678,06/08/2026,13:55,sucursal 1,producto 4,3000,4,12000,transferencia,usuario 1
+1679,07/08/2026,19:40,sucursal 1,producto 8,2700,5,13500,tarjeta de debito,usuario 4
+1680,08/08/2026,20:40,sucursal 1,producto 8,2700,5,13500,efectivo,usuario 2
+1681,09/08/2026,15:53,sucursal 3,producto 10,4000,4,16000,tarjeta de debito,usuario 4
+1682,10/08/2026,21:58,sucursal 3,producto 8,2700,5,13500,tarjeta de debito,usuario 2
+1683,11/08/2026,20:57,sucursal 1,producto 8,2700,1,2700,efectivo,usuario 4
+1684,12/08/2026,16:52,sucursal 3,producto 7,1800,2,3600,tarjeta de debito,usuario 1
+1685,13/08/2026,16:58,sucursal 2,producto 10,4000,3,12000,otro,usuario 3
+1686,14/08/2026,21:58,sucursal 1,producto 10,4000,5,20000,otro,usuario 3
+1687,15/08/2026,22:04,sucursal 1,producto 9,2200,5,11000,tarjeta de debito,usuario 3
+1688,16/08/2026,11:16,sucursal 2,producto 3,1500,5,7500,otro,usuario 5
+1689,17/08/2026,20:24,sucursal 1,producto 1,1000,5,5000,tarjeta de debito,usuario 3
+1690,18/08/2026,16:20,sucursal 2,producto 3,1500,4,6000,efectivo,usuario 5
+1691,19/08/2026,21:25,sucursal 2,producto 7,1800,3,5400,efectivo,usuario 2
+1692,20/08/2026,12:57,sucursal 1,producto 9,2200,3,6600,codigo QR,usuario 2
+1693,21/08/2026,13:30,sucursal 3,producto 5,2000,1,2000,efectivo,usuario 4
+1694,22/08/2026,20:42,sucursal 2,producto 1,1000,1,1000,efectivo,usuario 5
+1695,23/08/2026,22:52,sucursal 3,producto 2,2500,5,12500,codigo QR,usuario 4
+1696,24/08/2026,22:44,sucursal 3,producto 3,1500,1,1500,transferencia,usuario 1
+1697,25/08/2026,13:39,sucursal 1,producto 4,3000,1,3000,tarjeta de credito,usuario 4
+1698,26/08/2026,10:22,sucursal 1,producto 10,4000,3,12000,otro,usuario 2
+1699,27/08/2026,09:28,sucursal 3,producto 1,1000,1,1000,otro,usuario 1
+1700,28/08/2026,18:24,sucursal 2,producto 4,3000,4,12000,tarjeta de credito,usuario 4
+1701,29/08/2026,21:55,sucursal 1,producto 1,1000,5,5000,transferencia,usuario 1
+1702,30/08/2026,17:32,sucursal 3,producto 3,1500,1,1500,transferencia,usuario 3
+1703,31/08/2026,22:29,sucursal 3,producto 7,1800,1,1800,codigo QR,usuario 2
+1704,01/09/2026,17:49,sucursal 1,producto 1,1000,3,3000,codigo QR,usuario 2
+1705,02/09/2026,22:51,sucursal 3,producto 3,1500,5,7500,otro,usuario 4
+1706,03/09/2026,21:56,sucursal 1,producto 1,1000,4,4000,efectivo,usuario 3
+1707,04/09/2026,11:54,sucursal 1,producto 3,1500,3,4500,codigo QR,usuario 4
+1708,05/09/2026,20:48,sucursal 1,producto 9,2200,1,2200,tarjeta de credito,usuario 2
+1709,06/09/2026,22:14,sucursal 3,producto 1,1000,4,4000,tarjeta de debito,usuario 5
+1710,07/09/2026,09:45,sucursal 1,producto 3,1500,1,1500,codigo QR,usuario 3
+1711,08/09/2026,22:17,sucursal 2,producto 2,2500,2,5000,tarjeta de debito,usuario 3
+1712,09/09/2026,18:04,sucursal 3,producto 4,3000,5,15000,tarjeta de debito,usuario 5
+1713,10/09/2026,14:20,sucursal 2,producto 2,2500,4,10000,tarjeta de credito,usuario 5
+1714,11/09/2026,17:39,sucursal 2,producto 8,2700,4,10800,otro,usuario 2
+1715,12/09/2026,17:35,sucursal 1,producto 5,2000,1,2000,efectivo,usuario 5
+1716,13/09/2026,14:45,sucursal 1,producto 6,3500,4,14000,transferencia,usuario 4
+1717,14/09/2026,16:13,sucursal 2,producto 5,2000,1,2000,efectivo,usuario 1
+1718,15/09/2026,10:08,sucursal 3,producto 2,2500,5,12500,efectivo,usuario 5
+1719,16/09/2026,17:11,sucursal 1,producto 9,2200,4,8800,tarjeta de debito,usuario 4
+1720,17/09/2026,13:49,sucursal 2,producto 6,3500,3,10500,transferencia,usuario 1
+1721,18/09/2026,10:35,sucursal 1,producto 4,3000,4,12000,tarjeta de credito,usuario 2
+1722,19/09/2026,15:45,sucursal 1,producto 10,4000,5,20000,codigo QR,usuario 5
+1723,20/09/2026,12:36,sucursal 3,producto 10,4000,2,8000,otro,usuario 3
+1724,21/09/2026,18:01,sucursal 1,producto 10,4000,2,8000,tarjeta de debito,usuario 1
+1725,22/09/2026,19:55,sucursal 3,producto 1,1000,1,1000,tarjeta de credito,usuario 2
+1726,23/09/2026,20:29,sucursal 3,producto 4,3000,3,9000,codigo QR,usuario 4
+1727,24/09/2026,14:53,sucursal 2,producto 3,1500,3,4500,tarjeta de credito,usuario 5
+1728,25/09/2026,18:55,sucursal 3,producto 6,3500,2,7000,tarjeta de debito,usuario 2
+1729,26/09/2026,18:17,sucursal 2,producto 7,1800,3,5400,codigo QR,usuario 5
+1730,27/09/2026,17:02,sucursal 2,producto 9,2200,4,8800,tarjeta de debito,usuario 3
+1731,28/09/2026,13:54,sucursal 1,producto 1,1000,2,2000,otro,usuario 4
+1732,29/09/2026,12:04,sucursal 3,producto 8,2700,4,10800,transferencia,usuario 2
+1733,30/09/2026,15:21,sucursal 1,producto 2,2500,2,5000,tarjeta de credito,usuario 5
+1734,01/10/2026,16:10,sucursal 2,producto 3,1500,2,3000,efectivo,usuario 5
+1735,02/10/2026,13:38,sucursal 1,producto 10,4000,3,12000,tarjeta de debito,usuario 2
+1736,03/10/2026,21:11,sucursal 3,producto 1,1000,3,3000,transferencia,usuario 5
+1737,04/10/2026,17:00,sucursal 1,producto 7,1800,4,7200,tarjeta de credito,usuario 1
+1738,05/10/2026,22:07,sucursal 3,producto 3,1500,5,7500,tarjeta de credito,usuario 1
+1739,06/10/2026,11:04,sucursal 1,producto 5,2000,3,6000,tarjeta de credito,usuario 2
+1740,07/10/2026,14:13,sucursal 2,producto 3,1500,5,7500,transferencia,usuario 5
+1741,08/10/2026,10:10,sucursal 1,producto 4,3000,4,12000,codigo QR,usuario 5
+1742,09/10/2026,10:39,sucursal 1,producto 3,1500,5,7500,tarjeta de debito,usuario 4
+1743,10/10/2026,22:42,sucursal 3,producto 4,3000,2,6000,transferencia,usuario 5
+1744,11/10/2026,14:46,sucursal 3,producto 8,2700,1,2700,tarjeta de credito,usuario 5
+1745,12/10/2026,17:12,sucursal 3,producto 10,4000,1,4000,tarjeta de debito,usuario 4
+1746,13/10/2026,15:08,sucursal 2,producto 7,1800,5,9000,efectivo,usuario 2
+1747,14/10/2026,14:27,sucursal 1,producto 8,2700,4,10800,codigo QR,usuario 5
+1748,15/10/2026,19:54,sucursal 3,producto 4,3000,2,6000,tarjeta de credito,usuario 1
+1749,16/10/2026,14:21,sucursal 3,producto 4,3000,3,9000,tarjeta de credito,usuario 1
+1750,17/10/2026,20:13,sucursal 2,producto 8,2700,3,8100,transferencia,usuario 2
+1751,18/10/2026,20:49,sucursal 1,producto 6,3500,4,14000,tarjeta de debito,usuario 5
+1752,19/10/2026,14:39,sucursal 1,producto 10,4000,1,4000,tarjeta de debito,usuario 1
+1753,20/10/2026,13:11,sucursal 3,producto 1,1000,2,2000,tarjeta de debito,usuario 1
+1754,21/10/2026,10:03,sucursal 3,producto 1,1000,1,1000,tarjeta de credito,usuario 4
+1755,22/10/2026,21:01,sucursal 2,producto 2,2500,2,5000,efectivo,usuario 2
+1756,23/10/2026,16:55,sucursal 1,producto 6,3500,3,10500,tarjeta de credito,usuario 2
+1757,24/10/2026,12:29,sucursal 1,producto 3,1500,5,7500,codigo QR,usuario 1
+1758,25/10/2026,13:24,sucursal 1,producto 9,2200,4,8800,tarjeta de credito,usuario 5
+1759,26/10/2026,18:59,sucursal 1,producto 2,2500,2,5000,tarjeta de debito,usuario 5
+1760,27/10/2026,21:37,sucursal 2,producto 5,2000,5,10000,otro,usuario 2
+1761,28/10/2026,17:46,sucursal 3,producto 2,2500,4,10000,codigo QR,usuario 3
+1762,29/10/2026,10:39,sucursal 1,producto 3,1500,4,6000,tarjeta de debito,usuario 4
+1763,30/10/2026,19:21,sucursal 1,producto 7,1800,3,5400,transferencia,usuario 2
+1764,31/10/2026,17:48,sucursal 2,producto 4,3000,2,6000,tarjeta de debito,usuario 2
+1765,01/11/2026,20:19,sucursal 2,producto 2,2500,1,2500,otro,usuario 5
+1766,02/11/2026,10:23,sucursal 3,producto 6,3500,1,3500,tarjeta de credito,usuario 3
+1767,03/11/2026,12:58,sucursal 2,producto 10,4000,2,8000,codigo QR,usuario 3
+1768,04/11/2026,14:46,sucursal 2,producto 6,3500,3,10500,tarjeta de credito,usuario 2
+1769,05/11/2026,15:05,sucursal 1,producto 7,1800,3,5400,tarjeta de debito,usuario 4
+1770,06/11/2026,18:28,sucursal 3,producto 3,1500,2,3000,tarjeta de credito,usuario 3
+1771,07/11/2026,12:24,sucursal 3,producto 8,2700,2,5400,transferencia,usuario 2
+1772,08/11/2026,17:01,sucursal 1,producto 2,2500,5,12500,efectivo,usuario 1
+1773,09/11/2026,15:51,sucursal 2,producto 1,1000,3,3000,tarjeta de credito,usuario 3
+1774,10/11/2026,10:02,sucursal 1,producto 3,1500,3,4500,tarjeta de debito,usuario 5
+1775,11/11/2026,17:25,sucursal 1,producto 1,1000,3,3000,transferencia,usuario 5
+1776,12/11/2026,20:16,sucursal 2,producto 1,1000,4,4000,tarjeta de credito,usuario 3
+1777,13/11/2026,15:06,sucursal 1,producto 7,1800,4,7200,otro,usuario 3
+1778,14/11/2026,14:00,sucursal 3,producto 4,3000,1,3000,tarjeta de debito,usuario 1
+1779,15/11/2026,16:12,sucursal 1,producto 2,2500,3,7500,transferencia,usuario 5
+1780,16/11/2026,16:58,sucursal 1,producto 1,1000,5,5000,tarjeta de credito,usuario 4
+1781,17/11/2026,10:36,sucursal 3,producto 4,3000,4,12000,tarjeta de debito,usuario 3
+1782,18/11/2026,13:02,sucursal 2,producto 4,3000,3,9000,otro,usuario 1
+1783,19/11/2026,17:19,sucursal 3,producto 5,2000,2,4000,otro,usuario 3
+1784,20/11/2026,10:03,sucursal 2,producto 4,3000,5,15000,efectivo,usuario 1
+1785,21/11/2026,10:38,sucursal 3,producto 9,2200,5,11000,otro,usuario 4
+1786,22/11/2026,17:56,sucursal 1,producto 7,1800,1,1800,otro,usuario 4
+1787,23/11/2026,18:08,sucursal 3,producto 4,3000,1,3000,efectivo,usuario 2
+1788,24/11/2026,14:35,sucursal 1,producto 6,3500,5,17500,codigo QR,usuario 4
+1789,25/11/2026,16:40,sucursal 1,producto 3,1500,5,7500,efectivo,usuario 1
+1790,26/11/2026,11:33,sucursal 3,producto 1,1000,3,3000,transferencia,usuario 3
+1791,27/11/2026,18:22,sucursal 3,producto 3,1500,5,7500,tarjeta de credito,usuario 2
+1792,28/11/2026,14:04,sucursal 2,producto 4,3000,3,9000,efectivo,usuario 1
+1793,29/11/2026,09:10,sucursal 1,producto 9,2200,1,2200,transferencia,usuario 1
+1794,30/11/2026,14:39,sucursal 3,producto 7,1800,4,7200,otro,usuario 4
+1795,01/12/2026,15:06,sucursal 2,producto 5,2000,4,8000,tarjeta de debito,usuario 1
+1796,02/12/2026,21:39,sucursal 1,producto 9,2200,5,11000,efectivo,usuario 5
+1797,03/12/2026,19:09,sucursal 2,producto 8,2700,3,8100,otro,usuario 4
+1798,04/12/2026,15:32,sucursal 1,producto 3,1500,3,4500,transferencia,usuario 2
+1799,05/12/2026,17:04,sucursal 3,producto 9,2200,4,8800,tarjeta de debito,usuario 3
+1800,06/12/2026,16:53,sucursal 3,producto 3,1500,2,3000,efectivo,usuario 4
+1801,07/12/2026,11:58,sucursal 2,producto 4,3000,3,9000,efectivo,usuario 5
+1802,08/12/2026,22:44,sucursal 3,producto 4,3000,5,15000,tarjeta de debito,usuario 2
+1803,09/12/2026,14:26,sucursal 1,producto 7,1800,1,1800,tarjeta de debito,usuario 1
+1804,10/12/2026,13:48,sucursal 1,producto 9,2200,3,6600,tarjeta de debito,usuario 4
+1805,11/12/2026,20:53,sucursal 3,producto 10,4000,5,20000,codigo QR,usuario 4
+1806,12/12/2026,12:04,sucursal 3,producto 9,2200,2,4400,otro,usuario 5
+1807,13/12/2026,22:56,sucursal 1,producto 8,2700,1,2700,codigo QR,usuario 2
+1808,14/12/2026,15:59,sucursal 1,producto 2,2500,3,7500,transferencia,usuario 3
+1809,15/12/2026,13:35,sucursal 2,producto 1,1000,2,2000,tarjeta de debito,usuario 2
+1810,16/12/2026,13:33,sucursal 2,producto 4,3000,4,12000,transferencia,usuario 3
+1811,17/12/2026,17:22,sucursal 1,producto 6,3500,5,17500,codigo QR,usuario 3
+1812,18/12/2026,13:47,sucursal 2,producto 1,1000,5,5000,otro,usuario 2
+1813,19/12/2026,20:30,sucursal 1,producto 2,2500,5,12500,codigo QR,usuario 2
+1814,20/12/2026,16:15,sucursal 3,producto 5,2000,1,2000,tarjeta de credito,usuario 2
+1815,21/12/2026,11:19,sucursal 3,producto 4,3000,5,15000,efectivo,usuario 1
+1816,22/12/2026,21:33,sucursal 1,producto 3,1500,4,6000,tarjeta de credito,usuario 1
+1817,23/12/2026,09:30,sucursal 1,producto 1,1000,5,5000,tarjeta de debito,usuario 3
+1818,24/12/2026,16:41,sucursal 3,producto 4,3000,3,9000,efectivo,usuario 2
+1819,25/12/2026,12:02,sucursal 1,producto 10,4000,1,4000,transferencia,usuario 1
+1820,26/12/2026,21:44,sucursal 3,producto 2,2500,1,2500,efectivo,usuario 4
+1821,27/12/2026,09:49,sucursal 2,producto 3,1500,3,4500,tarjeta de debito,usuario 4
+1822,28/12/2026,10:54,sucursal 1,producto 4,3000,5,15000,tarjeta de credito,usuario 3
+1823,29/12/2026,13:14,sucursal 3,producto 4,3000,2,6000,tarjeta de credito,usuario 1
+1824,30/12/2026,11:08,sucursal 3,producto 9,2200,4,8800,efectivo,usuario 4
+1825,31/12/2026,14:32,sucursal 3,producto 5,2000,4,8000,efectivo,usuario 5
+1826,01/01/2027,10:06,sucursal 1,producto 6,3500,5,17500,efectivo,usuario 5
+1827,02/01/2027,12:31,sucursal 3,producto 6,3500,4,14000,transferencia,usuario 2
+1828,03/01/2027,17:03,sucursal 1,producto 6,3500,1,3500,transferencia,usuario 3
+1829,04/01/2027,21:46,sucursal 1,producto 9,2200,4,8800,tarjeta de credito,usuario 5
+1830,05/01/2027,16:16,sucursal 3,producto 9,2200,1,2200,transferencia,usuario 4
+1831,06/01/2027,18:57,sucursal 2,producto 7,1800,3,5400,otro,usuario 3
+1832,07/01/2027,09:49,sucursal 1,producto 8,2700,2,5400,tarjeta de credito,usuario 4
+1833,08/01/2027,22:37,sucursal 3,producto 5,2000,2,4000,otro,usuario 4
+1834,09/01/2027,13:58,sucursal 1,producto 2,2500,5,12500,otro,usuario 2
+1835,10/01/2027,09:28,sucursal 3,producto 9,2200,5,11000,tarjeta de debito,usuario 3
+1836,11/01/2027,12:27,sucursal 2,producto 1,1000,3,3000,codigo QR,usuario 1
+1837,12/01/2027,16:46,sucursal 3,producto 8,2700,3,8100,transferencia,usuario 1
+1838,13/01/2027,18:37,sucursal 1,producto 8,2700,4,10800,transferencia,usuario 4
+1839,14/01/2027,20:17,sucursal 2,producto 5,2000,1,2000,transferencia,usuario 3
+1840,15/01/2027,17:17,sucursal 3,producto 4,3000,5,15000,efectivo,usuario 3
+1841,16/01/2027,21:15,sucursal 2,producto 7,1800,4,7200,efectivo,usuario 3
+1842,17/01/2027,12:03,sucursal 1,producto 4,3000,5,15000,transferencia,usuario 2
+1843,18/01/2027,21:53,sucursal 3,producto 4,3000,2,6000,efectivo,usuario 5
+1844,19/01/2027,11:41,sucursal 2,producto 5,2000,2,4000,tarjeta de debito,usuario 4
+1845,20/01/2027,09:45,sucursal 1,producto 1,1000,5,5000,codigo QR,usuario 1
+1846,21/01/2027,19:16,sucursal 1,producto 3,1500,5,7500,transferencia,usuario 4
+1847,22/01/2027,19:34,sucursal 2,producto 3,1500,3,4500,efectivo,usuario 5
+1848,23/01/2027,20:15,sucursal 1,producto 7,1800,2,3600,transferencia,usuario 3
+1849,24/01/2027,18:19,sucursal 2,producto 4,3000,3,9000,efectivo,usuario 2
+1850,25/01/2027,19:02,sucursal 2,producto 4,3000,5,15000,efectivo,usuario 3
+1851,26/01/2027,19:51,sucursal 1,producto 6,3500,1,3500,otro,usuario 5
+1852,27/01/2027,11:19,sucursal 3,producto 2,2500,5,12500,tarjeta de debito,usuario 1
+1853,28/01/2027,12:35,sucursal 1,producto 6,3500,1,3500,otro,usuario 2
+1854,29/01/2027,21:26,sucursal 1,producto 8,2700,3,8100,efectivo,usuario 4
+1855,30/01/2027,09:35,sucursal 2,producto 2,2500,4,10000,codigo QR,usuario 5
+1856,31/01/2027,12:29,sucursal 1,producto 6,3500,1,3500,tarjeta de credito,usuario 5
+1857,01/02/2027,17:16,sucursal 3,producto 6,3500,5,17500,transferencia,usuario 1
+1858,02/02/2027,13:45,sucursal 3,producto 10,4000,3,12000,tarjeta de credito,usuario 4
+1859,03/02/2027,14:22,sucursal 2,producto 2,2500,5,12500,tarjeta de debito,usuario 3
+1860,04/02/2027,09:12,sucursal 1,producto 9,2200,2,4400,tarjeta de debito,usuario 3
+1861,05/02/2027,17:15,sucursal 3,producto 5,2000,4,8000,tarjeta de credito,usuario 4
+1862,06/02/2027,19:29,sucursal 1,producto 1,1000,2,2000,otro,usuario 5
+1863,07/02/2027,21:13,sucursal 2,producto 1,1000,1,1000,tarjeta de credito,usuario 2
+1864,08/02/2027,09:32,sucursal 2,producto 1,1000,1,1000,tarjeta de debito,usuario 3
+1865,09/02/2027,21:20,sucursal 1,producto 7,1800,2,3600,efectivo,usuario 2
+1866,10/02/2027,10:58,sucursal 3,producto 9,2200,2,4400,tarjeta de debito,usuario 5
+1867,11/02/2027,09:44,sucursal 2,producto 7,1800,5,9000,efectivo,usuario 4
+1868,12/02/2027,13:47,sucursal 2,producto 8,2700,4,10800,tarjeta de debito,usuario 2
+1869,13/02/2027,15:20,sucursal 2,producto 9,2200,2,4400,tarjeta de debito,usuario 1
+1870,14/02/2027,10:36,sucursal 1,producto 7,1800,1,1800,tarjeta de credito,usuario 1
+1871,15/02/2027,12:48,sucursal 3,producto 6,3500,3,10500,transferencia,usuario 2
+1872,16/02/2027,10:48,sucursal 2,producto 1,1000,1,1000,tarjeta de credito,usuario 4
+1873,17/02/2027,21:14,sucursal 2,producto 5,2000,2,4000,otro,usuario 5
+1874,18/02/2027,11:18,sucursal 1,producto 8,2700,2,5400,otro,usuario 2
+1875,19/02/2027,16:48,sucursal 1,producto 8,2700,2,5400,tarjeta de debito,usuario 2
+1876,20/02/2027,09:04,sucursal 1,producto 9,2200,5,11000,efectivo,usuario 5
+1877,21/02/2027,20:40,sucursal 2,producto 3,1500,5,7500,otro,usuario 1
+1878,22/02/2027,21:29,sucursal 1,producto 2,2500,3,7500,transferencia,usuario 3
+1879,23/02/2027,22:00,sucursal 2,producto 8,2700,4,10800,efectivo,usuario 4
+1880,24/02/2027,13:26,sucursal 2,producto 5,2000,3,6000,tarjeta de credito,usuario 4
+1881,25/02/2027,10:50,sucursal 3,producto 2,2500,1,2500,codigo QR,usuario 1
+1882,26/02/2027,10:51,sucursal 1,producto 1,1000,2,2000,efectivo,usuario 1
+1883,27/02/2027,22:22,sucursal 2,producto 5,2000,2,4000,tarjeta de credito,usuario 4
+1884,28/02/2027,15:22,sucursal 3,producto 9,2200,3,6600,tarjeta de credito,usuario 1
+1885,01/03/2027,09:18,sucursal 2,producto 9,2200,3,6600,tarjeta de credito,usuario 3
+1886,02/03/2027,14:12,sucursal 2,producto 3,1500,1,1500,codigo QR,usuario 2
+1887,03/03/2027,15:00,sucursal 1,producto 10,4000,4,16000,transferencia,usuario 2
+1888,04/03/2027,12:42,sucursal 2,producto 3,1500,4,6000,tarjeta de credito,usuario 2
+1889,05/03/2027,19:23,sucursal 2,producto 2,2500,5,12500,transferencia,usuario 4
+1890,06/03/2027,21:10,sucursal 2,producto 6,3500,5,17500,otro,usuario 4
+1891,07/03/2027,11:09,sucursal 2,producto 8,2700,3,8100,tarjeta de credito,usuario 1
+1892,08/03/2027,17:17,sucursal 2,producto 1,1000,3,3000,efectivo,usuario 5
+1893,09/03/2027,11:13,sucursal 2,producto 3,1500,1,1500,tarjeta de debito,usuario 2
+1894,10/03/2027,20:15,sucursal 1,producto 6,3500,3,10500,otro,usuario 1
+1895,11/03/2027,19:13,sucursal 1,producto 3,1500,4,6000,tarjeta de debito,usuario 5
+1896,12/03/2027,12:30,sucursal 2,producto 3,1500,3,4500,tarjeta de debito,usuario 5
+1897,13/03/2027,16:31,sucursal 1,producto 5,2000,2,4000,otro,usuario 2
+1898,14/03/2027,11:45,sucursal 2,producto 8,2700,4,10800,transferencia,usuario 3
+1899,15/03/2027,13:34,sucursal 2,producto 8,2700,5,13500,otro,usuario 4
+1900,16/03/2027,19:15,sucursal 2,producto 9,2200,5,11000,efectivo,usuario 3
+1901,17/03/2027,12:00,sucursal 1,producto 5,2000,3,6000,transferencia,usuario 1
+1902,18/03/2027,09:59,sucursal 1,producto 8,2700,2,5400,efectivo,usuario 5
+1903,19/03/2027,10:09,sucursal 2,producto 7,1800,2,3600,tarjeta de credito,usuario 5
+1904,20/03/2027,20:18,sucursal 3,producto 3,1500,5,7500,codigo QR,usuario 3
+1905,21/03/2027,19:42,sucursal 1,producto 5,2000,5,10000,codigo QR,usuario 3
+1906,22/03/2027,18:03,sucursal 1,producto 1,1000,3,3000,transferencia,usuario 4
+1907,23/03/2027,19:56,sucursal 3,producto 4,3000,4,12000,transferencia,usuario 5
+1908,24/03/2027,09:23,sucursal 1,producto 8,2700,3,8100,efectivo,usuario 4
+1909,25/03/2027,10:20,sucursal 3,producto 4,3000,1,3000,tarjeta de debito,usuario 5
+1910,26/03/2027,12:27,sucursal 1,producto 6,3500,4,14000,efectivo,usuario 1
+1911,27/03/2027,11:07,sucursal 1,producto 2,2500,4,10000,tarjeta de debito,usuario 1
+1912,28/03/2027,16:45,sucursal 2,producto 5,2000,2,4000,efectivo,usuario 1
+1913,29/03/2027,20:02,sucursal 1,producto 10,4000,5,20000,tarjeta de debito,usuario 1
+1914,30/03/2027,22:35,sucursal 3,producto 9,2200,1,2200,tarjeta de credito,usuario 2
+1915,31/03/2027,22:16,sucursal 3,producto 1,1000,3,3000,tarjeta de credito,usuario 1
+1916,01/04/2027,11:50,sucursal 2,producto 8,2700,5,13500,tarjeta de credito,usuario 5
+1917,02/04/2027,20:22,sucursal 1,producto 8,2700,5,13500,transferencia,usuario 4
+1918,03/04/2027,22:23,sucursal 3,producto 7,1800,3,5400,transferencia,usuario 5
+1919,04/04/2027,20:10,sucursal 3,producto 6,3500,5,17500,tarjeta de debito,usuario 5
+1920,05/04/2027,17:29,sucursal 2,producto 9,2200,4,8800,tarjeta de debito,usuario 5
+1921,06/04/2027,18:45,sucursal 2,producto 8,2700,1,2700,codigo QR,usuario 5
+1922,07/04/2027,20:38,sucursal 2,producto 10,4000,5,20000,transferencia,usuario 2
+1923,08/04/2027,18:56,sucursal 1,producto 1,1000,3,3000,transferencia,usuario 3
+1924,09/04/2027,16:27,sucursal 1,producto 7,1800,4,7200,efectivo,usuario 2
+1925,10/04/2027,20:15,sucursal 2,producto 2,2500,2,5000,codigo QR,usuario 4
+1926,11/04/2027,14:30,sucursal 2,producto 4,3000,4,12000,efectivo,usuario 5
+1927,12/04/2027,20:36,sucursal 1,producto 10,4000,4,16000,codigo QR,usuario 4
+1928,13/04/2027,10:10,sucursal 2,producto 8,2700,1,2700,tarjeta de debito,usuario 4
+1929,14/04/2027,10:06,sucursal 3,producto 8,2700,5,13500,tarjeta de credito,usuario 4
+1930,15/04/2027,13:40,sucursal 1,producto 2,2500,1,2500,tarjeta de credito,usuario 4
+1931,16/04/2027,21:46,sucursal 2,producto 10,4000,3,12000,transferencia,usuario 5
+1932,17/04/2027,22:03,sucursal 2,producto 9,2200,2,4400,efectivo,usuario 4
+1933,18/04/2027,20:16,sucursal 2,producto 6,3500,2,7000,transferencia,usuario 2
+1934,19/04/2027,16:30,sucursal 1,producto 10,4000,5,20000,codigo QR,usuario 2
+1935,20/04/2027,19:57,sucursal 2,producto 5,2000,1,2000,efectivo,usuario 4
+1936,21/04/2027,22:04,sucursal 2,producto 8,2700,2,5400,efectivo,usuario 3
+1937,22/04/2027,18:40,sucursal 2,producto 3,1500,1,1500,efectivo,usuario 4
+1938,23/04/2027,12:35,sucursal 3,producto 4,3000,2,6000,transferencia,usuario 4
+1939,24/04/2027,20:55,sucursal 1,producto 3,1500,5,7500,codigo QR,usuario 4
+1940,25/04/2027,22:01,sucursal 1,producto 10,4000,3,12000,tarjeta de credito,usuario 5
+1941,26/04/2027,14:19,sucursal 1,producto 4,3000,1,3000,efectivo,usuario 5
+1942,27/04/2027,12:00,sucursal 3,producto 3,1500,5,7500,otro,usuario 1
+1943,28/04/2027,22:34,sucursal 2,producto 6,3500,1,3500,tarjeta de credito,usuario 3
+1944,29/04/2027,13:51,sucursal 3,producto 1,1000,2,2000,codigo QR,usuario 4
+1945,30/04/2027,13:38,sucursal 3,producto 1,1000,1,1000,efectivo,usuario 3
+1946,01/05/2027,15:35,sucursal 1,producto 9,2200,2,4400,codigo QR,usuario 2
+1947,02/05/2027,11:57,sucursal 3,producto 5,2000,2,4000,transferencia,usuario 5
+1948,03/05/2027,15:53,sucursal 1,producto 2,2500,5,12500,tarjeta de credito,usuario 2
+1949,04/05/2027,12:25,sucursal 3,producto 2,2500,1,2500,efectivo,usuario 3
+1950,05/05/2027,13:55,sucursal 3,producto 1,1000,2,2000,tarjeta de credito,usuario 2
+1951,06/05/2027,11:24,sucursal 1,producto 7,1800,3,5400,tarjeta de debito,usuario 2
+1952,07/05/2027,13:29,sucursal 3,producto 4,3000,4,12000,tarjeta de debito,usuario 5
+1953,08/05/2027,17:55,sucursal 2,producto 7,1800,4,7200,efectivo,usuario 1
+1954,09/05/2027,20:50,sucursal 2,producto 7,1800,2,3600,tarjeta de debito,usuario 4
+1955,10/05/2027,22:48,sucursal 3,producto 2,2500,2,5000,otro,usuario 1
+1956,11/05/2027,12:06,sucursal 3,producto 6,3500,1,3500,transferencia,usuario 3
+1957,12/05/2027,16:27,sucursal 3,producto 1,1000,2,2000,tarjeta de credito,usuario 4
+1958,13/05/2027,22:22,sucursal 3,producto 6,3500,2,7000,efectivo,usuario 3
+1959,14/05/2027,22:09,sucursal 1,producto 3,1500,1,1500,tarjeta de credito,usuario 3
+1960,15/05/2027,16:23,sucursal 2,producto 3,1500,5,7500,codigo QR,usuario 1
+1961,16/05/2027,18:45,sucursal 1,producto 2,2500,5,12500,tarjeta de credito,usuario 2
+1962,17/05/2027,22:21,sucursal 2,producto 1,1000,2,2000,transferencia,usuario 1
+1963,18/05/2027,09:23,sucursal 3,producto 8,2700,1,2700,tarjeta de credito,usuario 2
+1964,19/05/2027,10:12,sucursal 3,producto 8,2700,1,2700,otro,usuario 4
+1965,20/05/2027,18:14,sucursal 3,producto 3,1500,1,1500,codigo QR,usuario 3
+1966,21/05/2027,13:14,sucursal 2,producto 10,4000,1,4000,efectivo,usuario 4
+1967,22/05/2027,17:11,sucursal 1,producto 3,1500,5,7500,tarjeta de credito,usuario 2
+1968,23/05/2027,18:56,sucursal 2,producto 6,3500,4,14000,codigo QR,usuario 2
+1969,24/05/2027,19:39,sucursal 3,producto 8,2700,5,13500,codigo QR,usuario 2
+1970,25/05/2027,22:48,sucursal 3,producto 5,2000,3,6000,transferencia,usuario 3
+1971,26/05/2027,21:41,sucursal 1,producto 6,3500,3,10500,otro,usuario 4
+1972,27/05/2027,18:16,sucursal 2,producto 9,2200,3,6600,transferencia,usuario 1
+1973,28/05/2027,11:44,sucursal 1,producto 9,2200,2,4400,tarjeta de debito,usuario 1
+1974,29/05/2027,22:30,sucursal 3,producto 7,1800,2,3600,transferencia,usuario 5
+1975,30/05/2027,12:37,sucursal 3,producto 7,1800,3,5400,tarjeta de credito,usuario 5
+1976,31/05/2027,20:08,sucursal 2,producto 4,3000,2,6000,otro,usuario 3
+1977,01/06/2027,12:38,sucursal 2,producto 4,3000,2,6000,transferencia,usuario 5
+1978,02/06/2027,13:21,sucursal 2,producto 8,2700,3,8100,transferencia,usuario 5
+1979,03/06/2027,21:00,sucursal 1,producto 3,1500,1,1500,tarjeta de credito,usuario 1
+1980,04/06/2027,20:33,sucursal 3,producto 1,1000,4,4000,tarjeta de debito,usuario 4
+1981,05/06/2027,10:14,sucursal 3,producto 5,2000,1,2000,efectivo,usuario 1
+1982,06/06/2027,09:24,sucursal 1,producto 8,2700,1,2700,otro,usuario 5
+1983,07/06/2027,19:02,sucursal 1,producto 10,4000,1,4000,otro,usuario 1
+1984,08/06/2027,12:08,sucursal 1,producto 5,2000,2,4000,otro,usuario 5
+1985,09/06/2027,17:06,sucursal 2,producto 10,4000,1,4000,otro,usuario 5
+1986,10/06/2027,10:19,sucursal 3,producto 10,4000,2,8000,otro,usuario 2
+1987,11/06/2027,19:17,sucursal 1,producto 3,1500,1,1500,tarjeta de debito,usuario 2
+1988,12/06/2027,22:34,sucursal 2,producto 6,3500,2,7000,tarjeta de debito,usuario 5
+1989,13/06/2027,11:31,sucursal 2,producto 9,2200,1,2200,efectivo,usuario 1
+1990,14/06/2027,21:40,sucursal 2,producto 1,1000,5,5000,otro,usuario 2
+1991,15/06/2027,17:01,sucursal 1,producto 5,2000,1,2000,efectivo,usuario 1
+1992,16/06/2027,19:02,sucursal 3,producto 8,2700,4,10800,codigo QR,usuario 2
+1993,17/06/2027,13:53,sucursal 3,producto 9,2200,3,6600,codigo QR,usuario 5
+1994,18/06/2027,17:47,sucursal 3,producto 7,1800,4,7200,transferencia,usuario 5
+1995,19/06/2027,20:04,sucursal 2,producto 10,4000,3,12000,otro,usuario 4
+1996,20/06/2027,12:45,sucursal 1,producto 2,2500,4,10000,otro,usuario 2
+1997,21/06/2027,18:19,sucursal 3,producto 8,2700,1,2700,codigo QR,usuario 5
+1998,22/06/2027,20:04,sucursal 3,producto 2,2500,3,7500,codigo QR,usuario 4
+1999,23/06/2027,15:42,sucursal 1,producto 2,2500,1,2500,codigo QR,usuario 1
+2000,24/06/2027,10:44,sucursal 2,producto 3,1500,1,1500,tarjeta de debito,usuario 4
