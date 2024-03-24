@@ -1,0 +1,502 @@
+idGasto,fecha,categoria,valorGasto,nombreGasto,metodoPago,usuario
+0,01/09/2022,alquiler,19274,gasto 4,tarjeta de debito,usuario 2
+1,19/11/2023,transporte,33803,gasto 4,transferencia,usuario 1
+2,28/12/2022,mantenimiento,38844,gasto 3,otro,usuario 2
+3,22/11/2022,"muebles, equipos o maquinaria",41646,gasto 4,tarjeta de debito,usuario 2
+4,11/11/2021,mantenimiento,47459,gasto 3,codigo QR,usuario 2
+5,28/07/2021,"muebles, equipos o maquinaria",35453,gasto 1,tarjeta de credito,usuario 2
+6,07/05/2021,alquiler,24805,gasto 2,tarjeta de debito,usuario 2
+7,06/10/2023,"muebles, equipos o maquinaria",26565,gasto 1,tarjeta de credito,usuario 1
+8,19/04/2023,otros,29812,gasto 3,tarjeta de debito,usuario 1
+9,26/08/2021,alquiler,41231,gasto 2,efectivo,usuario 2
+10,29/04/2023,servicios publicos,32136,gasto 2,tarjeta de debito,usuario 1
+11,19/11/2022,otros,33188,gasto 1,tarjeta de credito,usuario 1
+12,25/08/2023,alquiler,33353,gasto 2,efectivo,usuario 2
+13,05/06/2022,servicios publicos,45128,gasto 1,codigo QR,usuario 1
+14,28/12/2023,otros,36178,gasto 5,codigo QR,usuario 2
+15,01/10/2023,alquiler,34049,gasto 3,tarjeta de credito,usuario 1
+16,18/09/2022,mantenimiento,39492,gasto 3,transferencia,usuario 2
+17,21/10/2022,publicidad,39537,gasto 1,codigo QR,usuario 1
+18,04/11/2023,"muebles, equipos o maquinaria",27829,gasto 2,codigo QR,usuario 2
+19,23/11/2022,servicios publicos,45143,gasto 4,tarjeta de credito,usuario 2
+20,06/12/2022,gastos administrativos,50079,gasto 3,tarjeta de debito,usuario 2
+21,01/02/2021,mantenimiento,31042,gasto 3,efectivo,usuario 2
+22,18/08/2021,alquiler,33049,gasto 1,otro,usuario 2
+23,07/02/2021,alquiler,52642,gasto 2,tarjeta de debito,usuario 2
+24,22/06/2023,otros,38782,gasto 5,codigo QR,usuario 2
+25,23/11/2023,gastos administrativos,44077,gasto 5,transferencia,usuario 1
+26,30/03/2022,otros,26468,gasto 4,otro,usuario 2
+27,07/11/2022,gastos administrativos,37113,gasto 5,codigo QR,usuario 1
+28,08/05/2021,publicidad,37116,gasto 1,tarjeta de credito,usuario 2
+29,25/08/2021,servicios publicos,30867,gasto 4,efectivo,usuario 2
+30,05/01/2022,"muebles, equipos o maquinaria",42553,gasto 4,efectivo,usuario 1
+31,24/05/2021,gastos administrativos,46380,gasto 3,efectivo,usuario 2
+32,21/12/2021,"muebles, equipos o maquinaria",38798,gasto 4,codigo QR,usuario 1
+33,20/03/2022,servicios publicos,43892,gasto 1,codigo QR,usuario 2
+34,26/05/2022,alquiler,37105,gasto 1,efectivo,usuario 2
+35,15/06/2021,"muebles, equipos o maquinaria",46598,gasto 5,tarjeta de credito,usuario 1
+36,02/12/2022,alquiler,30374,gasto 2,otro,usuario 2
+37,11/03/2021,gastos administrativos,41077,gasto 2,otro,usuario 2
+38,02/05/2023,transporte,30883,gasto 3,transferencia,usuario 1
+39,14/03/2022,publicidad,29075,gasto 1,efectivo,usuario 1
+40,22/06/2021,mantenimiento,50904,gasto 1,efectivo,usuario 1
+41,16/07/2023,gastos administrativos,23735,gasto 5,transferencia,usuario 2
+42,26/06/2023,otros,30447,gasto 4,tarjeta de debito,usuario 1
+43,22/02/2023,compra de productos e insumos,28508,gasto 4,transferencia,usuario 2
+44,15/01/2021,"muebles, equipos o maquinaria",24892,gasto 4,otro,usuario 2
+45,23/03/2021,compra de productos e insumos,31740,gasto 5,otro,usuario 1
+46,16/04/2021,compra de productos e insumos,31463,gasto 3,transferencia,usuario 2
+47,27/02/2022,gastos administrativos,16724,gasto 3,efectivo,usuario 2
+48,29/01/2021,compra de productos e insumos,41386,gasto 2,otro,usuario 1
+49,02/06/2023,publicidad,23277,gasto 1,efectivo,usuario 1
+50,29/08/2023,gastos administrativos,39252,gasto 4,otro,usuario 2
+51,05/08/2022,alquiler,19393,gasto 2,efectivo,usuario 1
+52,20/07/2022,gastos administrativos,45796,gasto 3,tarjeta de debito,usuario 1
+53,08/04/2022,compra de productos e insumos,51285,gasto 3,tarjeta de debito,usuario 1
+54,25/05/2022,alquiler,22627,gasto 1,tarjeta de debito,usuario 1
+55,16/01/2023,otros,21650,gasto 5,otro,usuario 2
+56,17/05/2023,"muebles, equipos o maquinaria",43923,gasto 2,efectivo,usuario 2
+57,24/06/2021,mantenimiento,17902,gasto 1,otro,usuario 1
+58,01/12/2023,transporte,40248,gasto 4,efectivo,usuario 1
+59,08/11/2022,transporte,45734,gasto 2,codigo QR,usuario 1
+60,03/08/2021,alquiler,35321,gasto 4,transferencia,usuario 2
+61,08/12/2022,alquiler,46527,gasto 4,tarjeta de credito,usuario 2
+62,17/09/2022,transporte,34362,gasto 1,efectivo,usuario 2
+63,24/02/2022,transporte,18398,gasto 1,codigo QR,usuario 1
+64,08/01/2023,alquiler,22899,gasto 4,transferencia,usuario 2
+65,27/01/2021,servicios publicos,31469,gasto 2,tarjeta de debito,usuario 1
+66,22/12/2021,"muebles, equipos o maquinaria",24319,gasto 1,otro,usuario 1
+67,18/08/2023,publicidad,34686,gasto 1,otro,usuario 2
+68,22/06/2022,gastos administrativos,46817,gasto 5,tarjeta de debito,usuario 2
+69,06/07/2022,otros,33640,gasto 1,tarjeta de debito,usuario 1
+70,23/11/2023,gastos administrativos,42831,gasto 3,tarjeta de credito,usuario 1
+71,22/09/2023,alquiler,49384,gasto 3,efectivo,usuario 1
+72,09/09/2021,"muebles, equipos o maquinaria",44077,gasto 2,otro,usuario 1
+73,23/06/2021,otros,37100,gasto 1,tarjeta de debito,usuario 1
+74,29/03/2023,compra de productos e insumos,27283,gasto 5,transferencia,usuario 1
+75,22/05/2022,mantenimiento,29484,gasto 4,tarjeta de credito,usuario 1
+76,23/12/2023,transporte,22689,gasto 3,tarjeta de credito,usuario 1
+77,08/12/2021,transporte,34737,gasto 3,tarjeta de debito,usuario 1
+78,03/08/2023,publicidad,24603,gasto 1,otro,usuario 2
+79,30/03/2023,gastos administrativos,20508,gasto 4,codigo QR,usuario 1
+80,20/04/2021,transporte,30204,gasto 3,tarjeta de credito,usuario 1
+81,25/07/2023,otros,48644,gasto 2,tarjeta de debito,usuario 1
+82,14/07/2023,alquiler,32978,gasto 2,codigo QR,usuario 1
+83,19/08/2022,publicidad,30363,gasto 5,tarjeta de credito,usuario 1
+84,10/04/2023,"muebles, equipos o maquinaria",46402,gasto 2,transferencia,usuario 2
+85,15/04/2021,mantenimiento,46645,gasto 3,otro,usuario 1
+86,23/11/2021,alquiler,29142,gasto 3,tarjeta de credito,usuario 2
+87,09/06/2021,otros,44257,gasto 1,tarjeta de credito,usuario 1
+88,21/03/2022,alquiler,35289,gasto 5,tarjeta de credito,usuario 2
+89,23/03/2022,gastos administrativos,46039,gasto 3,efectivo,usuario 1
+90,26/09/2023,mantenimiento,27887,gasto 4,otro,usuario 1
+91,12/01/2023,compra de productos e insumos,17769,gasto 4,efectivo,usuario 1
+92,25/05/2022,mantenimiento,23109,gasto 2,tarjeta de debito,usuario 2
+93,29/01/2022,otros,24157,gasto 5,tarjeta de credito,usuario 1
+94,27/08/2021,"muebles, equipos o maquinaria",33234,gasto 1,tarjeta de credito,usuario 2
+95,27/03/2022,publicidad,22838,gasto 2,tarjeta de credito,usuario 2
+96,10/06/2023,mantenimiento,21529,gasto 5,transferencia,usuario 2
+97,18/07/2021,otros,19879,gasto 2,otro,usuario 1
+98,19/01/2021,servicios publicos,20805,gasto 4,tarjeta de credito,usuario 2
+99,07/07/2021,compra de productos e insumos,27839,gasto 2,efectivo,usuario 1
+100,06/02/2023,gastos administrativos,51611,gasto 4,otro,usuario 1
+101,25/08/2022,publicidad,20264,gasto 5,transferencia,usuario 1
+102,26/12/2021,"muebles, equipos o maquinaria",28485,gasto 1,tarjeta de debito,usuario 1
+103,24/05/2023,publicidad,23870,gasto 1,otro,usuario 1
+104,14/01/2021,otros,23735,gasto 5,tarjeta de credito,usuario 1
+105,04/12/2022,gastos administrativos,20742,gasto 5,transferencia,usuario 1
+106,19/04/2022,publicidad,44965,gasto 3,tarjeta de credito,usuario 2
+107,09/01/2021,alquiler,40505,gasto 3,tarjeta de debito,usuario 1
+108,09/04/2023,compra de productos e insumos,45517,gasto 3,tarjeta de debito,usuario 2
+109,30/04/2021,transporte,18823,gasto 4,transferencia,usuario 2
+110,04/08/2023,alquiler,40687,gasto 5,otro,usuario 2
+111,09/06/2023,alquiler,37419,gasto 2,tarjeta de credito,usuario 2
+112,08/12/2021,publicidad,15837,gasto 4,otro,usuario 1
+113,26/09/2021,"muebles, equipos o maquinaria",31546,gasto 2,tarjeta de debito,usuario 1
+114,05/01/2023,alquiler,26875,gasto 3,efectivo,usuario 1
+115,29/11/2023,alquiler,35242,gasto 4,transferencia,usuario 1
+116,30/01/2022,gastos administrativos,36616,gasto 1,tarjeta de credito,usuario 2
+117,16/12/2022,"muebles, equipos o maquinaria",36554,gasto 1,codigo QR,usuario 1
+118,08/08/2023,mantenimiento,43945,gasto 4,transferencia,usuario 1
+119,22/02/2021,compra de productos e insumos,29280,gasto 1,transferencia,usuario 2
+120,27/11/2023,mantenimiento,35500,gasto 2,transferencia,usuario 2
+121,14/11/2022,otros,24440,gasto 2,transferencia,usuario 1
+122,20/01/2021,alquiler,31269,gasto 5,codigo QR,usuario 2
+123,20/01/2022,servicios publicos,30154,gasto 5,tarjeta de credito,usuario 1
+124,21/01/2021,mantenimiento,41703,gasto 4,transferencia,usuario 2
+125,08/10/2021,mantenimiento,36423,gasto 2,efectivo,usuario 1
+126,25/10/2022,gastos administrativos,14421,gasto 4,otro,usuario 1
+127,26/09/2023,gastos administrativos,51292,gasto 1,efectivo,usuario 2
+128,17/10/2021,publicidad,43261,gasto 3,efectivo,usuario 2
+129,11/01/2021,otros,17393,gasto 2,transferencia,usuario 2
+130,04/06/2022,"muebles, equipos o maquinaria",19051,gasto 3,tarjeta de credito,usuario 2
+131,22/03/2022,"muebles, equipos o maquinaria",24975,gasto 1,transferencia,usuario 2
+132,01/10/2022,mantenimiento,38569,gasto 3,efectivo,usuario 1
+133,05/01/2022,alquiler,49509,gasto 3,tarjeta de credito,usuario 2
+134,23/08/2021,publicidad,27297,gasto 1,tarjeta de debito,usuario 2
+135,01/10/2022,otros,54347,gasto 3,otro,usuario 1
+136,18/10/2022,servicios publicos,19720,gasto 5,otro,usuario 2
+137,06/11/2021,"muebles, equipos o maquinaria",49841,gasto 4,codigo QR,usuario 2
+138,10/08/2022,transporte,36919,gasto 1,efectivo,usuario 2
+139,07/04/2023,servicios publicos,22731,gasto 3,efectivo,usuario 1
+140,15/03/2022,alquiler,32713,gasto 5,codigo QR,usuario 1
+141,15/05/2022,servicios publicos,33723,gasto 5,tarjeta de debito,usuario 2
+142,07/03/2021,compra de productos e insumos,31830,gasto 2,otro,usuario 1
+143,26/01/2021,servicios publicos,35946,gasto 2,otro,usuario 2
+144,24/07/2022,mantenimiento,36793,gasto 3,tarjeta de credito,usuario 1
+145,31/10/2023,gastos administrativos,34146,gasto 2,tarjeta de credito,usuario 2
+146,04/10/2023,servicios publicos,19786,gasto 2,tarjeta de credito,usuario 1
+147,04/05/2022,servicios publicos,32209,gasto 1,codigo QR,usuario 2
+148,09/09/2021,publicidad,30860,gasto 3,otro,usuario 1
+149,18/12/2022,transporte,20383,gasto 3,codigo QR,usuario 2
+150,29/04/2021,mantenimiento,19842,gasto 5,transferencia,usuario 2
+151,25/04/2021,publicidad,36747,gasto 1,tarjeta de credito,usuario 1
+152,05/08/2021,transporte,51419,gasto 5,transferencia,usuario 1
+153,28/12/2023,otros,34003,gasto 4,tarjeta de credito,usuario 1
+154,21/04/2022,compra de productos e insumos,28377,gasto 2,otro,usuario 1
+155,10/08/2023,alquiler,42716,gasto 4,otro,usuario 2
+156,29/06/2023,mantenimiento,42157,gasto 4,tarjeta de credito,usuario 1
+157,01/06/2022,gastos administrativos,17750,gasto 2,otro,usuario 1
+158,19/11/2022,gastos administrativos,19359,gasto 2,transferencia,usuario 1
+159,11/12/2021,gastos administrativos,63645,gasto 3,tarjeta de credito,usuario 1
+160,09/08/2022,"muebles, equipos o maquinaria",23420,gasto 3,otro,usuario 1
+161,18/11/2021,gastos administrativos,22671,gasto 1,efectivo,usuario 2
+162,15/03/2021,transporte,23028,gasto 5,transferencia,usuario 2
+163,24/07/2023,alquiler,49482,gasto 4,efectivo,usuario 1
+164,15/09/2021,gastos administrativos,37826,gasto 4,tarjeta de debito,usuario 2
+165,02/08/2021,gastos administrativos,28720,gasto 1,otro,usuario 1
+166,09/08/2021,otros,20681,gasto 2,codigo QR,usuario 1
+167,17/08/2022,publicidad,52450,gasto 2,efectivo,usuario 1
+168,27/04/2023,transporte,52923,gasto 1,tarjeta de credito,usuario 2
+169,26/09/2022,"muebles, equipos o maquinaria",26254,gasto 5,codigo QR,usuario 2
+170,20/05/2023,compra de productos e insumos,27935,gasto 5,codigo QR,usuario 2
+171,14/12/2023,mantenimiento,45553,gasto 5,otro,usuario 2
+172,20/05/2023,transporte,19193,gasto 3,otro,usuario 2
+173,15/04/2022,alquiler,19749,gasto 2,codigo QR,usuario 1
+174,02/07/2023,"muebles, equipos o maquinaria",18770,gasto 2,efectivo,usuario 1
+175,28/01/2022,alquiler,31526,gasto 1,tarjeta de debito,usuario 2
+176,05/02/2022,transporte,42477,gasto 2,transferencia,usuario 1
+177,15/06/2022,gastos administrativos,14847,gasto 1,tarjeta de credito,usuario 2
+178,11/08/2021,"muebles, equipos o maquinaria",52266,gasto 3,tarjeta de credito,usuario 1
+179,21/01/2023,publicidad,22789,gasto 2,tarjeta de credito,usuario 2
+180,16/12/2021,"muebles, equipos o maquinaria",43031,gasto 3,tarjeta de credito,usuario 2
+181,27/09/2021,compra de productos e insumos,49579,gasto 5,transferencia,usuario 1
+182,14/11/2022,publicidad,26041,gasto 3,tarjeta de debito,usuario 1
+183,08/06/2022,servicios publicos,19106,gasto 3,efectivo,usuario 1
+184,17/06/2021,gastos administrativos,27547,gasto 5,codigo QR,usuario 1
+185,03/09/2021,servicios publicos,27485,gasto 3,codigo QR,usuario 1
+186,10/12/2023,alquiler,45659,gasto 1,tarjeta de debito,usuario 2
+187,19/05/2021,otros,21280,gasto 4,efectivo,usuario 1
+188,30/03/2022,compra de productos e insumos,18260,gasto 1,transferencia,usuario 1
+189,11/02/2022,gastos administrativos,24117,gasto 5,efectivo,usuario 2
+190,10/09/2021,mantenimiento,30183,gasto 4,transferencia,usuario 1
+191,24/09/2021,otros,37705,gasto 5,transferencia,usuario 1
+192,10/09/2022,compra de productos e insumos,42415,gasto 1,transferencia,usuario 2
+193,22/03/2023,gastos administrativos,27621,gasto 1,tarjeta de credito,usuario 1
+194,17/09/2022,servicios publicos,46277,gasto 4,efectivo,usuario 1
+195,13/10/2022,otros,45749,gasto 3,codigo QR,usuario 2
+196,27/11/2023,compra de productos e insumos,49907,gasto 5,efectivo,usuario 2
+197,10/01/2022,otros,34493,gasto 3,transferencia,usuario 1
+198,02/09/2021,publicidad,34137,gasto 2,codigo QR,usuario 1
+199,21/10/2023,compra de productos e insumos,25289,gasto 1,tarjeta de credito,usuario 1
+200,14/06/2021,gastos administrativos,19984,gasto 5,efectivo,usuario 1
+201,06/07/2022,servicios publicos,38767,gasto 1,tarjeta de credito,usuario 2
+202,19/12/2021,alquiler,17614,gasto 3,efectivo,usuario 1
+203,08/02/2021,"muebles, equipos o maquinaria",44094,gasto 1,efectivo,usuario 2
+204,26/10/2021,"muebles, equipos o maquinaria",28851,gasto 3,otro,usuario 1
+205,18/08/2022,publicidad,42885,gasto 2,tarjeta de debito,usuario 1
+206,22/07/2022,mantenimiento,19942,gasto 4,otro,usuario 1
+207,05/03/2022,"muebles, equipos o maquinaria",19915,gasto 4,efectivo,usuario 2
+208,17/10/2022,compra de productos e insumos,31383,gasto 3,otro,usuario 1
+209,09/02/2023,servicios publicos,44138,gasto 3,efectivo,usuario 1
+210,01/02/2022,publicidad,20732,gasto 4,efectivo,usuario 1
+211,01/08/2022,servicios publicos,35241,gasto 2,transferencia,usuario 1
+212,13/07/2023,alquiler,28247,gasto 4,codigo QR,usuario 1
+213,13/02/2023,publicidad,19986,gasto 1,codigo QR,usuario 1
+214,01/12/2022,otros,24111,gasto 3,codigo QR,usuario 2
+215,24/12/2022,otros,35674,gasto 4,tarjeta de credito,usuario 1
+216,08/01/2022,transporte,31155,gasto 1,tarjeta de debito,usuario 2
+217,25/07/2023,otros,27335,gasto 3,efectivo,usuario 1
+218,30/08/2022,gastos administrativos,23406,gasto 5,efectivo,usuario 1
+219,16/06/2023,servicios publicos,38310,gasto 5,efectivo,usuario 2
+220,08/05/2022,mantenimiento,28550,gasto 1,transferencia,usuario 2
+221,29/04/2021,transporte,19836,gasto 1,codigo QR,usuario 2
+222,20/03/2023,"muebles, equipos o maquinaria",50517,gasto 3,tarjeta de debito,usuario 1
+223,30/04/2022,compra de productos e insumos,31559,gasto 2,tarjeta de credito,usuario 2
+224,19/08/2022,mantenimiento,32220,gasto 3,otro,usuario 1
+225,12/12/2023,transporte,31356,gasto 5,tarjeta de credito,usuario 2
+226,19/10/2021,gastos administrativos,36332,gasto 5,transferencia,usuario 2
+227,31/03/2023,otros,40222,gasto 4,codigo QR,usuario 2
+228,01/08/2022,compra de productos e insumos,29156,gasto 2,otro,usuario 1
+229,24/04/2021,otros,52810,gasto 4,codigo QR,usuario 2
+230,31/07/2022,mantenimiento,39503,gasto 2,otro,usuario 2
+231,01/01/2021,mantenimiento,38153,gasto 3,codigo QR,usuario 1
+232,17/01/2023,compra de productos e insumos,37504,gasto 3,codigo QR,usuario 1
+233,20/01/2023,"muebles, equipos o maquinaria",36585,gasto 5,transferencia,usuario 1
+234,24/03/2022,gastos administrativos,31272,gasto 3,codigo QR,usuario 1
+235,19/03/2023,alquiler,19287,gasto 2,transferencia,usuario 1
+236,14/08/2023,alquiler,36275,gasto 3,codigo QR,usuario 1
+237,25/01/2023,mantenimiento,34172,gasto 5,transferencia,usuario 2
+238,26/09/2022,servicios publicos,20200,gasto 1,tarjeta de debito,usuario 2
+239,03/06/2023,publicidad,51471,gasto 5,otro,usuario 2
+240,24/03/2023,mantenimiento,46184,gasto 3,efectivo,usuario 1
+241,27/12/2021,"muebles, equipos o maquinaria",37591,gasto 2,tarjeta de debito,usuario 1
+242,29/11/2022,mantenimiento,31028,gasto 3,otro,usuario 2
+243,19/10/2022,otros,40916,gasto 5,tarjeta de debito,usuario 1
+244,26/04/2023,"muebles, equipos o maquinaria",31192,gasto 3,transferencia,usuario 2
+245,25/10/2023,servicios publicos,50250,gasto 1,otro,usuario 1
+246,19/10/2022,compra de productos e insumos,28402,gasto 4,tarjeta de credito,usuario 1
+247,05/03/2021,publicidad,48721,gasto 4,tarjeta de credito,usuario 1
+248,13/06/2023,servicios publicos,33551,gasto 2,tarjeta de debito,usuario 2
+249,12/11/2022,compra de productos e insumos,53026,gasto 3,tarjeta de debito,usuario 2
+250,11/07/2023,servicios publicos,34688,gasto 1,efectivo,usuario 1
+251,08/03/2021,alquiler,24900,gasto 2,tarjeta de credito,usuario 2
+252,25/11/2022,mantenimiento,51831,gasto 5,codigo QR,usuario 2
+253,09/09/2021,alquiler,33820,gasto 3,efectivo,usuario 1
+254,19/09/2022,"muebles, equipos o maquinaria",41986,gasto 3,tarjeta de credito,usuario 2
+255,29/08/2021,compra de productos e insumos,16888,gasto 1,codigo QR,usuario 1
+256,22/04/2023,servicios publicos,44518,gasto 4,efectivo,usuario 1
+257,07/01/2022,servicios publicos,15306,gasto 5,otro,usuario 2
+258,25/09/2022,mantenimiento,47515,gasto 2,otro,usuario 1
+259,18/10/2023,mantenimiento,32467,gasto 5,tarjeta de credito,usuario 2
+260,16/06/2022,compra de productos e insumos,18885,gasto 3,tarjeta de debito,usuario 2
+261,13/03/2023,transporte,43058,gasto 2,tarjeta de debito,usuario 1
+262,31/05/2022,gastos administrativos,38491,gasto 5,codigo QR,usuario 2
+263,17/07/2023,mantenimiento,48512,gasto 5,codigo QR,usuario 2
+264,16/05/2022,servicios publicos,40718,gasto 2,efectivo,usuario 1
+265,30/09/2021,otros,43192,gasto 5,tarjeta de debito,usuario 1
+266,01/08/2021,otros,29513,gasto 4,otro,usuario 1
+267,18/06/2021,mantenimiento,34819,gasto 1,otro,usuario 1
+268,18/08/2021,gastos administrativos,24462,gasto 1,otro,usuario 1
+269,29/04/2021,"muebles, equipos o maquinaria",36250,gasto 5,tarjeta de debito,usuario 2
+270,30/10/2021,publicidad,23905,gasto 1,otro,usuario 2
+271,01/10/2021,transporte,32204,gasto 5,otro,usuario 1
+272,06/03/2023,publicidad,45434,gasto 4,efectivo,usuario 2
+273,28/09/2021,otros,47211,gasto 1,transferencia,usuario 2
+274,08/12/2021,gastos administrativos,35279,gasto 3,efectivo,usuario 2
+275,29/07/2022,alquiler,30778,gasto 5,otro,usuario 2
+276,13/06/2023,servicios publicos,21977,gasto 5,codigo QR,usuario 2
+277,01/05/2021,compra de productos e insumos,52174,gasto 1,tarjeta de debito,usuario 1
+278,29/10/2022,"muebles, equipos o maquinaria",19184,gasto 5,transferencia,usuario 1
+279,04/03/2023,transporte,16164,gasto 3,tarjeta de credito,usuario 2
+280,25/02/2021,alquiler,18013,gasto 5,tarjeta de credito,usuario 2
+281,08/03/2022,transporte,27491,gasto 2,efectivo,usuario 2
+282,18/02/2022,servicios publicos,52207,gasto 1,transferencia,usuario 2
+283,20/07/2022,gastos administrativos,39467,gasto 3,transferencia,usuario 2
+284,20/07/2022,alquiler,31121,gasto 2,transferencia,usuario 2
+285,09/04/2023,mantenimiento,47752,gasto 3,tarjeta de debito,usuario 2
+286,10/02/2021,mantenimiento,41781,gasto 5,transferencia,usuario 2
+287,28/10/2022,publicidad,26490,gasto 4,otro,usuario 1
+288,28/11/2022,transporte,28913,gasto 3,transferencia,usuario 2
+289,13/04/2022,mantenimiento,34633,gasto 1,tarjeta de debito,usuario 2
+290,27/07/2021,transporte,44619,gasto 1,codigo QR,usuario 2
+291,22/06/2022,otros,25994,gasto 3,tarjeta de credito,usuario 2
+292,26/05/2021,publicidad,35779,gasto 4,transferencia,usuario 1
+293,07/08/2022,publicidad,26497,gasto 3,transferencia,usuario 1
+294,03/04/2023,servicios publicos,44166,gasto 2,efectivo,usuario 1
+295,23/05/2023,publicidad,26060,gasto 2,otro,usuario 2
+296,23/12/2022,alquiler,26941,gasto 4,otro,usuario 1
+297,05/01/2022,transporte,47496,gasto 5,codigo QR,usuario 1
+298,29/01/2022,otros,36446,gasto 5,tarjeta de credito,usuario 1
+299,10/07/2022,alquiler,46397,gasto 2,tarjeta de credito,usuario 1
+300,29/10/2023,compra de productos e insumos,36320,gasto 2,codigo QR,usuario 2
+301,27/06/2022,transporte,28152,gasto 2,otro,usuario 2
+302,01/11/2021,alquiler,35925,gasto 3,tarjeta de debito,usuario 1
+303,18/05/2023,servicios publicos,31335,gasto 3,tarjeta de debito,usuario 1
+304,15/12/2023,publicidad,15768,gasto 4,transferencia,usuario 2
+305,30/09/2022,alquiler,42511,gasto 1,tarjeta de credito,usuario 2
+306,07/11/2023,otros,25414,gasto 4,transferencia,usuario 1
+307,10/08/2022,gastos administrativos,44274,gasto 2,codigo QR,usuario 1
+308,27/01/2023,otros,34320,gasto 5,tarjeta de credito,usuario 1
+309,14/10/2021,"muebles, equipos o maquinaria",32675,gasto 4,tarjeta de debito,usuario 2
+310,18/11/2021,mantenimiento,22485,gasto 3,transferencia,usuario 1
+311,15/05/2021,mantenimiento,25249,gasto 5,tarjeta de debito,usuario 2
+312,02/03/2022,servicios publicos,25799,gasto 4,otro,usuario 2
+313,02/06/2021,compra de productos e insumos,51825,gasto 3,codigo QR,usuario 2
+314,07/07/2022,alquiler,19779,gasto 3,transferencia,usuario 2
+315,20/05/2021,otros,40960,gasto 5,efectivo,usuario 1
+316,26/12/2022,mantenimiento,28543,gasto 3,otro,usuario 1
+317,17/01/2021,mantenimiento,43724,gasto 2,tarjeta de credito,usuario 1
+318,01/10/2022,compra de productos e insumos,24510,gasto 4,tarjeta de credito,usuario 2
+319,10/02/2021,gastos administrativos,53597,gasto 3,efectivo,usuario 1
+320,28/08/2021,alquiler,19812,gasto 5,efectivo,usuario 1
+321,24/03/2021,compra de productos e insumos,51743,gasto 2,tarjeta de credito,usuario 2
+322,28/01/2022,mantenimiento,20851,gasto 4,codigo QR,usuario 2
+323,02/02/2022,compra de productos e insumos,22109,gasto 2,otro,usuario 1
+324,31/08/2022,publicidad,17378,gasto 1,otro,usuario 1
+325,12/07/2021,mantenimiento,22194,gasto 2,codigo QR,usuario 1
+326,03/11/2022,transporte,40383,gasto 5,tarjeta de debito,usuario 1
+327,30/06/2021,transporte,18295,gasto 2,tarjeta de credito,usuario 1
+328,29/09/2023,transporte,43295,gasto 2,efectivo,usuario 2
+329,22/10/2022,"muebles, equipos o maquinaria",26800,gasto 1,otro,usuario 2
+330,04/12/2021,gastos administrativos,38626,gasto 3,efectivo,usuario 1
+331,22/03/2022,alquiler,34959,gasto 2,tarjeta de debito,usuario 2
+332,09/01/2023,transporte,28751,gasto 2,codigo QR,usuario 2
+333,12/04/2023,transporte,49721,gasto 5,efectivo,usuario 2
+334,05/07/2022,"muebles, equipos o maquinaria",51793,gasto 4,tarjeta de credito,usuario 1
+335,21/12/2021,publicidad,34644,gasto 2,codigo QR,usuario 2
+336,14/08/2022,otros,39064,gasto 3,codigo QR,usuario 2
+337,07/11/2022,mantenimiento,15153,gasto 3,otro,usuario 1
+338,14/06/2021,otros,19874,gasto 4,otro,usuario 2
+339,15/10/2022,mantenimiento,47329,gasto 4,tarjeta de credito,usuario 2
+340,02/08/2022,servicios publicos,23961,gasto 3,efectivo,usuario 2
+341,09/02/2022,transporte,16176,gasto 2,efectivo,usuario 1
+342,15/11/2023,otros,33321,gasto 1,otro,usuario 1
+343,29/08/2023,publicidad,33623,gasto 2,codigo QR,usuario 1
+344,14/12/2022,transporte,27703,gasto 5,efectivo,usuario 1
+345,17/02/2021,publicidad,31697,gasto 2,tarjeta de credito,usuario 1
+346,28/09/2021,otros,42245,gasto 5,otro,usuario 2
+347,19/07/2022,gastos administrativos,36203,gasto 4,tarjeta de debito,usuario 2
+348,25/01/2021,gastos administrativos,38511,gasto 3,transferencia,usuario 1
+349,05/09/2023,gastos administrativos,36855,gasto 3,otro,usuario 2
+350,09/05/2022,mantenimiento,20338,gasto 3,tarjeta de credito,usuario 1
+351,20/01/2022,alquiler,41420,gasto 3,tarjeta de credito,usuario 1
+352,16/05/2023,alquiler,15395,gasto 3,tarjeta de debito,usuario 1
+353,23/09/2021,servicios publicos,37944,gasto 2,tarjeta de credito,usuario 2
+354,02/05/2022,servicios publicos,16620,gasto 1,otro,usuario 1
+355,03/07/2021,mantenimiento,21985,gasto 2,codigo QR,usuario 2
+356,16/05/2023,compra de productos e insumos,51157,gasto 4,tarjeta de credito,usuario 1
+357,07/01/2023,"muebles, equipos o maquinaria",38157,gasto 2,transferencia,usuario 1
+358,06/01/2022,mantenimiento,31691,gasto 1,otro,usuario 2
+359,20/10/2023,gastos administrativos,27102,gasto 5,efectivo,usuario 1
+360,26/02/2021,transporte,44317,gasto 3,otro,usuario 2
+361,16/03/2021,servicios publicos,43279,gasto 1,otro,usuario 1
+362,21/04/2022,mantenimiento,34140,gasto 5,codigo QR,usuario 2
+363,21/05/2023,otros,18082,gasto 3,otro,usuario 1
+364,04/11/2023,otros,32240,gasto 5,tarjeta de debito,usuario 2
+365,10/11/2023,"muebles, equipos o maquinaria",19567,gasto 1,tarjeta de debito,usuario 1
+366,05/03/2023,alquiler,28965,gasto 3,tarjeta de credito,usuario 2
+367,22/08/2022,transporte,27028,gasto 1,transferencia,usuario 2
+368,28/04/2021,transporte,41816,gasto 1,tarjeta de debito,usuario 1
+369,02/02/2023,mantenimiento,16588,gasto 3,transferencia,usuario 2
+370,07/09/2023,publicidad,29067,gasto 1,tarjeta de credito,usuario 1
+371,06/10/2021,gastos administrativos,36341,gasto 5,otro,usuario 2
+372,17/12/2023,gastos administrativos,51561,gasto 2,otro,usuario 1
+373,21/09/2021,"muebles, equipos o maquinaria",32462,gasto 4,codigo QR,usuario 1
+374,09/02/2022,transporte,31639,gasto 1,efectivo,usuario 2
+375,12/10/2021,publicidad,20927,gasto 5,otro,usuario 2
+376,15/05/2022,publicidad,43213,gasto 2,otro,usuario 2
+377,07/05/2022,otros,46086,gasto 3,efectivo,usuario 1
+378,28/07/2023,alquiler,39209,gasto 5,transferencia,usuario 2
+379,29/12/2023,mantenimiento,40504,gasto 1,otro,usuario 1
+380,11/06/2022,mantenimiento,26730,gasto 1,tarjeta de credito,usuario 2
+381,28/11/2022,gastos administrativos,19888,gasto 2,transferencia,usuario 2
+382,25/06/2021,mantenimiento,29887,gasto 5,tarjeta de debito,usuario 2
+383,22/12/2023,otros,43673,gasto 1,transferencia,usuario 1
+384,28/09/2022,gastos administrativos,26371,gasto 4,codigo QR,usuario 1
+385,22/01/2021,servicios publicos,25133,gasto 4,tarjeta de debito,usuario 2
+386,08/06/2021,"muebles, equipos o maquinaria",30707,gasto 4,tarjeta de debito,usuario 1
+387,25/06/2021,compra de productos e insumos,27602,gasto 5,transferencia,usuario 1
+388,31/08/2023,mantenimiento,37262,gasto 1,transferencia,usuario 2
+389,06/01/2023,alquiler,42791,gasto 4,codigo QR,usuario 2
+390,21/10/2023,alquiler,41978,gasto 3,tarjeta de credito,usuario 2
+391,24/03/2021,compra de productos e insumos,23727,gasto 4,codigo QR,usuario 2
+392,01/10/2023,"muebles, equipos o maquinaria",30473,gasto 4,tarjeta de debito,usuario 2
+393,19/10/2023,mantenimiento,21449,gasto 5,efectivo,usuario 2
+394,13/12/2023,compra de productos e insumos,32527,gasto 2,otro,usuario 1
+395,21/09/2022,gastos administrativos,35168,gasto 4,tarjeta de debito,usuario 2
+396,23/03/2023,mantenimiento,48052,gasto 2,otro,usuario 2
+397,14/02/2021,transporte,29546,gasto 3,transferencia,usuario 1
+398,22/12/2023,alquiler,44782,gasto 1,tarjeta de debito,usuario 2
+399,18/05/2022,alquiler,38300,gasto 4,codigo QR,usuario 2
+400,11/09/2021,gastos administrativos,26871,gasto 5,transferencia,usuario 1
+401,02/05/2023,publicidad,26834,gasto 3,otro,usuario 2
+402,07/06/2022,mantenimiento,29096,gasto 1,transferencia,usuario 2
+403,10/04/2022,compra de productos e insumos,41281,gasto 5,codigo QR,usuario 2
+404,03/03/2021,servicios publicos,16441,gasto 2,efectivo,usuario 2
+405,10/02/2021,alquiler,19388,gasto 5,tarjeta de credito,usuario 2
+406,18/11/2022,gastos administrativos,23093,gasto 5,codigo QR,usuario 2
+407,01/05/2022,publicidad,45785,gasto 5,otro,usuario 1
+408,29/08/2022,publicidad,17632,gasto 4,tarjeta de credito,usuario 2
+409,18/07/2021,compra de productos e insumos,18687,gasto 3,tarjeta de credito,usuario 1
+410,10/09/2023,alquiler,24498,gasto 5,otro,usuario 1
+411,23/06/2021,gastos administrativos,47540,gasto 4,efectivo,usuario 1
+412,19/12/2021,publicidad,27432,gasto 5,transferencia,usuario 2
+413,12/04/2022,compra de productos e insumos,29272,gasto 5,efectivo,usuario 2
+414,18/07/2023,compra de productos e insumos,28588,gasto 1,codigo QR,usuario 1
+415,18/03/2022,transporte,23382,gasto 3,efectivo,usuario 1
+416,04/02/2022,"muebles, equipos o maquinaria",27011,gasto 5,codigo QR,usuario 2
+417,27/08/2021,alquiler,28719,gasto 2,efectivo,usuario 2
+418,05/06/2022,otros,19442,gasto 1,tarjeta de credito,usuario 1
+419,18/12/2022,servicios publicos,29821,gasto 3,codigo QR,usuario 2
+420,01/01/2021,compra de productos e insumos,21992,gasto 5,otro,usuario 1
+421,15/12/2021,gastos administrativos,29012,gasto 3,transferencia,usuario 2
+422,02/06/2023,servicios publicos,44585,gasto 1,transferencia,usuario 2
+423,07/03/2022,servicios publicos,32383,gasto 4,codigo QR,usuario 2
+424,28/01/2021,servicios publicos,17179,gasto 4,tarjeta de debito,usuario 2
+425,20/05/2022,mantenimiento,32377,gasto 3,efectivo,usuario 2
+426,01/02/2021,mantenimiento,43827,gasto 5,transferencia,usuario 1
+427,04/10/2023,publicidad,19843,gasto 3,efectivo,usuario 2
+428,15/07/2022,mantenimiento,59555,gasto 1,tarjeta de debito,usuario 2
+429,26/06/2022,otros,39470,gasto 5,codigo QR,usuario 1
+430,03/04/2021,publicidad,26579,gasto 1,tarjeta de debito,usuario 2
+431,28/03/2023,gastos administrativos,28135,gasto 4,otro,usuario 2
+432,14/01/2022,mantenimiento,13186,gasto 4,tarjeta de debito,usuario 2
+433,20/10/2021,compra de productos e insumos,36023,gasto 1,codigo QR,usuario 1
+434,13/06/2022,transporte,16278,gasto 5,codigo QR,usuario 2
+435,15/09/2023,"muebles, equipos o maquinaria",20979,gasto 4,efectivo,usuario 1
+436,26/12/2023,otros,36215,gasto 3,transferencia,usuario 2
+437,10/01/2021,gastos administrativos,17640,gasto 3,otro,usuario 2
+438,04/12/2022,publicidad,40725,gasto 2,codigo QR,usuario 2
+439,03/12/2021,mantenimiento,44433,gasto 5,efectivo,usuario 2
+440,07/05/2022,transporte,37403,gasto 4,tarjeta de debito,usuario 1
+441,07/11/2022,alquiler,37511,gasto 4,tarjeta de credito,usuario 1
+442,26/03/2021,"muebles, equipos o maquinaria",32807,gasto 5,codigo QR,usuario 1
+443,06/05/2022,"muebles, equipos o maquinaria",52369,gasto 2,tarjeta de credito,usuario 1
+444,22/10/2021,servicios publicos,25012,gasto 2,tarjeta de credito,usuario 1
+445,08/05/2021,gastos administrativos,16232,gasto 2,otro,usuario 1
+446,04/01/2021,publicidad,41838,gasto 5,efectivo,usuario 2
+447,19/06/2023,"muebles, equipos o maquinaria",39569,gasto 1,tarjeta de credito,usuario 1
+448,17/02/2023,publicidad,32500,gasto 1,efectivo,usuario 1
+449,22/02/2022,otros,40966,gasto 3,codigo QR,usuario 2
+450,27/07/2022,transporte,36335,gasto 5,codigo QR,usuario 1
+451,31/05/2022,servicios publicos,18967,gasto 3,tarjeta de debito,usuario 2
+452,24/05/2023,publicidad,24009,gasto 5,otro,usuario 1
+453,09/01/2022,servicios publicos,18030,gasto 4,transferencia,usuario 1
+454,14/03/2021,gastos administrativos,31561,gasto 5,tarjeta de debito,usuario 2
+455,08/01/2022,servicios publicos,29157,gasto 5,tarjeta de debito,usuario 2
+456,01/11/2022,servicios publicos,15755,gasto 2,efectivo,usuario 2
+457,02/08/2021,alquiler,22672,gasto 1,otro,usuario 2
+458,23/10/2021,gastos administrativos,37961,gasto 4,tarjeta de debito,usuario 1
+459,13/09/2023,mantenimiento,50198,gasto 5,codigo QR,usuario 1
+460,27/04/2023,"muebles, equipos o maquinaria",27386,gasto 1,otro,usuario 1
+461,03/10/2023,"muebles, equipos o maquinaria",22210,gasto 1,codigo QR,usuario 1
+462,15/04/2021,servicios publicos,26245,gasto 1,tarjeta de credito,usuario 1
+463,21/02/2021,compra de productos e insumos,34001,gasto 3,efectivo,usuario 2
+464,17/03/2022,transporte,21783,gasto 5,tarjeta de debito,usuario 2
+465,19/07/2023,gastos administrativos,13340,gasto 4,codigo QR,usuario 2
+466,11/11/2022,gastos administrativos,32811,gasto 5,efectivo,usuario 2
+467,21/06/2021,transporte,31642,gasto 4,transferencia,usuario 1
+468,19/09/2021,compra de productos e insumos,42211,gasto 5,codigo QR,usuario 2
+469,19/12/2022,mantenimiento,29130,gasto 4,transferencia,usuario 2
+470,20/02/2023,servicios publicos,29142,gasto 1,otro,usuario 1
+471,15/12/2021,mantenimiento,47537,gasto 3,tarjeta de debito,usuario 2
+472,09/08/2021,otros,38578,gasto 4,codigo QR,usuario 2
+473,14/06/2021,gastos administrativos,42833,gasto 2,otro,usuario 2
+474,30/06/2023,compra de productos e insumos,29117,gasto 4,tarjeta de credito,usuario 2
+475,17/04/2021,servicios publicos,16185,gasto 2,transferencia,usuario 1
+476,02/09/2022,servicios publicos,39210,gasto 2,transferencia,usuario 1
+477,07/02/2021,compra de productos e insumos,32569,gasto 5,otro,usuario 1
+478,10/01/2023,compra de productos e insumos,21341,gasto 1,otro,usuario 2
+479,05/08/2022,compra de productos e insumos,43083,gasto 4,tarjeta de credito,usuario 1
+480,11/10/2021,mantenimiento,20045,gasto 1,transferencia,usuario 2
+481,23/01/2023,alquiler,40821,gasto 1,transferencia,usuario 2
+482,16/12/2021,"muebles, equipos o maquinaria",28490,gasto 4,otro,usuario 2
+483,13/10/2021,mantenimiento,20384,gasto 2,otro,usuario 2
+484,31/03/2022,gastos administrativos,48111,gasto 5,efectivo,usuario 2
+485,15/10/2023,servicios publicos,50610,gasto 1,otro,usuario 2
+486,24/09/2023,mantenimiento,18815,gasto 5,efectivo,usuario 2
+487,10/06/2023,otros,27836,gasto 4,tarjeta de credito,usuario 1
+488,15/02/2021,publicidad,54803,gasto 2,transferencia,usuario 2
+489,29/06/2022,"muebles, equipos o maquinaria",24704,gasto 2,otro,usuario 2
+490,08/02/2023,alquiler,48915,gasto 4,transferencia,usuario 2
+491,08/12/2021,"muebles, equipos o maquinaria",38104,gasto 4,efectivo,usuario 1
+492,03/12/2021,gastos administrativos,43626,gasto 4,tarjeta de debito,usuario 1
+493,25/10/2022,compra de productos e insumos,47935,gasto 2,transferencia,usuario 1
+494,09/08/2022,publicidad,53577,gasto 4,codigo QR,usuario 1
+495,01/10/2023,transporte,51700,gasto 4,tarjeta de debito,usuario 2
+496,28/07/2022,"muebles, equipos o maquinaria",30705,gasto 5,efectivo,usuario 2
+497,19/06/2022,compra de productos e insumos,27048,gasto 2,tarjeta de credito,usuario 1
+498,08/11/2021,alquiler,21028,gasto 4,codigo QR,usuario 2
+499,09/09/2022,publicidad,36636,gasto 1,efectivo,usuario 1
+500,04/03/2021,mantenimiento,18407,gasto 2,tarjeta de debito,usuario 1

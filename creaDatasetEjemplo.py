@@ -19,9 +19,13 @@ productos_precios = {
 
 # Generar datos
 data = []
-for i in range(2001):
+start_date = datetime(2021, 1, 1)
+end_date = datetime(2023, 12, 31)
+delta = end_date - start_date
+
+for i in range(delta.days + 1):
     idVenta = i
-    fecha = (datetime(2022, 1, 1) + timedelta(days=i)).strftime('%d/%m/%Y')
+    fecha = (start_date + timedelta(days=i)).strftime('%d/%m/%Y')
     hora = '{:02d}:{:02d}'.format(randint(9, 22), randint(0, 59))
     sucursal = f"sucursal {randint(1, 3)}"
     producto = f"producto {randint(1, 10)}"
