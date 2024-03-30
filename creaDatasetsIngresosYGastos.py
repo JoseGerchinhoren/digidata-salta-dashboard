@@ -13,7 +13,8 @@ df['sucursal'] = df['sucursal'].apply(lambda x: "Argentina" if x == "Chile" else
 ingresos_data = []
 for i, row in enumerate(df.itertuples(), start=0):
     idIngreso = i
-    fecha = row.Fecha
+    # Cambiar las fechas de 2018 a 2022, 2019 a 2023 y 2020 a 2024
+    fecha = row.Fecha.replace(year=row.Fecha.year + 4)
     hora = '{:02d}:{:02d}'.format(randint(9, 22), randint(0, 59))
     sucursal = row.sucursal
     producto = f"producto {randint(1, 10)}"
@@ -35,7 +36,8 @@ print("Archivo de ingresos generado y guardado como 'ingresos_digiData.csv'")
 gastos_data = []
 for i, row in enumerate(df.itertuples(), start=0):
     idGasto = i
-    fecha = row.Fecha
+    # Cambiar las fechas de 2018 a 2022, 2019 a 2023 y 2020 a 2024
+    fecha = row.Fecha.replace(year=row.Fecha.year + 4)
     sucursal = row.sucursal
     categoria = choice(["servicios publicos", "compra de productos e insumos", "alquiler", "gastos administrativos", "publicidad", "transporte", "mantenimiento", "muebles, equipos o maquinaria", "otros"])
     gasto = row.Gastos
