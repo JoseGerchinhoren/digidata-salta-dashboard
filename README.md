@@ -5,41 +5,6 @@ Dashboard Financiero - DigiData Salta
 
 Este repositorio contiene archivos y scripts relacionados con un dashboard financiero, con datos ficticios, desarrollado en PowerBI, para tener de ejemplo para mi emprendimiento DigiData Salta.
 
-Archivos del Repositorio
-------------------------
-
-### `creaDatasetsIngresosYGastos.py`
-
-Este script Python genera conjuntos de datos simulados para ingresos y gastos basados en un archivo de Excel ficticio. Utiliza Pandas para procesar los datos y generar archivos CSV con información detallada sobre ingresos y gastos.
-
-#### Descripción del Script:
-
-*   Lee un archivo de Excel llamado "Finanzas DigiData Salta - ficticio.xlsx".
-*   Procesa los datos para generar datos de ingresos y gastos ficticios.
-*   Guarda los datos generados como archivos CSV: `ingresos_digiData.csv` y `gastos_digiData.csv`.
-
-### `creaDatasetBeneficios.py`
-
-Este script Python crea un conjunto de datos simulado para los beneficios combinando datos de ingresos y gastos. Utiliza Pandas para procesar los datos y calcular los beneficios.
-
-#### Descripción del Script:
-
-*   Carga archivos CSV de ingresos y gastos.
-*   Agrupa los datos por año, mes y sucursal.
-*   Calcula los beneficios restando los gastos de los ingresos.
-*   Guarda los datos de beneficios como un archivo CSV: `beneficios_digiData.csv`.
-
-### `digiDataSalta - dashboard ejemplo.pbix`
-
-Este archivo es un dashboard financiero desarrollado en Power BI. Proporciona visualizaciones interactivas basadas en datos ficticios de ingresos, gastos y beneficios. Ver detalles más adelante.
-
-### Otros Archivos
-
-*   `gastos_digidata.csv`: Archivo CSV generado por `creaDatasetsIngresosYGastos.py` que contiene información detallada sobre gastos.
-*   `ingresos_digiData.csv`: Archivo CSV generado por `creaDatasetsIngresosYGastos.py` que contiene información detallada sobre ingresos.
-*   `Finanzas DigiData Salta - ficticio.xlsx`: Archivo de Excel ficticio que proporciona datos de finanzas simulados, utilizado como entrada para generar datos de ingresos y gastos.
-*   `beneficios_digiData.csv`: Archivo CSV generado por `creaDatasetBeneficios.py` que contiene datos de beneficios combinados.
-
 Detalles del Dashboard
 ---------------------------------
 
@@ -130,6 +95,41 @@ La página de Gastos ofrece una perspectiva detallada de los gastos en la empres
 
 Esta página proporciona una visión completa de los gastos de la empresa, permitiendo un análisis exhaustivo y una gestión eficiente de los recursos financieros.
 
+Archivos del Repositorio
+------------------------
+
+### `creaDatasetsIngresosYGastos.py`
+
+Este script Python genera conjuntos de datos simulados para ingresos y gastos basados en un archivo de Excel ficticio. Utiliza Pandas para procesar los datos y generar archivos CSV con información detallada sobre ingresos y gastos.
+
+#### Descripción del Script:
+
+*   Lee un archivo de Excel llamado "Finanzas DigiData Salta - ficticio.xlsx".
+*   Procesa los datos para generar datos de ingresos y gastos ficticios.
+*   Guarda los datos generados como archivos CSV: `ingresos_digiData.csv` y `gastos_digiData.csv`.
+
+### `creaDatasetBeneficios.py`
+
+Este script Python crea un conjunto de datos simulado para los beneficios combinando datos de ingresos y gastos. Utiliza Pandas para procesar los datos y calcular los beneficios.
+
+#### Descripción del Script:
+
+*   Carga archivos CSV de ingresos y gastos.
+*   Agrupa los datos por año, mes y sucursal.
+*   Calcula los beneficios restando los gastos de los ingresos.
+*   Guarda los datos de beneficios como un archivo CSV: `beneficios_digiData.csv`.
+
+### `digiDataSalta - dashboard ejemplo.pbix`
+
+Este archivo es un dashboard financiero desarrollado en Power BI. Proporciona visualizaciones interactivas basadas en datos ficticios de ingresos, gastos y beneficios. Ver detalles más adelante.
+
+### Otros Archivos
+
+*   `gastos_digidata.csv`: Archivo CSV generado por `creaDatasetsIngresosYGastos.py` que contiene información detallada sobre gastos.
+*   `ingresos_digiData.csv`: Archivo CSV generado por `creaDatasetsIngresosYGastos.py` que contiene información detallada sobre ingresos.
+*   `Finanzas DigiData Salta - ficticio.xlsx`: Archivo de Excel ficticio que proporciona datos de finanzas simulados, utilizado como entrada para generar datos de ingresos y gastos.
+*   `beneficios_digiData.csv`: Archivo CSV generado por `creaDatasetBeneficios.py` que contiene datos de beneficios combinados.
+
 ---
 
 # README in English
@@ -139,40 +139,7 @@ Financial Dashboard - DigiData Salta
 
 This repository contains files and scripts related to a financial dashboard, with fictitious data, developed in Power BI, as an example for my venture DigiData Salta.
 
-Repository Files
-----------------
 
-### `creaDatasetsIngresosYGastos.py`
-
-This Python script generates simulated datasets for income and expenses based on a fictitious Excel file. It uses Pandas to process the data and generate CSV files with detailed information about income and expenses.
-
-#### Script Description:
-
-*   Reads an Excel file named "Finanzas DigiData Salta - ficticio.xlsx".
-*   Processes the data to generate fictitious income and expense data.
-*   Saves the generated data as CSV files: `ingresos_digiData.csv` and `gastos_digiData.csv`.
-
-### `creaDatasetBeneficios.py`
-
-This Python script creates a simulated dataset for profits by combining income and expense data. It uses Pandas to process the data and calculate profits.
-
-#### Script Description:
-
-*   Loads CSV files of income and expenses.
-*   Groups the data by year, month, and branch.
-*   Calculates profits by subtracting expenses from income.
-*   Saves the profit data as a CSV file: `beneficios_digiData.csv`.
-
-### `digiDataSalta - dashboard ejemplo.pbix`
-
-This file is a financial dashboard developed in Power BI. It provides interactive visualizations based on fictitious income, expense, and profit data. See details below.
-
-### Other Files
-
-*   `gastos_digidata.csv`: CSV file generated by `creaDatasetsIngresosYGastos.py` containing detailed information about expenses.
-*   `ingresos_digiData.csv`: CSV file generated by `creaDatasetsIngresosYGastos.py` containing detailed information about income.
-*   `Finanzas DigiData Salta - ficticio.xlsx`: Fictitious Excel file providing simulated finance data, used as input to generate income and expense data.
-*   `beneficios_digiData.csv`: CSV file generated by `creaDatasetBeneficios.py` containing combined profit data.
 
 Dashboard Details
 -----------------
@@ -265,3 +232,38 @@ The Expenses page offers a detailed perspective of expenses in the company. Here
  multiple selection option.
 
 This page provides a comprehensive view of the company's expenses, enabling thorough analysis and efficient management of financial resources.
+
+Repository Files
+----------------
+
+### `creaDatasetsIngresosYGastos.py`
+
+This Python script generates simulated datasets for income and expenses based on a fictitious Excel file. It uses Pandas to process the data and generate CSV files with detailed information about income and expenses.
+
+#### Script Description:
+
+*   Reads an Excel file named "Finanzas DigiData Salta - ficticio.xlsx".
+*   Processes the data to generate fictitious income and expense data.
+*   Saves the generated data as CSV files: `ingresos_digiData.csv` and `gastos_digiData.csv`.
+
+### `creaDatasetBeneficios.py`
+
+This Python script creates a simulated dataset for profits by combining income and expense data. It uses Pandas to process the data and calculate profits.
+
+#### Script Description:
+
+*   Loads CSV files of income and expenses.
+*   Groups the data by year, month, and branch.
+*   Calculates profits by subtracting expenses from income.
+*   Saves the profit data as a CSV file: `beneficios_digiData.csv`.
+
+### `digiDataSalta - dashboard ejemplo.pbix`
+
+This file is a financial dashboard developed in Power BI. It provides interactive visualizations based on fictitious income, expense, and profit data. See details below.
+
+### Other Files
+
+*   `gastos_digidata.csv`: CSV file generated by `creaDatasetsIngresosYGastos.py` containing detailed information about expenses.
+*   `ingresos_digiData.csv`: CSV file generated by `creaDatasetsIngresosYGastos.py` containing detailed information about income.
+*   `Finanzas DigiData Salta - ficticio.xlsx`: Fictitious Excel file providing simulated finance data, used as input to generate income and expense data.
+*   `beneficios_digiData.csv`: CSV file generated by `creaDatasetBeneficios.py` containing combined profit data.
