@@ -21,29 +21,31 @@ La página de inicio del dashboard presenta una interfaz simple y accesible para
 
 * * *
 
-### Página de Beneficios
-<img src="img\dashboard pagina beneficios.PNG" alt="Pagina Beneficios de Dashboard" width="85%">
+### Página de Ganancias
 
-La página de Beneficios proporciona un análisis detallado de los beneficios obtenidos por la empresa. Características y elementos destacados de esta página:
+<img src="img\\dashboard pagina ganancias.PNG" alt="Página de Ganancias del Tablero" width="85%">
+
+La página de Ganancias proporciona un análisis detallado de las ganancias obtenidas por la empresa. Características y elementos destacados de esta página:
 
 *   **Tarjetas:**
     
     *   Total de Ingresos: Muestra la suma total de ingresos registrados.
     *   Total de Gastos: Indica la suma total de gastos incurridos.
-    *   Total de Beneficios: Calcula la diferencia entre los ingresos y los gastos, representando así el beneficio neto.
-    *   KPI % Margen: Presenta el porcentaje de margen de beneficio, con un indicador visual que señala si se alcanza el objetivo del 15%.
+    *   Total de Ganancias: Calcula la diferencia entre los ingresos y los gastos, representando así la ganancia neta.
+    *   KPI % Margen: Presenta el porcentaje de margen de ganancia, con un indicador visual que señala si se alcanza el objetivo del 15%.
 *   **Gráficos y Tablas:**
     
-    *   **Gráfico de Columnas "Total Beneficios por Mes":** Representa la evolución mensual de los beneficios.
-    *   **Tabla de "Total Beneficios por Mes":** Proporciona una desglose detallado por año y mes, incluyendo los totales de ingresos, gastos, beneficios y el porcentaje de margen, con indicadores visuales.
-    *   **Gráfico de Barras "Total Beneficios por Sucursal":** Muestra la distribución de beneficios entre las distintas sucursales.
-    *   **Tabla "Total Beneficios por Sucursal":** Detalla los beneficios generados por cada sucursal, junto con el porcentaje de margen.
+    *   **Gráfico de Columnas "Total Ganancias por Mes":** Representa la evolución mensual de las ganancias.
+    *   **Tabla de "Total Ganancias por Mes":** Proporciona un desglose detallado por año y mes, incluyendo los totales de ingresos, gastos, ganancias y el porcentaje de margen, con indicadores visuales.
+    *   **Gráfico de Líneas "Previsión de Ganancias para los Próximos Meses":** Presenta una proyección de las ganancias esperadas en los siguientes seis meses, fundamentada en el análisis histórico de datos financieros.
+    *   **Gráfico de Barras "Total Ganancias por Sucursal":** Muestra la distribución de ganancias entre las distintas sucursales.
+    *   **Tabla "Total Ganancias por Sucursal":** Detalla las ganancias generadas por cada sucursal, junto con el porcentaje de margen.
 *   **Segmentadores:**
     
     *   Segmentador de Año: Permite seleccionar un año específico para filtrar los datos.
     *   Segmentador de Sucursal: Permite seleccionar una o varias sucursales para visualizar los datos correspondientes.
 
-Esta página proporciona una visión detallada de los beneficios financieros de la empresa, permitiendo un análisis profundo y una toma de decisiones informada.
+Esta página proporciona una visión detallada de las ganancias financieras de la empresa, permitiendo un análisis profundo y una toma de decisiones informada.
 
 ### Página de Ingresos
 <img src="img\dashboard pagina ingresos.PNG" alt="Pagina Ingresos de Dashboard" width="85%">
@@ -57,9 +59,10 @@ La página de Ingresos proporciona una visión detallada de los ingresos generad
     *   KPI Ingresos Mes Actual: Indica si se alcanza el objetivo establecido para los ingresos del mes actual, con un indicador visual.
 *   **Gráficos y Tablas:**
     
-    *   **Gráfico de Columnas "Total Ingresos por Mes":** Presenta la evolución mensual de los ingresos.
-    *   **Tabla de "Total Ingresos por Mes":** Detalla los ingresos por año y mes, incluyendo el porcentaje de diferencia con respecto al mes anterior, con indicadores visuales de aumento o disminución.
-    *   **Tabla "Productos más Vendidos":** Muestra los productos ordenados por sus ingresos totales, lo que facilita la identificación de los productos más populares.
+    *   **Gráfico de Columnas "Ingresos por Mes":** Presenta la evolución mensual de los ingresos.
+    *   **Tabla de "Ingresos por Mes":** Detalla los ingresos por año y mes, incluyendo el porcentaje de diferencia con respecto al mes anterior, con indicadores visuales de aumento o disminución.
+    *   **Gráfico de Líneas "Previsión de Ingresos para los Próximos Meses":** Presenta una proyección de los ingresos esperadas en los siguientes seis meses, fundamentada en el análisis histórico de datos financieros.
+    *   **Tabla "Ingresos por Productos":** Muestra los productos ordenados por sus ingresos totales, lo que facilita la identificación de los productos que generan mayor ingreso.
     *   **Gráficos de Columnas "Ingresos por Sucursal", "Ingresos por Método de Pago" y "Ingresos por Usuario":** Ofrecen una perspectiva detallada de los ingresos desglosados por sucursal, método de pago y usuario.
 *   **Segmentadores:**
     
@@ -83,8 +86,8 @@ La página de Gastos ofrece una perspectiva detallada de los gastos en la empres
     *   KPI Gastos Mes Actual: Indica si se supera el límite establecido para los gastos del mes actual, con un indicador visual.
 *   **Gráficos y Tablas:**
     
-    *   **Gráfico de Columnas "Total Gastos por Mes":** Presenta la evolución mensual de los gastos.
-    *   **Tabla de "Total Gastos por Mes":** Detalla los gastos por año y mes, incluyendo el porcentaje de diferencia con respecto al mes anterior, con indicadores visuales de aumento o disminución.
+    *   **Gráfico de Columnas "Gastos por Mes":** Presenta la evolución mensual de los gastos.
+    *   **Tabla de "Gastos por Mes":** Detalla los gastos por año y mes, incluyendo el porcentaje de diferencia con respecto al mes anterior, con indicadores visuales de aumento o disminución.
     *   **Gráfico de Barras "Gastos por Categoría":** Muestra los gastos ordenados por categoría, facilitando la identificación de las áreas de mayor gasto.
     *   **Gráficos de Columnas "Gastos por Sucursal", "Gastos por Método de Pago" y "Gastos por Usuario":** Ofrecen una perspectiva detallada de los gastos desglosados por sucursal, método de pago y usuario.
 *   **Segmentadores:**
@@ -135,135 +138,125 @@ Este archivo es un dashboard financiero desarrollado en Power BI. Proporciona vi
 # README in English
 
 Financial Dashboard - DigiData Salta
-=========================================
+=====================================
 
-This repository contains files and scripts related to a financial dashboard, with fictitious data, developed in Power BI, as an example for my venture DigiData Salta.
+This repository contains files and scripts related to a financial dashboard, with fictional data, developed in Power BI, as an example for my venture DigiData Salta.
 
+## Dashboard Details
 
-
-Dashboard Details
------------------
-
-The file `digiDataSalta - dashboard ejemplo.pbix` is an interactive dashboard developed in Power BI. It contains the following:
+The file `digiDataSalta - example dashboard.pbix` is an interactive dashboard developed in Power BI. It contains the following:
 
 ### Home Page
 
-<img src="img\dashboard pagina inicio.PNG" alt="Dashboard Home Page" width="85%">
+<img src="img\dashboard pagina inicio.PNG" alt="Pagina Inicio de Dashboard" width="85%">
 
-The dashboard's home page presents a simple and accessible interface for navigating to its main sections. Features of this page include:
+The dashboard's home page presents a simple and accessible interface to navigate to its main sections. Features of this page include:
 
-*   **DigiData Salta Logo:** Displays the company logo for quick identification.
-*   **Navigation Buttons:** Clearly labeled buttons allow access to key sections of the dashboard, including Profits, Income, and Expenses.
+* **DigiData Salta Logo:** Displays the company logo for quick identification.
+* **Navigation Buttons:** Clearly labeled buttons are provided to access key sections of the dashboard, including Profits, Revenues, and Expenses.
 
 * * *
 
 ### Profits Page
-<img src="img\dashboard pagina beneficios.PNG" alt="Dashboard Profits Page" width="85%">
+
+<img src="img\\dashboard pagina ganancias.PNG" alt="Página de Ganancias del Tablero" width="85%">
 
 The Profits page provides a detailed analysis of the profits earned by the company. Features and highlights of this page include:
 
-*   **Cards:**
-    
-    *   Total Income: Displays the total sum of recorded income.
-    *   Total Expenses: Indicates the total sum of incurred expenses.
-    *   Total Profits: Calculates the difference between income and expenses, representing the net profit.
-    *   % Margin KPI: Presents the percentage profit margin, with a visual indicator signaling if the 15% target is achieved.
-*   **Charts and Tables:**
-    
-    *   **Column Chart "Total Profits per Month":** Represents the monthly evolution of profits.
-    *   **Table "Total Profits per Month":** Provides a detailed breakdown by year and month, including totals of income, expenses, profits, and the margin percentage, with visual indicators.
-    *   **Bar Chart "Total Profits per Branch":** Displays the distribution of profits among different branches.
-    *   **Table "Total Profits per Branch":** Details the profits generated by each branch, along with the margin percentage.
-*   **Slicers:**
-    
-    *   Year Slicer: Allows selection of a specific year to filter the data.
-    *   Branch Slicer: Allows selection of one or multiple branches to view corresponding data.
+* **Cards:**
+    * Total Revenues: Displays the total sum of recorded revenues.
+    * Total Expenses: Indicates the total sum of incurred expenses.
+    * Total Profits: Calculates the difference between revenues and expenses, thus representing the net profit.
+    * KPI % Margin: Presents the profit margin percentage, with a visual indicator indicating whether the 15% target is achieved.
+* **Charts and Tables:**
+    * **Column Chart "Total Profits per Month":** Represents the monthly evolution of profits.
+    * **Table "Total Profits per Month":** Provides a detailed breakdown by year and month, including totals of revenues, expenses, profits, and the margin percentage, with visual indicators.
+    * **Line Chart "Profit Forecast for the Next Months":** Presents a projection of expected profits over the next six months, based on historical financial data analysis.
+    * **Bar Chart "Total Profits per Branch":** Shows the distribution of profits among different branches.
+    * **Table "Total Profits per Branch":** Details the profits generated by each branch, along with the margin percentage.
+* **Slicers:**
+    * Year Slicer: Allows selecting a specific year to filter the data.
+    * Branch Slicer: Allows selecting one or more branches to visualize the corresponding data.
 
-This page provides a detailed view of the company's financial profits, enabling deep analysis and informed decision-making.
+This page provides a detailed insight into the company's financial profits, allowing for in-depth analysis and informed decision-making.
 
-### Income Page
-<img src="img\dashboard pagina ingresos.PNG" alt="Dashboard Income Page" width="85%">
+### Revenues Page
 
-The Income page provides a detailed view of the income generated by the company. Here are the featured elements and characteristics:
+<img src="img\dashboard pagina ingresos.PNG" alt="Pagina Ingresos de Dashboard" width="85%">
 
-*   **Cards:**
-    
-    *   Total Income: Displays the total sum of recorded income.
-    *   Average Monthly Income: Calculates the average monthly income.
-    *   Current Month Income KPI: Indicates whether the target set for the current month's income is achieved, with a visual indicator.
-*   **Charts and Tables:**
-    
-    *   **Column Chart "Total Income per Month":** Presents the monthly evolution of income.
-    *   **Table "Total Income per Month":** Details income by year and month, including the percentage difference from the previous month, with visual indicators of increase or decrease.
-    *   **Table "Top Selling Products":** Displays products ordered by their total income, facilitating identification of the most popular products.
-    *   **Column Charts "Income by Branch", "Income by Payment Method", and "Income by User":** Offer a detailed perspective of income broken down by branch, payment method, and user.
-*   **Slicers:**
-    
-    *   Year Slicer: Allows filtering of data by year, with single selection option.
-    *   Branch Slicer: Allows filtering of data by branch, with multiple selection option.
-    *   Payment Method Slicer: Allows filtering of data by payment method, with multiple selection option.
+The Revenues page provides a detailed view of the revenues generated by the company. Here are the highlighted elements and features:
 
-This page enables detailed analysis of income, allowing users to better understand income distribution and trends.
+* **Cards:**
+    * Total Revenues: Displays the total sum of recorded revenues.
+    * Average Monthly Revenues: Calculates the monthly average of revenues.
+    * KPI Current Month Revenues: Indicates whether the set target for revenues of the current month is achieved, with a visual indicator.
+* **Charts and Tables:**
+    * **Column Chart "Revenues per Month":** Presents the monthly evolution of revenues.
+    * **Table "Revenues per Month":** Details revenues by year and month, including the percentage difference compared to the previous month, with visual indicators of increase or decrease.
+    * **Line Chart "Revenue Forecast for the Next Months":** Presents a projection of expected revenues over the next six months, based on historical financial data analysis.
+    * **Table "Revenues per Products":** Shows products sorted by their total revenues, facilitating the identification of products generating higher income.
+    * **Column Charts "Revenues per Branch", "Revenues per Payment Method", and "Revenues per User":** Offer a detailed perspective of revenues broken down by branch, payment method, and user.
+* **Slicers:**
+    * Year Slicer: Allows filtering data by year, with single selection option.
+    * Branch Slicer: Allows filtering data by branch, with multiple selection option.
+    * Payment Method Slicer: Allows filtering data by payment method, with multiple selection option.
 
-* * *
+This page allows for a detailed analysis of revenues, enabling users to better understand the distribution and trends of the company's revenues.
 
 ### Expenses Page
-<img src="img\dashboard pagina gastos.PNG" alt="Dashboard Expenses Page" width="85%">
 
-The Expenses page offers a detailed perspective of expenses in the company. Here are the key elements and characteristics:
+<img src="img\dashboard pagina gastos.PNG" alt="Pagina Gastos de Dashboard" width="85%">
 
-*   **Summary Cards:**
-    
-    *   Total Expenses: Displays the total sum of recorded expenses.
-    *   Average Monthly Expenses: Calculates the average monthly expenses.
-    *   Current Month Expenses KPI: Indicates whether the set limit for the current month's expenses is exceeded, with a visual indicator.
-*   **Charts and Tables:**
-    
-    *   **Column Chart "Total Expenses per Month":** Presents the monthly evolution of expenses.
-    *   **Table "Total Expenses per Month":** Details expenses by year and month, including the percentage difference from the previous month, with visual indicators of increase or decrease.
-    *   **Bar Chart "Expenses by Category":** Displays expenses ordered by category, facilitating identification of areas of higher spending.
-    *   **Column Charts "Expenses by Branch", "Expenses by Payment Method", and "Expenses by User":** Offer a detailed perspective of expenses broken down by branch, payment method, and user.
-*   **Slicers:**
-    
-    *   Year Slicer: Allows filtering of data by year, with single selection option.
-    *   Branch Slicer: Allows filtering of data by branch, with multiple selection option.
-    *   Payment Method Slicer: Allows filtering of data by payment method, with
+The Expenses page offers a detailed perspective of expenses in the company. Here are the most important elements and features:
 
- multiple selection option.
+* **Summary Cards:**
+    * Total Expenses: Displays the total sum of recorded expenses.
+    * Average Monthly Expenses: Calculates the monthly average of expenses.
+    * KPI Current Month Expenses: Indicates whether the set limit for expenses of the current month is exceeded, with a visual indicator.
+* **Charts and Tables:**
+    * **Column Chart "Expenses per Month":** Presents the monthly evolution of expenses.
+    * **Table "Expenses per Month":** Details expenses by year and month, including the percentage difference compared to the previous month, with visual indicators of increase or decrease.
+    * **Bar Chart "Expenses per Category":** Shows expenses sorted by category, facilitating the identification of areas with higher expenditure.
+    * **Column Charts "Expenses per Branch", "Expenses per Payment Method", and "Expenses per User":** Offer a detailed perspective of expenses broken down by branch, payment method, and user.
+* **Slicers:**
+    * Year Slicer: Allows filtering data by year, with single selection option.
+    * Branch Slicer: Allows filtering data by branch, with multiple selection option.
+    * Payment Method Slicer: Allows filtering data by payment method, with multiple selection option.
 
-This page provides a comprehensive view of the company's expenses, enabling thorough analysis and efficient management of financial resources.
+This page provides a comprehensive view of the company's expenses, allowing for thorough analysis and efficient financial resource management.
 
-Repository Files
-----------------
+## Repository Files
 
 ### `creaDatasetsIngresosYGastos.py`
 
-This Python script generates simulated datasets for income and expenses based on a fictitious Excel file. It uses Pandas to process the data and generate CSV files with detailed information about income and expenses.
+This Python script generates simulated datasets for revenues and expenses based on a fictional Excel file. It uses Pandas to process the data and generate CSV files with detailed information on revenues and expenses.
 
 #### Script Description:
 
-*   Reads an Excel file named "Finanzas DigiData Salta - ficticio.xlsx".
-*   Processes the data to generate fictitious income and expense data.
-*   Saves the generated data as CSV files: `ingresos_digiData.csv` and `gastos_digiData.csv`.
+* Reads an Excel file named "Finanzas DigiData Salta - ficticio.xlsx".
+* Processes the data to generate fictitious revenues and expenses data.
+* Saves the generated data as CSV files: `ingresos_digiData.csv` and `gastos_digiData.csv`.
 
 ### `creaDatasetBeneficios.py`
 
-This Python script creates a simulated dataset for profits by combining income and expense data. It uses Pandas to process the data and calculate profits.
+This Python script creates a simulated dataset for profits by combining revenues and expenses data. It uses Pandas to process the data and calculate profits.
 
 #### Script Description:
 
-*   Loads CSV files of income and expenses.
-*   Groups the data by year, month, and branch.
-*   Calculates profits by subtracting expenses from income.
-*   Saves the profit data as a CSV file: `beneficios_digiData.csv`.
+* Loads CSV files of revenues and expenses.
+* Groups the data by year, month, and branch.
+* Calculates profits by subtracting expenses from revenues.
+* Saves profit data as a CSV file: `beneficios_digiData.csv`.
 
-### `digiDataSalta - dashboard ejemplo.pbix`
+### `digiDataSalta - example dashboard.pbix`
 
-This file is a financial dashboard developed in Power BI. It provides interactive visualizations based on fictitious income, expense, and profit data. See details below.
+This file is a financial dashboard developed in Power BI. It provides interactive visualizations based on fictional revenues, expenses, and profits data. See details above.
 
 ### Other Files
 
-*   `gastos_digidata.csv`: CSV file generated by `creaDatasetsIngresosYGastos.py` containing detailed information about expenses.
-*   `ingresos_digiData.csv`: CSV file generated by `creaDatasetsIngresosYGastos.py` containing detailed information about income.
-*   `Finanzas DigiData Salta - ficticio.xlsx`: Fictitious Excel file providing simulated finance data, used as input to generate income and expense data.
-*   `beneficios_digiData.csv`: CSV file generated by `creaDatasetBeneficios.py` containing combined profit data.
+* `gastos_digidata.csv`: CSV file generated by `creaDatasetsIngresosYGastos.py` containing detailed information about expenses.
+* `ingresos_digiData.csv`: CSV file generated by `creaDatasetsIngres
+
+osYGastos.py` containing detailed information about revenues.
+* `Finanzas DigiData Salta - ficticio.xlsx`: Fictional Excel file providing simulated finance data, used as input to generate revenues and expenses data.
+* `beneficios_digiData.csv`: CSV file generated by `creaDatasetBeneficios.py` containing combined profit data.
